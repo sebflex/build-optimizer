@@ -1,0 +1,1563 @@
+<?xml version="1.0"?>
+<ArrayOfPoEBuild xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <PoEBuild>
+    <name>Endgame Solo iir/iiq Groundslamer</name>
+    <description>Marauder, 95 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgEBAecPzBLZFCAUTRUgFy8YkRkuGekaPh0UIQIhNCFVJIsn7SmlKk0q9izpMZ41kjboOQ47Oz8nQT9KfUrITeNOKlBHUFBR5lRJVcZV1lhjWK9Z81uvXz9gxGTnZp5nWGegbqpyqXgNe4x8u3zZgKSDOId2iPGMz49Gn8uiAKZXpmSnMKloqW6sWayqtC-18rndwBrBBMWKxtjJmM9l0NDUj9w93Q3eweSt51LvDu988B_xrPIv8932SPrS_MX-jw==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Spectral Throw</name>
+    <description>Scion, 111 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgABAdwCcQSzBS0S4RRNFSAWbxcdGYUaOBv6HRQkqiXfJ-0ppSpNLOkxnjIJNZI26TrhOyg8LT8nRZZHfkp9SshMMkz_TeNOKlXGVvpZ81pSW69gS2EhZU1mnmegapNsFmxGbmluqnJscql0QXTteu982X1bg9uE2YTvh3aI8Y1-j0aQVZstm12iAKQZpMKmV6eEqJqpbqvFrFmsqq9stfK2Qbc-t7a-p8APwBrE9sWKxq7NmM5xz2XQ0NJN1e3dDd7G4oDi6uNq52PqYuss8B_yRfKX89360vxL_MX-Cv6P</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>2h Affordable/Noob-Friendly Spectral Throw/Heavy Strike Ranger</name>
+    <description>Ranger, 120 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgIAAF4B5wR-BS0ILg_MFCAVIBXwGJEZLhmOGlUa2xv6I_Yl3yftKS4ppSzpMZ4yCTJ-NZI26DpSOlg64UCgR35KfUrITeNOKlBHUFBUSVb6Vw1YY1ivWkhbr18_YEthIWSjZU1nm2egapNsFmxGbmluqnJscql07XgNeu98uHzZfXWD24TZhO-HGYcph2qHdojxjM-QbJuNnrmezZ_LpBmmV6ZkpzCpbqmUrFmsqrXytkG53bvjvqfAD8SixtjJmM5x0iHSTdN-1I_V7dlh3Q3nUudj7YPuDu8O73rv8PJF8932SPe--WP8S_zF_gr-j_66</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Ranger 2H Sword Affordable Cyclone Tank</name>
+    <description>Ranger, 104 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgIBAF4B5wR-BS0F-QbuCC4JlhDwFCAV8BjbGY4aVSFgI_Yl3ycgKaUxnjIBMgk0NTWSNug6WDqzOuFAoEd-Sn1N404qUEdW-livWkhbr2BLYSFko2VNZ6BsRnJsdO108XgNeu989X11hNmE74cZh2qHdojxiiKQbJsmm42euZ_Lo4qmV6cwqW6plKvFrFmvoq_rshm18sCmwPPBB896037UUtd-3Q3nY-sJ7YPuDu967_DyRfyJ_MX-Cv6P_rr5YxrbkAqXcGMXvYGZK25pvqf3vg==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Budget Physical-Life-Lightning Arrow Ranger/Scion</name>
+    <description>Ranger, 64 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgIAr-sB0aJA9PihIsSi3BW746fU_sgZ_hsBBfmjihXwmyY6WOjWMgEEfusUIuqyGYcZjb9rJM96UUdf4TB8qriV6X8rqn931419dEFW-vzF3Q1noFuvLOmHdk4qFSC0Gkp9KaUqTeLLPyclP0rIbqq18jWS_o-sWU3jiPGmVzGe_ro=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Budget Physical-Life-Lightning Arrow Ranger/Scion</name>
+    <description>Ranger, 106 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgIAr-sB0aJA9PihIsSi3BWn1P7IoaTh2yT951TVABXwOlgF-QR-o4qHGZsm6NYyAesUIuqyGY2_ayTPelFHX-EzDDB8qriV6f4rfytv8qp_GdV31znUjX3_3pUFdEGgn9nGIXZW-jKUMfr8xX8CdvfdDWegpuDKqVuvLOmHdk4qFSC0Gkp9KaWD2ypN4sv8Sz8nJT_OcUrIbBZuqrXyNZL-j6xZTeOI8aZX52Mxnv4Ktz5Bh_nogsco-uvuuJOnCI9G0NCBSZuhz2WyOGe9VcZmT-5vFm8=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Budget Physical-Life-Lightning Arrow Ranger/Scion</name>
+    <description>Ranger, 84 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgIAr-sB0aJA9PihIsSi3BWn1P7IGf4bAQX5o4oV8JsmOljo1jIBBH7rFCLqshmHGY2_ayTPelFHX-EwfKq4lel_K6p_d9eNfZUFdEHZxlb6MpT8xX8C3Q1noKbgW68s6Yd2TioVILQaSn0ppSpN4ss_JyU_SshuqrXyNZL-j6xZTeOI8aZX52Mxnv4Ktz5Bh_nogsco-uvuuJOnCI9G0NCboc9lZ71Vxu5v</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>IB + AoF + MoM</name>
+    <description>Marauder, 99 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgEBxthYY1BQjM_2SF8_VEnnUu8Oud3UjxkuJ-3z3ayqcql82VnzwBqQVaeEGjjsODrYLdJX4nflMokEsxRN8B-iAKlogzjvfGae-tI26eNqJKoZhR0Uj0bQ0M9lVcYWb9lhVw2Rzrvt0iGezXbnxPY8Lcautz7-CudjiPGsWfJFOuGmVzGeTeP-jzWSpzAUIFBHAec26GSjGlVhIRLhhO907XrvYEsFLUCgIWB08YUyh2qQbKmUhNllTUd-bmnEuNX4QYf56K-N</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Scion Spectral Throw 2H Sword</name>
+    <description>Scion, 32 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgAABS0aVSFgMZ4yfjQ1NZI26DpSQKBKyE3jWK9aUmBLYSFko26qdO14DXrvhO-bXZ65pleomqlutfLBB9d-8pf-jw==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Scion Spectral Throw 2H Sword</name>
+    <description>Scion, 60 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgAAAecFLQbuFCAY2xpVIWAppTGeMgkyfjQ1NZI26DpSQKBHfkrITeNOKlBHWK9aUluvYEthIWMXZKNlTWxGbmluqnJsdO108XgNeu-E2YTvh2qI8ZBsl3CbXZ65plenMKiaqW6plKvFrFm18r6nwQfUUtd-8pf3vv6P</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Scion Spectral Throw 2H Sword</name>
+    <description>Scion, 92 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgAAAecFLQbuCZYQ8BLhFCAY2xpVG_ohYCP2Jd8nICmlMZ4xsDIJMn40NTWSNug6UkCgR35KfUrITeNOKlBHVvpYr1pIWlJbr2BLYSFjF2SjZU1noGxGbmluqnJsdO108XgNeu989YTZhO-Haod2iPGKIpBsl3CbXZ65o-ekGaZXpzComqluqZSrxaxZr6K18r6nwA_ApsDzwQfL9dJN037UUtd-3Q3nD-sJ7g7veu_w8pf3vvyJ_MX-jw==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Scion Spectral Throw 2H Sword</name>
+    <description>Scion, 113 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgAAAecB_wOWBS0G7gmWC6oQ8BLhFCAUcRjbGlUbqhv6IWAj9iXfJyAppTGeMbAyCTJ-NDU0ODWSNug6UjrhOyhAoEd-Sn1KyE3jTipQR1YEVvpYr1pIWlJbr2BDYEthIWFSYxdko2VNZ6BsRm1Kbj1uaW6qcmx07XTxeA1673z1gTqDCYTZhO-GYIdqh3aI7YjxiiKQbJdwm12euZ_Lo-ekGaZXpzComqluqZSrxaxZr6K18r6nwA_ApsDzwQfL9dJN037UUtd-3Q3nD-dj6wnuDu967_DyRfKX9778ifzF_gr-jw==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Eye of the Storm - CoC+Cyclone+Discharge</name>
+    <description>Scion, 35 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgABvryC5JARiq9KyG6qtfI1kqxZiPH-j03jplcxnqlubEZybDIJeA1YrzboAedkoxpVYSGE73TtXhMbyEMxtkFOKmqT1e3ADw==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Eye of the Storm - CoC+Cyclone+Discharge</name>
+    <description>Scion, 73 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgABvryC5JARiq9KyG6qtfI1kqxZiPH-j03jplcxnqlubEZybDIJeA1YrzboAedkoxpVYSGE73TtXhMbyEMxtkFOKmqT1e3ADzrh8kX-CudjOygDlm49YEODCZ_LKaV672BLpzAUIFBHRnG0DJMnHNx_xsHFiELyHZAbcFaaE9vUEZado_yrVuoFfSepWm0kPKdcSVE=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Eye of the Storm - CoC+Cyclone+Discharge</name>
+    <description>Scion, 106 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgABvryC5JARiq9KyG6qtfI1kqxZiPH-j03jplcxnqlubEZybDIJeA1YrzboAedkoxpVYSGE73TtXhMbyEMxtkFOKmqT1e3ADzrh8kX-CudjOygDlm49YEODCZ_LKaV672BLpzAUIFBHRnG0DJMnHNx_xsHFiELyHZAbcFaaE9vUEZado_yrVuoFfSepWm0kPKdcSVEOSJ2qYqzWneOEwFFw1XBSXfLz6nC72RMvb-GIFz6bg1PfrK8S4WNDns3SIVcNkc77qqC0hym31thN8XZ-Wen-uXw=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Just Theoretical Full Tank Scion v1 (waiting comment&amp;#39;s)</name>
+    <description>Scion, 107 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgAAOygZouQIBdNMMuKAIJxRTBmGkvOsR5LN6yxFln1bykrDOpu1Kk0VICzpWz1OKimlIuro1s3qBbXndGHih9vrY5matvcRL7TFwuxHBl9qytMZtGqT1e3AD9JNb56DCUZxtAw0ClfJAW88joRI6ro3g6brLKY3Ztvnj_rsGMNtwcUsv4auFdfXhlZjKPrr7riTEdunCI9GHRT60maecU2az0NjtzFY9Z3EFkCFfSlP7Dg62E3YjHaePIFvvqduaYTZJd8b-qQZKwrBANsaEHv1S746tkHe9g==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>EB + Mind on Matter / Tank EK Scion</name>
+    <description>Scion, 106 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgABBS0IZxUgFm8YPBjbGYUc3B0UHpQhYCQ8JKonqSj6KaUqTSzpLagxnjWSNuk6szrhPydAoENjRZ1GcUlRSn1KyEw1TeNOKlXGWPVaUlptW69gS2KVZp5noGwWbqpxTXTtdPF4unqqeu9_xoIegseDCYPbhTKHdojxj0aTJ5M6ms-a4JtdncSeuZ97oqOmV6cIp1yomqw_rFmxkLJwtAy18rcxt9a4k70nwfPOcc9l0NDbC9tZ3FfdDd6w42rjgucL52Pr7vJF8pf56PrS_Ev8xf4K_o8=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Freeze Tank</name>
+    <description>Witch, 116 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgMBAW8C_gVCB2MOSBB7ES8RUBGWFdcWvxzcHRQd2SMxKPopTysKLJwspiy_LR8y0TQKN2Y3gzvhPI5BlkLDQ1RFR0ZxRtdMs0-_UDBWY1crV8lcil3GXfJfKmBtY0NtGW-ec1N1in1Tfll_xoIQgluCm4LHgwmESIV9hq6H24hCiGuJa4t6jDaPRpDWkyeZmp2Aoi6io6brpwinK6iiqvius7QMtMW1BLaGtve4k7vWvjrAVMEAwcXB88Lsw23KStQF14ba3dsa217dBd3z34TfsOL344TkIuaB6XPquutj6-Tr7uwY7HTyHfLh9Uv56A==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>LS/Reave/Flicker Ci Crit Phys Dagger</name>
+    <description>Shadow, 111 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgYBBLEFfQW1B2MM8g5IEHsRLxFQEZYVGhXXFr8Z1RrbHhohAyT9J6koKisKLL8s4S9vMFQzDDvhPs9HBkxgUUdWY1bqVvVXK19qY0Nl8W0ZcFJwVnC7cNV5SH3jfll_xoauh9uIQowLjb-OipAblWaX0JlXmZqaE52jnyeio6XLpn-nK6c0rGaxs7TFtUi297k-uXy7fLvWvea-OsBRwFTBAMHFwfPC7MNtzerVANeG18vYdtkT2xrbbtvU4vfjhOaB51Tp_usU62PsGOyw7UHz6vVL-WP68fyr_iv_k__e</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name> Looking for advice CI crit shadow elemental cleave</name>
+    <description>Shadow, 120 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgYABAcFtQ_EEHsRLxFQFdcWQBa_GdUZ1x0UHwIhwCRqKU8rCiy_LR8yiTMMNsU62Dt8O-FDY0cGTLNN2FAwUUdWY1fiWPVZ81qmXvpfamNDZk9mnm0ZbWxwUnDVcU12EXflfq9_xoFJgW-Cm4V9hq6H24hri3qMdo0Zjb-PRo_6kn2T_JhvmZqaz53Enjyio6cIpyuuz7I4sw60xbVItve3Mbg3uMq71r46wBrAUcEAwbTBxcHzwuzDbcy31XXXhtgk2xrb59zH3YzgEuL344Tk7OXP5kzpc-tj647sGOw48s7y4fPq9Uv60vyr_iv_k__e</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Faith&amp;#39;s Flame</name>
+    <description>Templar, 120 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgUBAW8EBwVbEVAV1xnpGjIdFB3ZHwIkiyjFKPopTyqNLJwspiy_LR8xATKJNAo1gDbFNtg3RzdmN4M62DvhPI5BP0NUQ2NFR0bXSRtMNUyzTdhPfU-_UWBR5lZjV8lX4lg9WPVZ81yKZp5nWGusbRlwfXFNcql35Xy7fNl_xoBWgSuBb4KbhEiFxYauh2WIuot6i4yMdo9GlIeXhZrPnC2drp3EnjyexaKjpuunCKcrqZWsqq-Nr7e0L7cxuJO71sAawcXB88Nt14bYJN6w3sHfsuFz4vfjguSt5nznC-q66-7sGOw47FXtIPO-9zL3wfrS</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Frost Witch Curse/Aura tank</name>
+    <description>Witch, 120 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgMBAnEEBwSzBUIHYxBpEHsRUBRNFLAV1xdUHNwd2R8CIoEkiyj6KwosnCymLL8wlzGJMtE0CjdmN4E3gzgbOYo6MDvhPI5BlkNURUdG10cGTUFN2E66T79WSlZjVytXyVm8Wmtcil3GX2pgbWh0bRl8u31Tf8aBb4IQgpuCx4M4hEiGrohCi3qMdo48jmSP-pDWkyeUoJUEnYCePJ6hnwGio6brpyusmK6zr5u0DLTFtQS2hrb6uJO71rx5vjrBAMHFwfPC7MNtxSjXhtpi2xrb593z37Di9-NW5CLk6-aB6rrr7uwY8h31S_Zb96b3wfno</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Spectral Melter</name>
+    <description>Shadow, 20 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgYBDkgWvx4aJpUqW1VLYeJte4fbpn-nNLGztUjAUdIZ1tHjhO1B8-r_kw==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Spectral Melter</name>
+    <description>Shadow, 43 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgYBBX0OSBGWFr8eGiQ8JpUnqSpbMHxJUVFHVUtW6lptYeJirG17d9d_K3_Gh9uNv52qpn-nNKdcsbO1SLl8wFHSGdad1tHe9uOE53To1un-6xTtQfPq_5M=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Spectral Melter</name>
+    <description>Shadow, 64 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgYBBX0OSBGWFr8eGiQ8JpUnqSmlKlswfElRSn1OKlFHVUtW6lb6Wm1br2HiYqxnoG17cFJwVnRBd9d_K3_Ggh6HdofbiEKNv5AbmhOdo52qpn-nNKdcsbO1SLl8wFHBxdIZ1p3W0dsL29TdDd7244TndOjW6f7rFO1B8-r8q_zF_5M=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Spectral Melter</name>
+    <description>Shadow, 104 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgYBBX0OSA_EEZYUdRa_GL0Z1RnXHNweGiLqJDwmlSepKaUqWytvLOEwfDMMNns67Tt8STtJUUp9TipRR1VLVupW-lptWqZbr176YeJirGNDZ6Bte3BScFZw1XRBd9d-WX8rf8aCHod2h9uIQohrjDaNfY2_joqP-pAbmhOdlp2jnaqio6Z_pzSnXKp_qrisZrGzskS0o7VIuMq5fMBRwcXDbc3q0hnWndbR2HbbC9vU3MfdDd7244TndOjW6f7rFOwY7UHxdvPq_Kv8xf4r_5P_3g==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Crit Discharger - DPS/Debuff Witch</name>
+    <description>Witch, 112 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgMBAecEBwVCES8S4RXXFkAWvxkuGlUdFB8CJ-0otSlPKjgsnCy_LR8t0jbFNug62EGWQ2NHBkyzTdhQMFWuVmNXDVj1WfNd8l76XypfamEhY0Nko2ZPZp5tGXBScNVxTYFJghCCHoV9hq6HKYhCiGuMdo9Gj_qRzpeVl_Saz53Ens2fy6LqpwinMKyqrrOyOLb3tzHAGsBRwcXB88Lsw23SIdeG2CTZYdrd217b59-w44Tr5OwY7DjvTvId8uHz3fPq-tL8q-QijmT3prb6UlM9Xzvh4venK5ma62Odo9A5F9g=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>GMP Freeze Pulse MAX BLOCK Tempest Shield Witch</name>
+    <description>Witch, 20 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgMBAuMHYwelCPQRUCycMYg74USrSbJVrlcrbRlzU3kDghCPprvW37DmgQ==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>GMP Freeze Pulse MAX BLOCK Tempest Shield Witch</name>
+    <description>Witch, 40 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgMBAuMEBwdjB6UI9BFQFVAZhR0UHwIkqiycLR8xiDbFNuk74USrSbJMs1AwVa5VxlcrbRlzU3kDghCPRo-mpwi71s9l0NDYJNrd37DjauaB-tI=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>GMP Freeze Pulse MAX BLOCK Tempest Shield Witch</name>
+    <description>Witch, 60 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgMBAuMEBwdjB6UI9BFQFVAWQBmFGjgdFB8CJKopTyycLR8xiDbFNuk62DvhQ2NEq0myTLNN2FAwVa5VxlcrWPVmT2aebRlxTXNTeQOBSYIQhX2Mdo9Gj6aQVZrPncSnCKeEsji3MbvWz2XQ0Ngk2t3fsONq5oHsOPrS</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>GMP Freeze Pulse MAX BLOCK Tempest Shield Witch</name>
+    <description>Witch, 80 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgMBAuMEBwdjB6UI9BFQFVAWQBmFGjgdFB8CJKopTyycLR8xiDZ7NsU26TrYO-FDY0SrRwZJO0myTLNN2FAwVa5VxlcrWPVe-l8qY0NmT2aebRlxTXNTeQOBSYIQgh6FfYhCjHaPRo-mj_qQVZrPncSnCKeEsji0o7cxu9bBxcHzwuzPZdDQ2CTa3dte2-ffsONq5oHr5OwY7DjyHfLh-tL8qw==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>GMP Freeze Pulse MAX BLOCK Tempest Shield Witch</name>
+    <description>Witch, 80 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgMBBAcHYxB7ES8RUBVQFdcWQB0UHwIpTysKLL8tHzbFOtg74UNjRwZMs03YUDBWY1crWPVe-l8qX2pjQ2ZPZp5tGXBScU1zU4FJgh6FfYauiEKIa4x2j0aP-pmams-dxKcIpyuyOLTFtve3MbvWvjrAUcEAwcXB88Ls0NDXhtgk2t3bGtte2-fi9-OE5oHrY-vk7BjsOPId8uHz6vVL-tL8qw==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>GMP Freeze Pulse MAX BLOCK Tempest Shield Witch</name>
+    <description>Witch, 101 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgMBAv4EBwdjEHsRLxFQFVAV1xZAFr8aMh0UHoEfAijFKU8rCisNLL8tHzbFOtg74ULDQ2NHBkuNTDVMs03YUDBRYFZjVytY9V3yXvpfKl9qY0NmT2aebRlwUnB9cNVxTXNTfuKBSYIehX2FxYauiEKIa4w2jHaPRo_6mZqaz53EpwinK6mVsji0xbb3tzG71r46wFHBAMHFwfPC7MNt14bYJNrd2xrbXtvn34Ti9-OE5nzmgetj6-TsGOw48h3y4fO-8-r1S_rS_Kv_HA==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>GMP Freeze Pulse MAX BLOCK Tempest Shield Witch</name>
+    <description>Witch, 105 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgMBAv4EBwdjEHsRLxFQFVAV1xZAFr8aMh0UHoEfAijFKU8rCisNLL8tHzKJNsU62DvhQsNDY0cGS41MNUyzTdhQMFFgVmNXK1fiWPVd8l76XypfamNDZk9mnm0ZcFJwfXDVcU1zU3flfuKBSYIegpuFfYXFhq6IQohrjDaMdo9Gj_qZmprPncSnCKcrqZWyOLTFtve3MbvWvjrAUcEAwcXB88Lsw23Xhtgk2t3bGtte2-ffhOL344TmfOaB62Pr5OwY7DjyHfLh877z6vVL-tL8q_8c</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Blood Dance 1H Sword and Shield Duelist</name>
+    <description>Duelist, 23 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgQBBS1AoEd-U99Y22BLZU1uaXTteu-E2YTvmSubg565q8Wsr72BvqfAD8S40k3V-A==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Blood Dance 1H Sword and Shield Duelist</name>
+    <description>Duelist, 50 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgQBAdwB5wUtFCAY2xv6IWAl3ymlLIU26ECgR35KfU4qUEdT31ivWNtaGluvYEtlTWegbml07XTxeA1674TZhO-Hdpkrm4OeuZ_LpBmnMKvFrK-9gb6KvqfAD8S40k3V-N0N9778xQ==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Blood Dance 1H Sword and Shield Duelist</name>
+    <description>Duelist, 84 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgQBAdwB5wSxBS0Q8BQgGNsa2xutG_ohYCP2Jd8ppSyFMZ4yCTWSNug94kCgR35I7kp9SshMYE3jTipQR1PfVvpYr1jbWhpaSFuvYEtlTWegbEZuaW6qcmx07XTxeA14rnrvhNmE74d2iPGVZpkrm4OeuZ_LpBmmV6cwqW6rxaxZrK-vorXyt9O9gb3mvoq-p8APxLjSTdN-1fjXy90N7g7v8Pe--WP8xf6P</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Blood Dance 1H Sword and Shield Duelist</name>
+    <description>Duelist, 100 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgQBAdwB5wSxBS0FtQbuDPIQ8BQgGNsa2xutG_ohYCP2Jd8ppSyFMZ4yCTQ1NZI26D3iPs9AoEd-SO5KfUrITGBN404qUEdRR1PfVvpYr1jbWhpaSFuvYEtjF2VNZ6BsRm5pbqpybHTtdPF4DXiueu-E2YTvh3aI8Y19jb-VZpdwmSubg565n8ukGaXLplenMKluqn-quKvFrFmsr6-itfK3072Bvea-ir6nwA_BB8S40k3TftRS1fjXftfL3Q3uDu_w9775Y_zF_o8=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Blood Dance 1H Sword and Shield Duelist</name>
+    <description>Duelist, 95 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgQAAF4EfgSxBS0FtQbuDPIOrRXwGNsZjhrbG60hYCP2JJ0ppSyFMgEyCTWGOJY6WDqzPeI-z0CgQ5xHfkjuSn1MYFFHU99W-ljbWhpaSFuvYEth62JaYxdlTWegbml07XTxeK56U3rvfXWE2YTvhxmHdo19jb-QCpVml3CZK5smm4Odqp65o-ely6p_qrirxayvshm3F7fTuc29gb3mvqfAD8S4z3rSTdN-1FLV-NfL3Q3o1usU7YPuDu9O7_D5Y_zF_ro=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Life Based Crit Rain of Arrows</name>
+    <description>Shadow, 44 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgYABH4FtQzyDkgRlhXwHhokPCT9JpUnqSpbNj06WD7PSVFQQlFHVUtabW17f8aHGYhrjDaNfY2_oaSiLqXLpzSnXKp_qri1SL3m0hnW0eHb44TnVPlj_sj_kw==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Life Based Crit Rain of Arrows</name>
+    <description>Shadow, 66 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgYABH4FtQzyDkgRlhXwHhoj9iQ8JJ0k_SaVJ6kqWzB8Nj06WD7PSVFKfVBCUUdVS1b6WkhabWJaZ6Bte3RBd9d9dX8rf8aHGYd2iGuMNo19jb-hpKIupcunNKdcp9Sqf6q4tUi7473mxKLSGdN-1tHcFeHb44TnVO4O7_D5Y_zF_rr-yP-T</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Life Based Crit Rain of Arrows</name>
+    <description>Shadow, 91 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgYABH4FtQzyDkgRLxGWFfAeGiP2JDwknST9JpUnqSpbMHwyATY9Olg-z0lRSn1OKlBCUUdVS1b6WkhabVuvYeJiWmegapNte25pdEF31311fyt_xocZh3aH24hrjDaNfY2_mZqbJqGkoi6ly6c0p1yn1Kp_qriyGbVItkG297vjvea-p8APwcXEosS4zerPetIZ0k3TftXt1fjW0dwV3Q3h2-OE51To1utj7g7v8Plj_MX-uv7I_5M=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Life Based Crit Rain of Arrows</name>
+    <description>Shadow, 117 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgYA_5MeGtIZ1tEqW7VIbXtVS4w2JpVQQqIuDkjjhKc0EZbAUYhrf8ado3C78-pw1TY9tvcnqcHF_KtwUqXLmZoRL1ptiEIM8utjJDyCHgW1h9unXNsLzeqNv2HiSVHo1lFHmyYzDD7PMHyquDIB_iu95m_yfyuqf7IZGdX5YznUd9cx-o19z3r_3hXwoJ-VBXRBdvchdjpY51RW-sqpBH4k_dUA_MXuDocZ4dtnoN0NI_ahpId2W6_v8P7ISn1OKlpIp9QppbZB3BVqk1oaxKLV7bvjwA_-utJNfXW-p9N-bmkkncS4YlrV-Dqz</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Summoner Witch - EE Dual Spark Setup for Magic Find!</name>
+    <description>Witch, 34 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgMABAcHYwj0EVAWbx8CKpgtHzGINsU74UjnTLNNuVXGVytr220Zc1N5A4Vgj0aboacIqsS71sy8z2XQ0Ngk2QvmgffX-oA=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Summoner Witch - EE Dual Spark Setup for Magic Find!</name>
+    <description>Witch, 51 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgMABAcHYwj0EVAVUBZvGYUaOBpsHwIkqilPKpgtHzGINsU26TvhSOdMs025VcZXK2vbbRlzU3kDhWCIQI9GkDOQVZuhna6mrKcIp4SqxLvWzLzPZdDQ2CTZC9rd42rkIuaB7Dj31_qA</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Summoner Witch - EE Dual Spark Setup for Magic Find!</name>
+    <description>Witch, 71 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgMAAnEEBwSzB2MI9BFQFVAWbxmFGjgabB8CJDwkqiepKU8qmC0fMYg2xTbpOtg74UjnSVFMs025TdhVxlcrWm1nvWvbbRlzU3kDf8aBb4VgiECMdo9GkDOQVZuhna6ePKIAoqOmrKcIp1ynhKrEu9bB88y8z2XQ0Ngk2Qva3eNq5CLmgew47m_wH_Tp99f6gA==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Summoner Witch - EE Dual Spark Setup for Magic Find!</name>
+    <description>Witch, 90 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgMBAW8CcQQHBLMHYxFQFVAV1xcvGmwdFB8CJIso-ilPKhMqmCynLL8tHzbFOtg74TyOQ2NI50yzTblN2FXWVmNXK1fJWPVZ81orZOdmnmvbbRlxTXNTfLt-WX_GgKSBb4RIhWCGrohAjHaPRpAzmK2az5uhna6dxJ48oqOj8qaspwinK6rEtzG4k7vWwBrBxcHzw23MvNDQ14bYJNkL2t3i9-Qi5oHquuvu7BjsOPfB99f6gPrS</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Summoner Witch - EE Dual Spark Setup for Magic Find!</name>
+    <description>Witch, 108 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgMBAP0BbwJxBLMHYxFQEZYUsBVQFdcXLxdQGmwdFCSLKPopTyoTKpgspyy_L285UjowOtg74TyOQ2NI50wtTblN2E5tVdZWY1crV8lYB1j1WfNaK1qRXypk52aeaqxr220ZcLtxTXNTdFV8u3zOfll_xoCkgW-CHoLHhEiFYIauiECMdo9GkDOYrZrPm6Gdrp3Enjyio6PypqynCKcrqH2qxKyYtzG4k7vWvDfAGsHFwfPDbcy80NDT-9eG2QvZE9rd4vfkIuaB6rrr5Ovu7BjsOPfB99f6gPrS</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Witch Full Summoner</name>
+    <description>Witch, 20 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgMBa9t9GOyKVysHY3NTwFR5Awj0i3qnK-L3O-FtGcHzoqN_xhzckye_lw==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Witch Full Summoner</name>
+    <description>Witch, 40 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgMBa9t9GOyKVysHY3NTwFR5Awj0i3qnK-L3O-FtGcHzoqN_xhzckye_l8k98h4tH0yzBAcfAjbF2CSnCNkLKpj6gLiT6-4o-oLH0_uofVqRaqw=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Witch Full Summoner</name>
+    <description>Witch, 60 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgMBa9t9GOyKVysHY3NTwFR5Awj0i3qnK-L3O-FtGcHzoqN_xhzckye_l8k98h4tH0yzBAcfAjbF2CSnCNkLKpj6gLiT6-4o-oLH0_uofVqRaqydrhpspqyIQJAzj0bQ0Juh99fMvIVgqsRNuRCXRATPZVXGFm8xiBFQ</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Witch Full Summoner</name>
+    <description>Witch, 80 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgMBa9t9GOyKVysHY3NTwFR5Awj0i3qnK-L3O-FtGcHzoqN_xhzckye_l8k98h4tH0yzBAcfAjbF2CSnCNkLKpj6gLiT6-4o-oLH0_uofVqRaqydrhpspqyIQJAzj0bQ0Juh99fMvIVgqsRNuRCXRATPZVXGFm8xiBFQEZZwu7QMRnHhiB2qgwlvnspKwzqbtRmK-wn22hqPGYUkqjbp-tIXLw==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Witch Full Summoner</name>
+    <description>Witch, 100 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgMBa9t9GOyKVysHY3NTwFR5Awj0i3qnK-L3O-FtGcHzoqN_xhzckye_l8k98h4tH0yzBAcfAjbF2CSnCNkLKpj6gLiT6-4o-oLH0_uofVqRaqydrhpspqyIQJAzj0bQ0Juh99fMvIVgqsRNuRCXRATPZVXGFm8xiBFQEZZwu7QMRnHhiB2qgwlvnspKwzqbtRmK-wn22hqPGYUkqjbp-tIXL2TnVdaApIbRJLDjaiepWm0kPKdcSVG71hHbM3aSODgbkc_kEfF2-eg=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Witch Full Summoner</name>
+    <description>Witch, 120 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgMBAnEEBwSzB2MI9BCXEVAUTRVQFm8ZhRo4Gmwc3B8CJDwkqiepKPopTyqYLR8xiDLRNsU26TrYO-FEBElRTLNNuU3YVcZXK1ptWpFqrGvbbRlzU3kDfRh-WX_GgW-Cx4VgiECMdo9GkDOQVZMnm6Gdrp48ogCio6aspwinK6dcp4SofarEuJO71r-XwFTB88k9zLzPZdDQ0_vYJNkL2t3i9-Nq5CLr7uw47IrwH_Ie99f6gPrSFy9k51XWgKS0DEZx4YgdqoMJb57KSsM6m7UZivsJ9toajxGWcLuLevF2OBvkEZHP-egR25I4M3b-SUjn</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Witch Full Summoner</name>
+    <description>Witch, 120 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgMBAnEEBwSzB2MI9A2NEJcRUBRNFVAWbxmFGjgabBzcHwIkPCSqJ6ko-ilPKpgtHzGIMtE2xTbpOtg74UQESVFMs025TdhVxlcrWm1akWqsa9tsC20Zc1N5A30Yfll_xoFvgseFYIhAjHaPRpAzkFWTJ5uhna6ePKIAoqOmrKcIpyunXKeEqH2qxLiTu9a_l8BUwfPJPcy8z2XQ0NP72CTZC9rd4vfjauQi6-7sOOyK8B_yHvfX-oD60hcvZOdV1oCktAxGceGIHaqDCW-eykrDOpu1GYr7CfbaGo8RlnC7i3rxdjgb5BGRz_noEduSODN2</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>The Rise Of The Totems</name>
+    <description>Witch, 22 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgMA37BXK4IQB2MHpeaBc1MC48BUSbJ5AyycCPQxiIt6pyvi9zvhbRlBlgVCrrM=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>The Rise Of The Totems</name>
+    <description>Witch, 47 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgMA37BXK4IQB2NBlgel5oFzUwVCAuPAVK6zSbJ5AyycCPQxiMG0i3rk7KcrdhHi936vO-EfAm0ZNsXB89gkgh6nCNsLj0bQ0M9lVcYWbx0U-tI26eNqJKoZhWaewBqQVQ==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>The Rise Of The Totems</name>
+    <description>Witch, 71 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgMA37BXK4IQB2NBlgel5oFzUwVCAuPAVBFQrrNJsrvWLJw74cG04vdtGeTspyvB83YRi3qCHn6viEIfAvIdwcU2xSy_7BjYJIauw22nCBXXj0bXhh0UVmP60maewBpZ8yoTwxMsp6PycU2az0NjtzFY9Z3ETDXjgucL3rB_xhGWnaP8q1760DkX2IFJsjhmTw==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>The Rise Of The Totems</name>
+    <description>Witch, 71 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgMA37BXK4IQB2NBlgel5oFzUwVCAuPAVK6zSbJ5AyycCPQxiMG0i3rk7KcrdhHi936vO-EfAm0ZNsXB89gkgh6io6cI2wt_xo9GJ6kRlh0U0NCBSVptnaP60kw1z2WyOCQ8_KvQOWae44JVxmZPp1xe-hfYwBrnCxZvSVFZ896wKhPDEyyno_I26eNqkFUkqg==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>The Rise Of The Totems</name>
+    <description>Witch, 110 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgMA37BXK4IQB2NBlgel5oFzUwVCAuPAVBFQrrNJsrvWLJw74cG04vdtGeTspyvB83YRi3qCHqKjfq-IQkwtf8YPxB8C8h3BxaBDflkRli-d3Mc2xSy_7BgRwp2jDkhwuxbzO3zYJIauj_rDbZ3Z_KvQOeOE2RMmPFqmpwgV11762-cjXxfYwFGIa2NDL2-4ytrdj0bXhjIY8-pw1bb3HRSBSVZjswNwUha_XfKZmhEv-tJMNbI4b7zrY2ae44JmT1MxwBpxTecLWfOaz96wKhNDY8MTtzEsp1j1o_KdxA==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Ethereal Knives Tank</name>
+    <description>Scion, 40 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgAACGcZihqPLYMtqDGeNZI64UGHSshN41YtWlJuqm-egwmI8ZcGm12btaZXqJqsWax_sZC18rc-t9bDOsSiykrbWedj8kXyl_ba-ej7Cf4K_o8=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Ethereal Knives Tank</name>
+    <description>Scion, 65 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgAACGcVIBZvGYoajyj6KaUqTSzpLYMtqDGeNZI64T8nQYdFnUp9SshN404qVcZWLVpSW69noG6qb556qoLHgwmHdojxj0aXBprgm12btaZXpwiomqxZrH-xkLXytz631riTwzrEospKz2XQ0NtZ3Q3nY-vu8kXyl_ba-ej7CfzF_gr-jw==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Ethereal Knives Tank</name>
+    <description>Scion, 91 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgAABS0IZxUgFm8XLxjbGYUZihqPHRQdqiFgJKoo-imlKk0s6S2DLagxnjWSNuk64T8nQKBBh0WdRnFKfUrITeNOKlXGVdZWLVpSW69gS2TnZ6BsFm6qb5507XTxeqp674CkgseDCYPbh3aI8Y9Glwaa4Jtdm7WeuaZXpwiomqxZrH-xkLXytz631riTwzrEospKznHPZdDQ21ndDeGI42rnY-vu8kXyl_ba-ej60vsJ_Ev8xf4K_o8=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Ethereal Knives Tank</name>
+    <description>Scion, 103 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgAABS0IZxLhFSAWbxcvGNsZhRmKGo8dFB2qHpQhYCHDJKoo-imlKk0s6S2DLagxnjWSNuk64T8nQKBBh0WdRnFKfUrITeNOKlXGVdZWLVfhWlJbr2BLZOdnoGwWbqpvnnTtdPF6qnrvgKSCx4MJg9uHdojxj0aQ1pMnlwaa4Jtdm7WeuaLqplenCKiarD-sWax_sZC0DLXytz631riTwzrEospKznHPZdDQ21ncV90N4Yjjaudj6-7vTvJF8pf22vll-ej60vsJ_Ev8xf4K_o8=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>EB Freezing Pulse w/Flame Totem</name>
+    <description>Templar, 112 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgUAAP0CcQL-BLMFWw5IEZYUTRSwFm8WvxcvF1QZhRo4GmwdFCKBJDwkqiSwJpUnqSlPLR8vbzbpOVI6MDrYQsNG10lRTLNN2E5tT31QMFFgVUtVxlXWWAdabV3GXfJfKmBtYeJirGNDZOdnvW0ZcFJwfXC7cNV0VXzOfll_xoBWgKSBb4IegpuFfYbRh9uLjIw2jHaOPI5kj0aQVZuhnaOdqp48ogCio6dcp4SsmLUEtvq8N8BRwfPPZdDQ1p3ZE9sL217d89-E4XPjauOE5CLr5Ow47SDwH_Pq96b31_rS_Ks=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Tanky Dualist (1H + Shield)</name>
+    <description>Duelist, 20 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgQBG_ol30d-U99Y22VNbml07YTZhO-ZK5uDpBmrxb2BvqfAD8S40k3V-A==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Tanky Dualist (1H + Shield)</name>
+    <description>Duelist, 40 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgQBAdwFLRv6Jd8xnjWSQKBHfkrITeNT31jbYEtlTW5pbqp07XgNeu-E2YTviPGKr5krm4OeuaQZplepbqvFrFm18r2Bvoq-p8APxLjSTdX4_o8=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Tanky Dualist (1H + Shield)</name>
+    <description>Duelist, 74 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgQAAdwEswUtFE0b-iXfKPoppTGeMn41kjboOlI64TwtQKBBh0WdRmlHfkrITP9N404qU99Yr1jbYEtlTWqTbmluqnTteA16qnrvgseC5ITZhO-I8YqvkBGZK5rgm4OeuaIApBmmV6luq8WsWa9stfK2Qbc-vYG-ir6nwA_EuMWKxq7STdXt1fjnY-vu8B_yRfno_gr-jw==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Tanky Dualist (1H + Shield)</name>
+    <description>Duelist, 120 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgQBAdwCcQSzBS0JMwz3FE0VIBjXG_ohYCQlJd8n7Sj6KS4ppSpNMZ4yfjWSNug6UjrhPC09_D8nQKBBh0WWRZ1GaUd-SshMMk3jTipT31RJWGNYr1jbXz9gS2VNZadm2WebapNsFm5pbqp0TXTtdPF343gNeqp673y4fVuCx4PbhNmE74UyiPGMz5WbmSua4JuDnrmiAKQZplepbqvFrFmsr64-r2y0c7T5tfK2Qbc-ud29gb6KvqfAD8S4xPbFisauxtjOcdE20k3Uj9Xt1fjiYeKA51LnY-nV6yzr7u8O8B_yL_JF8932SPno_Ev-Cv6P</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Versatile CI physical critical archer (RoA, Split Arrow, or Ice Shot)</name>
+    <description>Duelist, 109 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgQBBbUM8hB7ES8V1xXwFr8XHRnVIXYk_SsKLIUsvy0fMHwx-jMMNj051DvhPs9HBkyzTipQMFFHVmNW-loaW69e-l9qY0Nqk20Zb_JwUnDVdEF293fXfXV_K3_Ghq6GzofbiGuLeo1-jb-P-pUFmZqbLaCfoaSio6XLpyun1LEwtMW2Qbb3t7a7473mvjq-p8APwFHBAMHFwfPC7MNtxKLKqc2Y0k3TftUA1e3WiteG2xrb59wV3Q3exuHb4vfnVOpi62PsGPLh8-r1S_lj-rH8q_zF_iv-uv7I_94=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Cast on Critical Strike - Discharge</name>
+    <description>Ranger, 39 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgIBAdEFfQX5DkgRlhXwF9gZiiT9JpUnISepLYNQQlM1VUtW6l3yXvptbG17cFJw1X_GjDaVyJcGm7Wdo6Iur-u1SMBRxKLQOedU8-r8q_4J</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Cast on Critical Strike - Discharge</name>
+    <description>Ranger, 62 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgIBAdEEfgV9BfkOSBGWFfAX2BmKI_YkPCSdJP0mlSchJ6ktgzpYSVFQQlM1VUtW6lpIWm1d8l76YlptbG17cFJwVnDVf8aHGYhCjDaQG5XIlwaaE5u1naOiLqc0p1yv67VIwFHBxcSi0DnTftvU35jnVO4O73rv8PPq_Kv-CQ==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Cast on Critical Strike - Discharge</name>
+    <description>Ranger, 79 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgIBAdEEfgV9BfkOSBGWFfAX2BmKHNwj9iQ8JJ0k_SaVJyEnqSoLLYM2ezpYSTtJUVBCUzVTuFVLVupaSFptXfJe-mJaYqxqP21sbXtwUnBWcNV_xoVVhxmIQonTjDaP-pAbkyeVyJcGmhObtZ2jnaqiLqc0p1yv67SjtUi5fMBRwcXEotA5037VANad29TfmOdU6f7uDu967_Dz6vyr_gk=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Cast on Critical Strike - Discharge</name>
+    <description>Ranger, 97 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgIAAdEEfgV9BfkOSBGWFfAX2BmKGo8c3B6UI_YkPCSdJP0mlSchJ6kqCy2DNns6WEk7SVFQQlM1U7hVS1YtVupaSFptXfJe-mJaYqxjQ2o_bWxte3BScFZwu3DVf8aFVYcZiEKJ04w2j_qQG5MnlciXBpoTm7Wdo52qoi6nNKdcrD-sf6_rtDi0o7VIuXzAUcHFwzrEotA5037VANVP1p3b1NxX3nffmOOE5RnnVOn-7g7veu_w8h3z6vba-wn79fyr_gk=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>The Zero Duelist</name>
+    <description>Duelist, 103 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgQAAF4B3ALQAwAFLQbuCC4XHRjbGY4brRvIG_odJiFgJd8ppTGeMbAyCTQ1NZI4ljqzQKBHfkjuSn1KyE3jTipT31jbW69eE185YEtjF2VNZ6BsRmyNbmluqnJsdK507XTxeA14rnjreu99dX6ahNmE74d2iPGQCpdwmSubLZuDm42euaPnpBmmV6luq8WsWayvtfK3F72Bvoq-p767wA_BB8qQy_XSTdN-1FLXftyC3Q3d4-XF5wrnD-dj7YPuDu9674b1Rvv8_MX-Cv6P_ro=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Elemental Equalibrium Fireworks CoC Spectral Throw **UPDATED****NEW VIDEO**</name>
+    <description>Scion, 21 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgABCGeTOr0nGDz56EGHtz7-CvJFOuGmV03j_o81kqxZiPHnYzGetfJuqkrI</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Elemental Equalibrium Fireworks CoC Spectral Throw **UPDATED****NEW VIDEO**</name>
+    <description>Scion, 42 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgABCGeTOr0nGDz56EGHtz7-CvJFOuGmV03j_o81kqxZiPHnYzGetfJuqkrIqW54Db6KAdykGRv6Jd-E2W5pvqfSTcAP4uphIYTvdO1672BLBS1AoJ65</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Elemental Equalibrium Fireworks CoC Spectral Throw **UPDATED****NEW VIDEO**</name>
+    <description>Scion, 87 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgABCGeTOr0nGDz56EGHtz7-CvJFOuGmV03j_o81kqxZiPHnYzGetfJuqkrIqW54Db6KAdykGRv6Jd-E2W5pvqfSTcAP4uphIYTvdO1672BLBS1AoJ651e1qk7ZBTioppTsoA5ZuPWBDgwmCxyj6mK1GcbQMkycc3PF23FcelKw_LUdQQow2VUsmlW17tUh_xiepWm0kPKdcSVHsGI_6STs2e7SjEZYOSJ2qYqzWnac0</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Elemental Equalibrium Fireworks CoC Spectral Throw **UPDATED****NEW VIDEO**</name>
+    <description>Scion, 108 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgABCGeTOr0nGDz56ILHKPqYrTsoA5ZuPWBDgwk1kqxZiPHnY_6PTeOmVzrh8kX-CjGeQYe3PrXyqW5sRnJsMgl4DUZxtAyTJ2o_U7iFVYnT3FcelKw_HNzxdn_GLUdQQow2VUsmlW17EZado_yr0DkX2F76j_pJOzZ7tKO-igHcpBkb-iXfhNluab6n0k3AD9XtapO2QU4qKaVaGmVNR34nqVptJDynXElRDkinNJ2qYqzWnbVI4uphIYTvdO1672BLBS1AoJ656-56qprgRZ3jhMBRcNVwUvPq</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Tanky Elemental Crit Caster Templar</name>
+    <description>Templar, 105 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgUBAnEEswVbCGcMfRB_FE0WbxmFGjgabBzcHpQhwySqKPopTyymMZ40CjWSNuk3ZjeDOtg64UGHQ2NFnUZxRtdKyE3YTeNVxlfhWPVdxmBtZk9mnm6qcU14unqqgUmBb4KbgseDCYM4hX2I8YuMjHaOZI9GkFWQ1pMnms-a4J2uncSePJ97ogCmV6brpwinhKw_rFmyOLQMtQS18rb6tzG3PriTwBrGns9l0NDa3dxX3fPhc-Nq5CLnY-q66-7sOO0g73zwH_F28kX3pvll-ej-Cv6P</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Elemental Wander Templar (Conduit,Health based,</name>
+    <description>Templar, 20 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgUABVuLjOFz7SBG113G3fNgbZ2AgzgUTaIABLMCcfAfMol35Vfi7DgpTw==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Elemental Wander Templar (Conduit,Health based,</name>
+    <description>Templar, 40 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgUABVuLjOFz7SBG113G3fNgbZ2AgzgUTaIABLMCcfAfMol35Vfi7DgpT-QiGmwZhSSqNunjavrSZp7AGlnzrKpyqXzZna6nCI9G0NDPZVXG2CQ=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Elemental Wander Templar (Conduit,Health based,</name>
+    <description>Templar, 60 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgUABVuLjOFz7SBG113G3fNgbZ2AgzgUTaIABLMCcfAfMol35Vfi7DgpT-QiGmwZhSSqNunjap2upwiPRtDQz2VVxtgkgpuFfTbFHwIEB0yzLR9tGcHzoqN_xlAw2wLTG3jOP3MRlg5I44RjQ52qYqzWncBRcNVwUl3y</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Elemental Wander Templar (Conduit,Health based,</name>
+    <description>Templar, 94 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgUABVuLjOFz7SBG113G3fNgbZ2AgzgUTaIABLMCcfAfMol35Vfi7DgpT4V9gpvkIhpsna6nCNgkNsXbAtMbeM4_cx8CBAdMsy0fbRnB86Kjf8YRlnC72RMvb7iTDH0Qf8aeDkidqmKs1p3jhGNDoi5QQow2VUtte7VIJpXAUXDVXfLz6nBSFr-H22HiUDAaOKeEkFWdo_yrHNyTJ7QMW_RGcYMJj0bQ0M9lVcYZhSSqNunjaiepWm0kPKdcSVE=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Marauder || Nemesis || Tank/Fighter || 2H Heavy Strike || Solo and Party</name>
+    <description>Marauder, 100 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgEAAdwB5wUtD8wS2RQgGJEZLhnpGj4aVRvIG_ohAiE0IVUl3yfVJ-0otSkuKaUq9jGeNZI26DkOOuE7Oz38QKBDMUp9SshN404qUEdQUFRJValYY1ivWfNbr14TXz9gS2CIYMRhIWSjZ1hnoG6qcql07XgNeu97jHy4fNmE2YTvh3aMz5BVl7Sfy6QZplemZKcwqW6sqqy6tfK2QbndvorAGsEExFjG2MmY1I_cPd0N3sHkredS7w7vTvGs8i_yRfPd9kj8xf4K_o8=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Poison Arrow MF build.</name>
+    <description>Ranger, 108 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgIAr-sB0aJA9PihIsSiu-P-un11037veu4OI_ZW-u_w_MVaSGeg3Q2HdluvLOlKfU4qytMVICmlGbQqTfqx6yzqYkWW3sZ9W82Y4oC-p41-TDLSTW5pt7bAD4TZZU0l30d-G_qrxaQZAdzi6r6KYSF4DYTvEuGpblivdO218jboeu9uqjWSOlJgS0rIrFkyfgUtWlKI8aia52ObXf4K8pe3PsauPC3E9sQVJ-3z3ayqWfPAGpBVp4QaOOw4OthN2C3SnjyMdoFvBLMUTfAfAnGDOKIA73w8BZ_f</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Explosive Arrow Elemental Equilibrium THE ROOF IS ON FIRE Build!!!</name>
+    <description>Marauder, 22 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgEBxthYY1BQjM_2SF8_VEnnUu8Oud3yL9SPGS4n7ayqcql82fcy-OtBqt-_WfM=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Explosive Arrow Elemental Equilibrium THE ROOF IS ON FIRE Build!!!</name>
+    <description>Marauder, 50 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgEBxthYY1BQjM_2SF8_VEnnUu8Oud3yL9SPGS4n7ayqcql82fcy-OtBqt-_WfPAGmae-tIdFI9Gpwi4k-vuKPqCx_noQYe3Pv4K52OI8axZNZK18qlueA2-im6qSsgB3KQZG_ol3w==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Explosive Arrow Elemental Equilibrium THE ROOF IS ON FIRE Build!!!</name>
+    <description>Marauder, 77 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgEBxthYY1BQjM_2SF8_VEnnUu8Oud3yL9SPGS4n7ayqcql82fcy-OtBqt-_WfPAGmae-tIdFI9Gpwi4k-vuKPqCx_noQYe3Pv4K52OI8axZNZK18qlueA2-im6qSsgB3KQZG_ol34TZZU1HfqvFbmm-p9JNwA_V7WqTtkFOKiml4uphIYTvdO1672BLBS2drhJpFxxxedrdkFWnhA==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Explosive Arrow Elemental Equilibrium THE ROOF IS ON FIRE Build!!!</name>
+    <description>Marauder, 98 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgEBxthYY1BQjM_2SF8_VEnnUu8Oud3yL9SPGS4n7ayqcql82fcy-OtBqt-_WfPAGmae-tIdFI9Gpwi4k-vuKPqCx_noQYe3Pv4K52OI8axZNZK18qlueA2-im6qSsgB3KQZG_ol34TZZU1HfqvFbmm-p9JNwA_V7WqTtkFOKiml4uphIYTvdO1672BLBS2drhJpFxxxedrdkFWnhBo47Dg62E3YnjyBbwSzFE2YrfPdjHbwHwJxogCDOO98zZiNfre2WlKomg==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Explosive Arrow Elemental Equilibrium THE ROOF IS ON FIRE Build!!!</name>
+    <description>Marauder, 106 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgEBAdwCcQSzBS0SaRRNFxwY2xkuGjgb-h0UJd8n7Sj6KaUyCTWSNuk62DrhQYdBqkd-SshN2E3jTipQUFKvVElYY1nzW69fP2BLYSFlTWaeapNsRm5pbqpxeXJscql07XgNeu982YFvgseE2YTviPGMdozPj0aQVZitna6ePKIApBmmV6cIp4SpbqvFrFmsqq1KtfK2Qbc-uJO53b6KvqfAD8AaxtjNJtJN1I_V7drd37_i6uNq51LnY-vu7DjvDvAf8i_yRfPd9kj3Mvjr-ej60v4K_o8=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>S&amp;amp;M (Swift Marauder) - Frenzy, Facebreaker, Daresso&amp;#39;s Defiance</name>
+    <description>Marauder, 21 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgEAxthYY1BQjM_2SF8_VEnnUu8Oud3yL9SPZ5sZLikuJ-3ZYfPdrKpyqXzZ</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>S&amp;amp;M (Swift Marauder) - Frenzy, Facebreaker, Daresso&amp;#39;s Defiance</name>
+    <description>Marauder, 107 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgEAAdwB5wUtFCAZLhrbG_ohAiP2Jd8n1SftKS4ppSr2MZ41kjboPs9AoEZpR35KfUrITeNOKlBHUFBUSVb6Vw1YY1ivWhpaSFuvXz9gS2EhZU1nm2egapNuaW6qcql07XgNeu97jHzZfXWE2YTvhymHdozPkAqZK565ns2fy6QZplenMKluq8WsWayqtfK2QbndvYG95r6KvqfAD8QVxFjE9sbYypDSIdJN037Uj9Xt2WHdDeLq51LuDu8O73rv8PIv8932SPe--WP8xf6P_rqRzrvtiPES4Q==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Beginner Friendly Marauder infernal blow + melee splash explosion power</name>
+    <description>Marauder, 18 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgEAGS4n7VBQVElYY18_ah57jIzPqBisqrndxtjZYedS7w7yL_ZI</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Beginner Friendly Marauder infernal blow + melee splash explosion power</name>
+    <description>Marauder, 32 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgEAFCAUcRkuJ-1BqlBHUFBUSVcNWGNfP2oecql253uMfNmMz5HOns2nMKgYrKq53bvtxtjSIdlh51LvDvIv9kj3vg==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Beginner Friendly Marauder infernal blow + melee splash explosion power</name>
+    <description>Marauder, 42 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgEAAecUIBkuGjgn7S3SNug62FBHUFBUSVcNWGNZ818_ah5yqXbne4x82YcpjM-QVZHOns2fy6cwp4SoGKyqud277cAaxtjSIdlh51LsOO8O8i_2SPe-</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Beginner Friendly Marauder infernal blow + melee splash explosion power</name>
+    <description>Marauder, 55 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgEAAecCcQSzFCAUTRkuGjgn7S3SNug62E3YUEdQUFRJVw1YY1nzXz9gbWoecql253uMfNmBb4M4hymMdozPkFWRzp2AnjyezZ_LogCnMKeEqBipaKyqud277cAaxtjSIdlh51LsOO8O73zyL_ZI974=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Beginner Friendly Marauder infernal blow + melee splash explosion power</name>
+    <description>Marauder, 96 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgEBAecCcQSzBS0S4RQgFE0ZLho4GlUl3yftKaUt0jboOthAoEE_R35N2E4qUEdQUFHmVElVtVcNWGNZ81oaXz9gS2BtYSFko2VNah5qk25pcql07Xbneu97jHzZgW-DOITZhO-HKYdqjHaMz5BVkGyRzpkrnYCePJ65ns2fy6IApzCnhKgYqWiplKvFrKq0L7ZBud277b2BvqfAD8AaxLjG2Mbn0iHSTdXt1fjZYd7B5K3nUuw47w7vfPIv8932SPe-</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Beginner Friendly Marauder infernal blow + melee splash explosion power</name>
+    <description>Marauder, 94 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgEBAecCcQSzBS0S4RQgFE0ZLho4GlUl3yftKaUt0jboOthAoEE_R35N2E4qUEdQUFHmVElXDVhjWfNaGl8_YEtgbWEhZKNlTWoeapNuaXKpdO1253rve4x82YFvgziE2YTvhymHaox2jM-QVZBskc6ZK52AnjyeuZ7Nn8uiAKcwp4SoGKloqZSrxayqtC-2Qbndu-29gb6nwA_AGsS4xtjSIdJN1e3V-Nlh3sHkredS7DjvDu988i_z3fZI974=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>GMP Ice Spear DUAL TOTEM Taryn&amp;#39;s Shiver Shadow</name>
+    <description>Shadow, 20 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgYBAv4V5xa_JpVCw1VLXfJh4m17cFJw1XOzh9uMNsBR1U_ed9-E8Gvz6g==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>GMP Ice Spear DUAL TOTEM Taryn&amp;#39;s Shiver Shadow</name>
+    <description>Shadow, 40 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgYBAv4OSBGWFecWvyQ8JpUnqTZ7QsNJO0lRVUtabV3yXvph4mKsbXtwUnDVc7N-WX_Gh9uMNo_6naOdqqdctKPAUdVP1p3ed9-E44Twa_Pq_Ks=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>GMP Ice Spear DUAL TOTEM Taryn&amp;#39;s Shiver Shadow</name>
+    <description>Shadow, 60 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgYBAv4EBw5IEZYVUBXnFm8Wvx8CJDwmlSepLR82ezbFQsNJO0lRTLNVS1XGWm1d8l76YeJirGZPbRlte3BScNVzs35Zf8aBSYfbjDaPRo_6naOdqqKjpwinXLI4tKPAUcHzz2XQ0NVP1p3YJNrd3nffhOOE8Gvz6vyr</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>GMP Ice Spear DUAL TOTEM Taryn&amp;#39;s Shiver Shadow</name>
+    <description>Shadow, 79 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgYBAv4EBw5IEZYVUBXnFm8WvxmFGjgdFB8CJDwkqiaVJ6kqEyynLR82ezbFNulCw0k7SVFMs1VLVcZZ81orWm1d8l76YeJirGZPZp5tGW17cFJw1XOzfll_xoFJgh6H24w2j0aP-pBVnaOdqqKjo_KnCKdcp4SyOLSjwBrAUcHzwxPPZdDQ1U_Wndgk2t3bC95334TjauOE8Gvz6vrS_Ks=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>GMP Ice Spear DUAL TOTEM Taryn&amp;#39;s Shiver Shadow</name>
+    <description>Shadow, 101 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgYBAv4EBwdjCPQOSA5cEHQRlhVQFecWbxa_Fy8ZhRo4HRQfAiQ8JKoksCaVJ6kqEyynLR8vbzGINns2xTbpQsNFfkk7SVFMs1VLVcZV1lcrWfNaK1ptXfJe-mHiYqxk52ZPZp5tGXBScLtw1XNTc7N5A35Zf8aApIFJgh6G0YfbiGuMNo9Gj_qQVZ2jnaqeoaKjo_KnCKdcp4Svm7I4tKPAGsBRwFTB88MTz2XQ0NVP1p3YJNkT2t3bC95334TjauOE5oHwa_Pq-tL8qw==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>GMP Ice Spear DUAL TOTEM Taryn&amp;#39;s Shiver Shadow</name>
+    <description>Shadow, 105 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgYBAv4EBwdjCPQOSA5cEHQRlhVQFecWbxa_Fy8ZhRo4HRQfAiQ8JKoksCaVJ6kqEyynLR8vbzGINns2xTbpQsNFfkk7SVFMs1VLVcZV1lcrWfNaK1ptXfJeXV76YeJirGTnZk9mnm0ZbXtwUnC7cNVzU3OzeQN-WX_GgKSBSYIehtGH24w2j0aP-pBVnaOdqp6hoqOj8qcIp1ynhKeUr5uyOLSjuJPAGsBRwFTB88MTz2XQ0NH91U_Wndgk2RPa3dsL3nffhONq44TmgfBr8-r60vyr</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Elemental Equalibrium Trapper</name>
+    <description>Shadow, 41 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgYA3nfVT_v1tDjlGYw2VUsmlW17UEKiLg5InapirNadEZZ_xiepWm0kPKdcSVGio8HzbRktH0yzBAcfAjbF2CSnCI9G0NDPZVXGFm_a3X5ZnaP8qw==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Elemental Equalibrium Trapper</name>
+    <description>Shadow, 67 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgYA3nfVT_v1tDjlGYw2VUsmlW17UEKiLg5InapirNadEZZ_xiepWm0kPKdcSVGio8HzbRktH0yzBAcfAjbF2CSnCI9G0NDPZVXGFm_a3X5ZnaP8q176j_pJOzZ7tKPjhO4Vt3WdrhpsGYUkqjbp42rAUfPqFr-H22HiuJPr7nqqmuBFnSj6mK0=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Elemental Equalibrium Trapper</name>
+    <description>Shadow, 90 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgYABAcGdw5IEZYWbxa_GYUabB8CJDwkqiaVJ6ko-iycLR8yGDZ7NsU26UGHRKtFnUk7SVFMs1BCUzFVS1WuVcZabV76YeJirGZPbRlte3BScNV6qn5Zf8aBSYLHh9uI8Yw2j0aPpo_6mK2a4J2jnaqdrqIuoqOm56cIp1ysWbI4tDi0o7c-t3W4k8BRwfPPZdDQ1U_Wndgk2t3b595342rjhOUZ52Pr7u4V8kXz6vno-_X8q_4K</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Elemental Equalibrium Trapper</name>
+    <description>Shadow, 101 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgYABAcGdw5IEZYVUBZvFr8ZhRpsHwIkPCSqJpUnqSj6LJwtHzIYNZI2ezbFNuk64UGHRKtFnUk7SVFMs03jUEJTMVVLVa5VxlptXfJe-mHiYqxmT20ZbXtwUnDVeqp-WX_GgUmCx4fbiPGMNo5kj0aPpo_6mK2a4J2jnaqdrqIuoqOmV6bnpwinXKxZsji0OLSjtvq3Prd1uJPAUcHzz2XQ0NVP1p3YJNrd2-fed-Nq44TkIuUZ52Pr7u4V8kXz6vem-ej79fyr_gr-jw==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Voltaxic Rift Crit HP</name>
+    <description>Ranger, 90 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgIAm42v6wgu7YMZjgBe037ven117g7-uiP2Vvoa2-_w_MX5Y1pIZ6DdDRXwh3Ys6TpYBfnnVEp9FSAEfqOKJP0qTYcZmybh2z8nMgHo1qGkSsiyGd726xT-yG6qz3rndI2_tfJh4lFHqW41kofbMHyquHgNbEb-j6xZFr9v8n8rqn9Yr3JsTeOI8fPqOdTWio19NugyCaZX52NwUqCfAec64f4KpzDyRRQgFHFQR0Gq37_VAGHr</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Voltaxic Rift Crit HP</name>
+    <description>Ranger, 105 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgIAm42v6wgu7YMZjgBe037ven117g7-uiP2Vvoa2-_w_MX5Y1pIZ6DdDRXwh3Ys6TpYBfnnVEp9ytMVIAR-o4ok_dUAGbQqTYcZmybh2_qxPycyAejWoaTqYkrIshne9usU_sjexm6qz3rndI2_zZi18g-rYeJRR76nqW41km1sh9swfKq4eA1sRv6PrFm1SBa_b_J_K6p_WK9ybE3jiPFte_PqOdTWio19NugyCaZX52NVS3BSoJ8B5zrh_gqMNiaVpzDyRRQgFHFQR0Gq37-748Si</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Ranger 2H Spectral Throw</name>
+    <description>Ranger, 98 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgIBm40ILu2DGY4AXtN-73ruDlb6_MWKIsDzfPXApmegh3ZKfd0NW69OKimlGNt08SFgQKCeuQUtYEt673TthO9hIYdqkGyplITZJd8b-qQZbmm-p9JNwA8B3L6KeA2pbrXybqpKyGxGcmwyCWVNR35YrzboAeenMPe-OlIyfp_LNZL-j03jplcxniP27_BaSK-iEPD8iesJCZYnIMEH1340NTrh8kX-CudjiPGsWRQgUEet5BLhr-vUUgbul3BjFxfcBqI6cQ==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Shadow Tank Attack Speed</name>
+    <description>Shadow, 119 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgYAAF4B0QHnA5YILg5ID6sRlhUgFx0ZhhmOGbQhwCP2JDwknSaVJyEnqSpNLOkyCTWSNns26DrhOyg_J0k7SVFKfUrITeNQQlM1VUtYr1pIWm1gQ2HiYlpirGegapNsFmxGbWxte249bmluqm-ecmx4DXjrf8aDCYPbh3aI8Yw2j_qSzZLzlcibLZuNm7WdqqIuplenMKc0p1ypbqxHrFmvp6_rsw60o7VItfK-p8APwo7DOsS4ykrK085x0k3TftXt1fjWndyC35jnCudj53TrLOwY7YPuDu967_DyRfaj9774ofxL_MX-Cf4K_o__kw==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Tanky Spectral Throw Marauder</name>
+    <description>Marauder, 29 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgEAxthYY1BQjM_2SF8_VEnnUu8Oud3yL9SPGS4n7dlhrKpXDXKp0iF82Z7NpzAB5_e-FCA26FBHOlIyfg==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Tanky Spectral Throw Marauder</name>
+    <description>Marauder, 57 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgEAxthYY1BQjM_2SF8_VEnnUu8Oud3yL9SPGS4n7dlhrKpXDXKp0iF82Z7NpzAB5_e-FCA26FBHOlIyfhiRyZimZA_MWK94DalubEZybDIJtfI1kv6PTeOmVzGeOuHyRf4KrFmI8edjbqpKyJ_LUea0L0E_</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Tanky Spectral Throw Marauder</name>
+    <description>Marauder, 86 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgEAxthYY1BQjM_2SF8_VEnnUu8Oud3yL9SPGS4n7dlhrKpXDXKpUebSIXzZtC-ezUE_pzAB5_e-FCCfyzboUEdYrzpSZKMYkXgNMn4aVcmYqW5hIaZkbEa18oTvD8xybG6qNZJ07TIJSsj-j6xZeu8_J03jiPFgSypNplfnYwUtFSA64TGe_gos6fJF3Q38xVb6iiLA83z1wKZnoId2Sn2D2_xLznFsFluvTioppQ==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Tanky Spectral Throw Marauder</name>
+    <description>Marauder, 103 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgEAxthYY1BQjM_2SF8_VEnnUu8Oud3yL9SPGS4n7dlhrKpXDXKpUebSIXzZtC-ezUE_pzAB5_e-FCCfyzboUEdYrzpSZKMYkXgNMn4aVcmYqW5hIaZkbEa18oTvD8xybG6qNZJ07TIJSsj-j6xZeu8_J03jiPFgSypNplfnYwUtFSA64TGe_gos6fJF3Q38xVb6iiLA83z1wKZnoId2Sn2D2_xLznFsFu4OI_bv8FpIEuGQCodqWfPAGpBVp4QaOOSt3sFnWPPdkc5br04qKaU=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Tanky Spectral Throw Marauder</name>
+    <description>Marauder, 117 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgEAxthYY1BQjM_2SF8_VEnnUu8Oud3yL9SPGS4n7dlhrKpXDXKpUebSIXzZtC-ezUE_pzAB5_e-FCCfyzboUEdYrzpSZKMYkXgNMn4aVcmYqW5hIaZkbEa18oTvD8xybG6qNZJ07TIJSsj-j6xZeu8_J03jiPFgSypNplfnYwUtFSA64TGe_gos6fJF3Q38xVb6iiLA83z1wKZnoId2Sn2D2_xLznFsFu4OI_bv8FpIEuGQCodqWfPAGpBVp4QaOOSt3sFnWGae-tI26eNqJKoZhfPdkc7sOFfiMokEsxRNqWiiAPAfW69OKiml</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Infernal Blow 1H and Shield Mace Life</name>
+    <description>Marauder, 110 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgEBAecCcQSzD8wS2RQgFE0UcRZvFz4YkRkuGYUaOBo-HRQhAiE0JKonTyftKMUq9i3SMZ4yCTKJNZI26DbpOtg64Ts7QT9Bqkw1TeNQR1BQUeZUSVXGVw1X4lhjWK9Z818_YMRmnmdYbEZybHKpdud35XgNe4x82YjxjM-PRpBVkc6ezZ_LoLSiAKZXpmSnMKeEqW6sWayqr420L7T5tfK53cAaxtjJmM9l0NDRNtIh1I_ZYd7B42rkUeSt51LnY-eu7DjvDvAf8YrxrPIv8kXzvvPd9kj60vuq_gr-jw==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>11Auras EK Build (Concept Viable for Caster and Melee attacker)</name>
+    <description>Duelist, 107 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgQAAecMfQ48EH8RlhRxFx0XLxjbGYoajxzcHRQdqiFgJLAnCyftKLUo-imlKjgspi9vNAo26DbpN2Y3gzpSQKBBqkKjQ2NGcUcGTipV1lYEVi1Y9VnzW69famCIYVJk52aeapNuaW-ecLtxTXKpdPF2CHvXf8aApIMJhmCG0Y1-j0aP-pMnms-bLZu1ncSfy6brpwisf6yqtAy2Qbcxt7a4k76nwA_AGsHFwzrDbcS4xp7KSs2Y0k3V7dX42RPb5-GI42rquuvu7BjvTvPd9tr3Mvjr-tL7CQ==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>HC/Nem Life MF Dual incernate totem + IR</name>
+    <description>Marauder, 17 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgEBGS4n7VBQVElYY18_cql7jIzPrKq53cbY1I_nUu8O8i_2SA==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>HC/Nem Life MF Dual incernate totem + IR</name>
+    <description>Marauder, 28 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgEBGS4aOCftQT9QUFHmVElYY1nzXz9yqXuMfNmMz5BVp4SsqrQvud3AGsbY1I_eweSt51LvDvIv9kg=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>HC/Nem Life MF Dual incernate totem + IR</name>
+    <description>Marauder, 40 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgEBAnEEsxRNGS4aOCftLdI62EE_TdhQUFHmVElYY1nzXz9yqXuMfLt82Yx2jM-QVaIAp4SsqrQvud3AGsWKxtjUj97B5K3nUuw47w7wH_Iv9kg=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>HC/Nem Life MF Dual incernate totem + IR</name>
+    <description>Marauder, 46 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgEBAnEEsxRNGS4aOCECIVUn7Sr2LdI5DjrYQT9N2FBQUeZUSVhjWfNfP3Kpe4x8u3zZjHaMz5BVogCnhKlorKq0L7ndwBrFisbY1I_cPd7B5K3nUuw47w7wH_Iv9kg=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>HC/Nem Life MF Dual incernate totem + IR</name>
+    <description>Marauder, 55 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgEBAnEEsxRNGS4aOCECIVUn7Sr2LdIxnjkOOtg64TwtQT9N2FBQUeZUSVhjWfNfP3Kpe4x8u3zZjHaMz5BVogCmV6eEqWisqrQvtz653cAaxPbFisauxtjUj9w93sHkredS7DjvDvAf8i_yRfZI_go=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>HC/Nem Life MF Dual incernate totem + IR</name>
+    <description>Marauder, 62 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgEBAnEEsxRNGS4aOCECIVUn7Sr2LdIxnjWSOQ462DrhPC1BP0GHTdhN41BQUeZUSVhjWfNfP3Kpe4x8u3zZiPGMdozPkFWiAKZXp4SpaKxZrKq0L7c-ud3AGsT2xYrGrsbY1I_cPd7B5K3nUudj7DjvDvAf8i_yRfZI_gr-jw==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>HC/Nem Life MF Dual incernate totem + IR</name>
+    <description>Marauder, 69 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgEBAnEEsxRNGS4aOCECIVUn7Sr2LdIxnjWSNuk5DjrYOuE8LT0PQT9Bh03YTeNQUFHmVElYY1nzXz9mnnKpe4x8u3zZffWI8Yx2jM-QVaIAplenhKlorFmsqrQvtz653cAaxBXE9sWKxq7G2NSP3D3eweSt51LnY-w47w7wH_Iv8kX2SPno-tL-Cv6P</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>HC/Nem Life MF Dual incernate totem + IR</name>
+    <description>Marauder, 75 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgEBAnEEsxRNGS4ZhRo4IQIhVSSqJ-0q9i3SMZ41kjbpOQ462DrhPC09D0E_QYdKyE3YTeNQUFHmVElYY1nzXz9mnm6qcql7jHy7fNl99YjxjHaMz5BVogCmV6eEqWisWayqtC-18rc-ud3AGsQVxPbFisauxtjUj9w93sHjauSt51LnY-w47w7wH_Iv8kX2SPno-tL-Cv6P</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>HC/Nem Life MF Dual incernate totem + IR</name>
+    <description>Marauder, 88 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgEBAnEEsxRNFSAZLhmFGjghAiFVJKon7SpNKvYs6S3SMZ41kjbpOQ462DrhPC09Dz8nQT9Bh0p9SshN2E3jUFBR5lRJWGNZ818_Zp5noGwWbqpyqXuMfLt82X31g9uHdojxjHaMz5BVogCmV6eEqWisWayqtC-18rc-ud3AGsQVxPbFisauxtjOcdSP3D3dDd7B42rkredS52PsOO8O8B_yL_JF9kj56PrS_Ev8xf4K_o8=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>HC/Nem Life MF Dual incernate totem + IR</name>
+    <description>Marauder, 88 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgEBAP0EsxRNFLAVIBdQGS4ZhRo4HRQkqiftKhMqTSynLOkt0jWSNuk62DrhPC0_J0GHSn1KyEwtTdhN41BQVElVxlhjWfNaK18_Zp5noG6qfLuCHoPbh3aI8Yx2jM-PRpBVm6GiAKPyplenCKeErFmsmKyqtfK3PrndwBrEFcT2xYrGrsbYz2XQ0NSP2t3bC90N42rnUudj7DjvDvAf8i_yRfZI99f56PrS_Ev8xf4K_o8=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>HC/Nem Life MF Dual incernate totem + IR</name>
+    <description>Marauder, 91 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgEBAP0EsxRNFLAVIBdQGS4ZhRo4HRQkqiftKaUqEypNLKcs6S3SNZI26TrYOuE8LT8nQYdKfUrITC1N2E3jTipQUFRJVcZYY1nzWitbr18_Zp5noG6qfLuCHoPbh3aI8Yx2jM-PRpBVm6GiAKPyplenCKeErFmsmKyqtfK3PrndwBrEFcT2xYrGrsbYz2XQ0NSP2t3bC90N42rnUudj7DjvDvAf8i_yRfZI99f56PrS_Ev8xf4K_o8=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>HC/Nem Life MF Dual incernate totem + IR</name>
+    <description>Marauder, 98 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgEBAP0EsxRNFLAVIBZvF1AZLhmFGjgdFCSqJ-0ppSoTKk0spyzpLdIxnjWSNuk62DrhPC09Dz8nQYdKfUrITC1N2E3jTipQUFRJVcZYY1nzWitbr18_Zp5noGwWbqp8u331gh6D24d2iPGMdozPj0aQVZuhogCj8qZXpwinhKxZrJisqrXytz653cAaxBXE9sWKxq7G2M5xz2XQ0NSP2t3bC90N42rnUudj7DjvDvAf8i_yRfPd9kj31_no-tL8S_zF_gr-jw==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>HC/Nem Life MF Dual incernate totem + IR</name>
+    <description>Marauder, 103 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgEBAP0EsxRNFLAVIBZvF1AZLhmFGjgdFCSqJ-0pTymlKhMqTSynLOkt0jGeNZI26TqzOtg64TwtPQ8_J0GHSn1KyEwtTdhN404qUFBUSVXGWGNZ81orW69fP2BtZp5noGwWbqp8u331gh6Cm4M4g9uHdojxjHaMz49GkFWboZ2AogCj8qZXpwinhKxZrJisqrXytz653cAaxPbFisauxtjOcc9l0NDUj9rd2wvdDeNq51LnY-w47w7wH_Iv8kXz3fZI99f56PrS_Ev8xf4K_o8=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>HC/Nem Life MF Dual incernate totem + IR</name>
+    <description>Marauder, 108 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgEBAP0EsxDMFE0UsBUgFm8XUBkuGYUaOB0UJKon7SlPKaUqEypNLKcs6S3SMZ41kjbpOrM62DrhPC09Dz8nQYdKfUrITC1N2E3jTipQUFRJVcZYY1nzWitbr18_YG1mnmegbBZuqnsgfLt99YIegpuDOIPbh3aI8Yx2jM-PRpBVm6GdgKIAo_KmV6cIp4SsWayYrKq18rc-ud3AGsMTxPbFisauxtjOcc9l0NDUj9rd2wvdDeNq51LnY-w47w7wH_Iv8kXz3fZI99f4k_no-tL8S_zF_gr-h_6P</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Double &amp;quot;Spark Totem&amp;quot; Witch - UNDER CONSTRUCTION</name>
+    <description>Witch, 113 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgMA37CCEJLBjr4RLXyDzfq4k6eU0f1eXevuKPoy0UVHtQTkIilPhX0WQGaewBpZ8yoTwxMsp45k96Z-r3YR5OzBtCycrrMFQkGWVa5Eq4-mLR-NGeAS3Yy1hS5w5kzZX20ZwfOCHohC8h3BxSy_hq4V19eGVmPsGMNtO-Hi96cri3qCm9V1zLfyzuq6hEg8jgFvV8k3g6brLKY3ZjQK7Dg62Hy7JIv3wbvWEVCCx_noQYe3PsauEMz-h3sg-JOj8k3YjHaePIFvcU2az0NjtzFY9Z3EXIrmgcBUB2MYPL0nkzoIZw==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Double &amp;quot;Spark Totem&amp;quot; Witch - UNDER CONSTRUCTION</name>
+    <description>Witch, 114 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgMA37CCEI6-ES18g836uJOnlNH9Xl3r7ij6MtFFR7UE5CIpT4V9FkBmnsAaWfMqE8MTLKeOZPemLJyuswVCQZZVrkSrj6YtH20ZwfOCHohC8h3BxSy_hq4V19eGVmPsGMNtO-Hi96cri3rquoRIPI4Bb1fJN4Om6yymN2Y0Cuw4Oti71hFQgsf56EGHtz7GrhDM_od7IPiTo_JN2Ix2njyBb3FNms9DY7cxWPWdxFyK5oHAVAdjGDy9J5M6CGdXK3NTrKpyqfcy-OtKxFjl9q6Q1hHbXcZG193zYG08LcT2d2In7fPd</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Scion CI 3x ARC totems</name>
+    <description>Scion, 110 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgABt9YIZ1fh-WUhw5DWuJOnlF5d0f2nCNgkNsUfAn6vdhHk7MG0LJxJsgLjB6WCEN-wVa5Eq4-mLR-NGeAS3YxtGTvh4venK8HzoqN_xsHFLL_sGMNthq4V19eGVmOPRlnzKhMsp1oro_LQ0JuhZ73ub4KbXcZG193zYG2dgBGWDkjjhMBRcNVwUl3yiGu29xEvnaP8q4hC8h0pT-w4OthN2Ix25CIabJ2utQTAGmae-tIdFOvuKPrqujeDpusspnFNms9DY7cxWPWdxH4zpJETnow25Rm0OPv11U_edw==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Tanky Scion, Easy Nemesis Solo Build</name>
+    <description>Scion, 20 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgABMZ4yCTWSSshN42xGbqpybILkiPGKr5ARplepbqxZtfK-vOdj_gr-jw==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Tanky Scion, Easy Nemesis Solo Build</name>
+    <description>Scion, 43 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgABAdwFLRv6Jd8xnjIJNZJAoEd-SshN41PfWNtgS2VNbEZuqnJsdO14DXrvguSE2YTviPGKr5ARmSubg565pBmmV6luq8WsWayvtfK9gb6KvrznY_4K_o8=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Tanky Scion, Easy Nemesis Solo Build</name>
+    <description>Scion, 75 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgABAdwFLRLhFm8aOBv6HRQhYCXfJ-0t0jGeMgk0NTWSOtg8LUCgR35KyE3jU99VxljbWfNgS2EhZU1mnmxGbqpybHTtdPF3YngNeu-C5ITZhO-FMojxiq-PRpARkFWZK5uDnrmkGaZXp4SpbqvFrFmsqqyvtfK3Pr2Bvoq-vMAawQfE9sauz2XQ0Nd-52PsOPPd-tL-Cv6P</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Tanky Scion, Easy Nemesis Solo Build</name>
+    <description>Scion, 102 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgABAdwCcQSzBS0S4RRNFm8Y2xo4G_odFCFgJd8n7SmlLdIxnjIJNDU1kjbpOtg8LUCgR35KyE3YTeNOKk99U99VxljbWfNbr2BLYSFlTWaebEZuaW6qcH1ybHKpdO108XgNeu98u3zZgFaC5IM4hNmE74UyiPGKr4x2j0aQEZBVmSubg565ogCkGaZXp4SpbqvFrFmsqqyvtPm18rc-vYG-ir6nvrzAD8AawQfE9sWKxq7PZdBH0NDSTdd-42rnY-w473zwH_Pd-tL-Cv6P</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>CI MM Energy Shield Witch.</name>
+    <description>Witch, 100 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgMBBAcHYw5IEHsRLxFQEZYV1xbzGmwc3B3ZHwImPCj6KU8qmCsKLKYsvy0fL500CjbFN2Y3gzrYO-FDVEcGSOdMs025TdhPv1ZjVytakWqsa9ttGXNTe9d9GH_GgW-CHoLHhWCGrohAiEKIa4t6jHaPRo_6kDOTJ5uhna6ePKKjpqym66cIpyuofarEtAy0xbb3u9a-OsBUwQDBxcHzwuzDbcy80NDT-9eG2CTZC9sa2-fi9-OE5CLmgeq67BjsOOyK9Uv31_no-oA=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Storm caller Witch</name>
+    <description>Witch, 20 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgMBBAcFQh8CLJwtHzbFPV9BlkyzUlNVroIQj0aPppeVl_SnCK6z2CTfsA==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Storm caller Witch</name>
+    <description>Witch, 40 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgMBBAcFQhZAFm8ZhR0UHwIkqilPLJwtHzbFNuk9X0GWQ2NMs1JTVa5Vxlj1Zp5xTYIQhX2PRo-ml5WX9JrPncSnCK6ztzHPZdDQ2CTfsONq-tI=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Storm caller Witch</name>
+    <description>Witch, 60 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgMBAnEEBwSzBUIUTRZAFm8ZhR0UHwIkqilPLJwtHzbFNuk9X0GWQ2NMs03YUlNVrlXGWPVgbWaecU19U4FvghCCm4M4hX2Mdo9Gj6aXlZf0ms-dgJ3EnjyiAKcIrrO3McWKzLfPZdDQ1XXYJN0F37Djau988B_yzvrS</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Storm caller Witch</name>
+    <description>Witch, 120 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgMBAnEEBwSzBUIOSBGWE54UTRZAFm8XLxmFGmwc3B8CJKoksCaVKU8snC0fL281kjbFNuk64TwtPV9Bh0GWQ2NMs0z_TdhN41AwUlNVS1WuVcZY9V3yXypgbWZPZp5nvW0ZbXtwUnC7cNVxTX1TfjN_xoCkgUmBb4IQgpuDOIV9htGI8Yw2jHaNGY9Gj6aXlZf0ms-boZ2AnaOdrp3EnjyiAKKjpJGmV6cIrFmus69ssji3Mbc-wFHB88WKxq7Mt89l0NDVddgk2RPbXt0F3YzfsOAS42rjhOdj6-Tub-988B_xdvJF8s756PrS_Kv-Cv6P</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Power Siphon Witch</name>
+    <description>Witch, 20 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgMBB2MOSBFQEZYnqTvhVyttGXBScNV-WX_GnaOio7vWwFHB8-OE5oH8qw==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Power Siphon Witch</name>
+    <description>Witch, 40 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgMBBAcHYw5IEVARlh8CJ6ktHzbFO-E_c0qMTLNQMFcrV4dfKmNDbRlwUnDVeM5-WX_GgK6do6IEoqOnNLvWwFHB89Mb2wLbXuOE5oHr5Prv_Ks=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Power Siphon Witch</name>
+    <description>Witch, 60 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgMBBAcHYw5IEVARlhpsHwInqSlPLR8vbzGJMok2xTvhP3NKjEyzUDBXK1eHV-JZvF8qYbFjQ20ZcFJwu3DVd-V4zn5Zf8aAroKbhX2do52uogSio6cIpzS71sBRwfPFKNMb2CTZE9sC217jhOQi5oHr5Ow49lv67_yr</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Power Siphon Witch</name>
+    <description>Witch, 80 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgMBAcwEBwdjDH0OSBB_ES8RUBGWGmwfAiUBJ6kpTy0fL28xiTKJNsU62DvhP3NG10qMTLNN2FAwVytXh1fiWbxdxl8qYbFjQ2nTbRlwUnC7cNV35XjOfll_xoCugpuFfYhri4yMdp2jna6iBKKjpwinNLUEtve4k7vWwFHB88Uoxp7TG9gk2RPbAtte4XPjhOQi5oHr5Ow47SDyF_Zb-u_8qw==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Power Siphon Witch</name>
+    <description>Witch, 100 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgMBAcwEBwdjDH0OSA_EEH8RLxFQEZYV1xnXGmwfAiUBJ6kpTyy_LR8vbzGJMok2xTrYO3w74T9zRtdHBkqMTLNN2FAwVmNXK1eHV-JZvFqmXcZfKl9qYbFjQ2nTbRlwUnC7cNV35XjOfll_xoCugpuFfYauiGuLjIx2mZqdo52uogSio6cIpzS1BLb3uJO4yrvWwFHBxcHzwuzDbcUoxp7TG9eG2CTZE9sC217cx-Fz44TkIuaB62Pr5OwY7DjtIPIX8uH2W_rv_Ks=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Power Siphon Witch</name>
+    <description>Witch, 116 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgMBAP0BzAQHBVsHYwx9DkgPxBB_ES8RUBGWEb8UsBXXGdcabB8CJQEnqSlPKVQsvy0fL28xiTKJNMs2xTowOtg7fDvhP3NG10cGSoxKmkyzTdhQMFZjVytXh1fiWbxapl3GXypfamGxY0Np020ZcFJwu3DVdFV35XjOfM5-WX_GgK6Cm4V9hq6Hnohri4yMdpmanaOdrqIEoqOnCKcrpzS1BLb3uJO4yrvWwFHBxcHzwuzDbcUoxp7Q-9Mb14bYJNkT2wLbXtzH4XPi9-OE5CLmgetj6-TsGOw47SDyF_Lh8wX2W_rv_GT8qw==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Low Life Dagger Crit Spectral Thrower w/ Pain Attunement and Crown of Eyes</name>
+    <description>Scion, 82 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgAAAecDlgV9DkgRLxGWFSAWvxjbHNwhYCi1KaUqOCpNLOEs6TJ-Nug6UjsoPydAoEZxRwZKyE4qVgRW6luvX2pgQ2CIYVJjQ249cFJwVnTxe9d-WX_GguSDCYZgh9uIQoqvjoqP-pARkBuTJ5mamhOdo565n8uiLqKjpn-sZrGztAy1SLb3vrzAUcHFwuzDbdh229TdDeOE62PsGO1B707y4fPq_Ks=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Low Life Dagger Crit Spectral Thrower w/ Pain Attunement and Crown of Eyes</name>
+    <description>Scion, 107 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgAAAecDlgV9DkgQexEvEZYVIBa_GNsc3CFgKLUppSo4Kk0rCiymLOEs6S9vMn40CjboN2Y3gzpSOyg74T8nQKBGcUcGSshOKlYEVupW9VuvXIpfamBDYIhhUmNDbRluPXBScFZwu3Txe9d9435Zf8aC5IMJhmCH24hCiq-Oio_6kBGQG5Mnl9CZmpoTnaOeuZ_LoqOmf6brpyusZrGztAy0xbVItve5Pr46vrzAUcEAwcXB88Lsw23YdtkT2xrbbtvU3Q3i9-OE62PsGO1B707y4fPq9Uv8qw==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>&amp;quot;FireSpear&amp;quot; Templar,Ice spear with Avatar of Fire, Prolif and Cold to Fire</name>
+    <description>Templar, 117 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgUAAecCcQSzBVsGDgn2EGkSaRQgFE0UcRZvFxwX6hkuGYUabB8CJIskqiThJa0n7SlPKo0t0jCXNZI2xTbYNuk5ijrYOuE8LT0PQapG103jUEdQUFRJVcZXDVhjXcZfP2BtY_1mT2aeah5xeXy7fVOBSYKbgziHZYgbiPGLjIzPjmSPRpHOl4WcLZ2Ana6eoZ7Nn8uiAKZXpwinMKgYrFmvja-bsji2hrb6tz653bvtxPbGrsbYz2XQ0NIh2CTZYd3z37_hc-Nq5CLnUudj7DjsVe0g7w7vhfAf8i_yRfPd9kj3pvrS-0X-Cv6P</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>AOF Templar Physical Spellcaster</name>
+    <description>Templar, 21 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgUABVsaOClPRtddxmaeeuZ9U4Kbi4yQVaeEr422hsAa1Hzd8-Fz52rsOO0g</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>AOF Templar Physical Spellcaster</name>
+    <description>Templar, 47 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgUAAnEEswVbFE0aOCftKU8qEyynPC1Bh0bXWfNaK13GYG1mnmh0euZ9U4KbgziLjJBVlKCdgKIAo_KnhKyqr422hrc-wBrDE8T2xq7UfNhN2mLd8-Fz52rsOO0g8B_56A==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>AOF Templar Physical Spellcaster</name>
+    <description>Templar, 47 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgUABVsVUBo4GmwfAiSLKU8qjTbFNtg62D0PRtdJG1nzXcZgbWaeeuZ8u31TffWCm4dli4yQVZeFnC2drqcIp4Svja-3tobAGsT21HzYJNrd3fPhc-Qi52rsOOxV7SDzcQ==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>AOF Templar Physical Spellcaster</name>
+    <description>Templar, 92 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgUAAnEEswVbFE0ZhRo4GmwfAiSLJKolvClPKhMqjSynMZ41kjbFNtg26TrYOuE8LT0PQYdBqkbXTdhN41nzWitdxmBtZp5odHKpeuZ8u31TffWBb4Kbh2WI8YuMjHaQVZSgl4WcLZ2unjyiAKPyplenCKeEp5SsWayqr422hrc-uJPAGsMTxPbGrtH91HzYJNhN2mLa3d3z37_hc-Nq5CLnY-dq7DjsVe0g8B_yRfNx9zL46_no_gr-jw==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>AOF Templar Physical Spellcaster</name>
+    <description>Templar, 106 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgUAAnEEswVbBg4J9hDMFE0UcRhdGjgdFB8CJIslrSW8J-0pTyoTKo0spzGeNsU22DbpOuE8LT0PQYdBqkNjRtdKxE3YWOVY9VnzXcZgbWP9Zp5odHFNcql65nsgfLt9U331gW-Cm4dliPGLjIx2j0aQVZSgl4Waz5wtnYCdxJ48ogCj8qZXpwinhKeUqWisqq-NtzG3PriTwBrDE8T2xq7R_dR82CTYTdpi2t3dBd3z37_hc-Nq52Pnauw47FXtIPAf8kXzcfau9zL4k_jr-ej60v4K_oc=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Discharge Witch (Voll&amp;#39;s)</name>
+    <description>Witch, 83 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgMBAW8EBwVCFVAV1xpsHRQfAiSLKPopTyycLL8tHy3SNsU62DvhPI49X0GWQ2NHBkyzTdhSU1WuVmNXyVj1WfNd8l9qY0Nmnm0ZcFJw1XFNfLuBb4IQgh6ESIV9hq6IQox2j0aP-peVl_Saz52uncSePKcIpyuus7cxuJPAGsBRwcXB88Lsw23Xhtgk2t3b59-w4vfjhOQi6rrr7uwY7DjyHfLh98H60g==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Low life Spark Witch</name>
+    <description>Witch, 24 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgMBB2MRUCepO-FHBlcrY0NtGX5Zf8aP-qKjpyu71sBUwcXB88Ls2-fi9-OE5oHsGPLh</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Low life Spark Witch</name>
+    <description>Witch, 57 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgMBBAcHYxEvEVAVUBZAGmwfAiepKU8tHzbFOtg74UNjRwZMs03YVytY9WNDZp5tGXFNfll_xoFvhX2Ia4x2j_qZmprPna6dxJ48oqOnCKcrtve3MbvWwFTBxcHzwuzYJNrd2-fi9-OE5CLmgetj7BjsOPLh</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Low life Spark Witch</name>
+    <description>Witch, 74 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgMBAnEEBwSzB2MRLxFQFVAWQBpsHwIkiyepKU8tHzbFOtg74T0PQ2NHBkyzTdhXK1j1XcZen2BtY0Nmnm0ZcU1zU3xLfLt-WX_GgW-FfYhrjHaP-pmams-dgJ2uncSePKKjpwinK7UEtoa297cxu9bAVMHFwfPC7MT22CTa3dvn3QXd8-L344TkIuaB62PsGOwZ7Djy4Q==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Low life Spark Witch</name>
+    <description>Witch, 101 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgMBAnEEBwSzB2MMfRB_ES8RUBVQFkAabB8CJIsnqSj6KU8tHzbFOtg74T0PQ2NHBkyzTdhQMFcrWPVcil3GXfJen176XypgbWNDZp5tGXBScNVxTXNTdhF713xLfLt-WX6vf8aBb4LHhX2IQohrjHaP-pmams-dgJ2uncSePKKjpwinK7UEtoa297cxuJO71sBRwFTBxcHzwuzDbcT2xp7YJNrd217b590F3fPi9-OE5CLmgetj6-Tr7uwY7BnsOPId8uHz6vfB-ej8qw==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Low life Spark Witch</name>
+    <description>Witch, 120 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgMBAnEEBwSzB2MMfQ_EEH8RLxFQEZYTnhVQFkAabBzcHwIkiyepKPopTy0fL282xTrYO3w74T0PQ2NGcUcGTLNN2FAwVytY9VqmW_Rcil3GXfJen18qYG1jQ2aebRlwUnC7cNVxTXNTdhF713xLfLt-M35Zfq9_xoFvgseFfYhCiGuMNox2j_qTJ5mams-dgJ2uncSePKKjpJGnCKcrtAy0xbUEtoa297cxuJO4yrvWwFHAVMHFwfPC7MNtxPbGntgk2RPa3dte2-fcx90F3fPhiOL344TkIuaB62Pr5Ovu7BjsGew48XbyHfLh8-r3wfno</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Duelist Spectral Throw</name>
+    <description>Duelist, 99 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgQAAecFLQgICZYMfRB_ER4TTBQgGlUbyCXfJyAo-imlME8xnjIJMn41kjboN-w6UjrhQKBBh0MxRZ1HfkrITeNOKlBHWK9eE2BLYSFkUmSjZU1lp2XwaylsRm5pbqpybHTtdU54DXqqeu-Cx4QMhNmE74cph2qI8ZBskx2UrZWbmSua4J65n8umV6cIpzCpbqmUq8WsWbXytkG3PriTvYG-p8GjxLjGntLq1BLV-Nrd32_iYedj6wnr7vJF97756PyJ_gr-j_9h</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Tri-Curse Burn Damage Templar</name>
+    <description>Templar, 101 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgUBAP0CcQSzBVsSaRRNFLAWbxccFy8XUBkuGYUaOBpsJKon7SlPKhMspzbFNtg26TlSOjA62DwFPC1Bh0jnSsRMLU3YTm1QUFRJVcZV1lgHWGNZ818_ZOdxeXKpeGmApIFvgh6DOIgbiPGLjIx2jM-PRpBVm6Gdrp48n9-iAKPypwinhKyYrKq3PrndvDfAGsMTxPbGrsbYz2XQ0NSP2CTa3dsL42rkIudS52PsOOxV7w7vfO-F8B_yL_Pd9kj2rvcy99f46_no-tL-Cg==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>&amp;quot;Melee Archer&amp;quot;. Super cheap Tanky &amp;gt;10k DPS PB RoA</name>
+    <description>Ranger, 23 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgIBAdEZ_hsBI_YknVpIYlqVyKEiokCn1K_ru-PEotN-3BXfmO4O73rv8PT4_rr-yA==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>&amp;quot;Melee Archer&amp;quot;. Super cheap Tanky &amp;gt;10k DPS PB RoA</name>
+    <description>Ranger, 47 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgIBAdEVIBn-GwEj9iSdKk0s6TGeNZI_J0p9SshN41b6WkhiWmegbBZuqoPbh3aI8ZXIoSKiQKZXp9SsWa_rtfK748SiznHTftwV3Q3fmO4O73rv8PT4_Ev8xf6P_rr-yA==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>&amp;quot;Melee Archer&amp;quot;. Super cheap Tanky &amp;gt;10k DPS PB RoA</name>
+    <description>Ranger, 75 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgIBAdEB5wR-BfkUIBUgFfAZ_hsBI_YknSmlKk0s6TGeMn4ylDWSNug6UjpYPydKfUrITeNOKlBHVvpYr1pIW69iWmegbBZuqnRBd9d4DX8Cg9uHGYd2iPGVBZXIn8uhIqJApMKmV6bgpzCn1KlurFmv67Xyu-PEos5x037ZxtwV3Q3fmO4O73rv8PT49778S_zF_o_-uv7I</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>&amp;quot;Melee Archer&amp;quot;. Super cheap Tanky &amp;gt;10k DPS PB RoA</name>
+    <description>Ranger, 105 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgIBAdEB5wR-BfkUIBUgFfAZtBn-GwEi6iP2JJ0nISmlKk0s6TGeMgEyCTJ-MpQ1kjboOlI6WDqzOuE_J0ZpSn1KyE3jTipQR1b6WK9aSFuvX-FiWmegayRsFmxGbqpybHRBd9d4DX8Cg9uHGYd2iPGQCpUFlciV6Zsmn8ujiqTCplem4Kcwp9SpbqxZr-uyGbXyu-O-p8APxKLK082YzerOcc960k3TftnG3BXdDd7G35jnY-jW6mLrFO4O73rv8PJF9776sfxL_MX-Cf4K_o_-uv7I</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Avatar of Fire Infernal blow Templar</name>
+    <description>Templar, 20 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgUBhMREcop0D1SpaBRNBLMCcaIA8B8yiXflV-LsOBo4p4SQVcAaZp6vjQ==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Physical Ground Slammer</name>
+    <description>Templar, 20 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgUBBLMPVBRNJ-08BTwtRHJM_4M4hMSKdJ_fogCpaKyqr2zE9sWK73zwHw==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Physical Ground Slammer</name>
+    <description>Templar, 40 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgUBBLMPVBRNFSAn7SpNLOkxnjWSOuE8BTwtPydEckrITP9N426qcql82YM4hMSKdJ_fogCmV6lorKqvbLXytz7E9sWKxq7dDe988B_yRf4K_o8=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Avatar of Fire Infernal blow Templar</name>
+    <description>Templar, 59 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgUBhMREcop0D1SpaBRNBLMCcaIA8B8yiXflV-LsOBo4p4SQVcAaZp6vjVnzrKpyqXzZJ-0ZLtSPud3yL-8O51JUSV8_9kiMz1BQWGPG2MT2PC3Grrc-_gryRTrhplcxnk3j_o81krXyqW54Db6KAdykGRv6Jd-E2Q==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Physical Ground Slammer</name>
+    <description>Templar, 60 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgUBBLMFLQ9UFE0VIBjbIWAn7SmlKk0s6TGeNZI64TwFPC0_J0CgQT9EckrITP9N404qUeZYPVuvYEtuqnKpdO108XrvfNmBK4M4hMSKdJSHnrmf36IAplepaKyqr2y0L7Xytz7E9sWKxq7dDd-y73zwH_JF9zL-Cv6P</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Avatar of Fire Infernal blow Templar</name>
+    <description>Templar, 81 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgUBhMREcop0D1SpaBRNBLMCcaIA8B8yiXflV-LsOBo4p4SQVcAaZp6vjVnzrKpyqXzZJ-0ZLtSPud3yL-8O51JUSV8_9kiMz1BQWGPG2MT2PC3Grrc-_gryRTrhplcxnk3j_o81krXyqW54Db6KAdykGRv6Jd-E2WVNR36rxdlhVw2RztIhns1256cwFHFBqt-_FCBQRxiRyZimZA_MbEZybDIJ</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Physical Ground Slammer</name>
+    <description>Templar, 120 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgUBAecEswUtCZYOPA9UD8wUIBRNFHEVIBcvGJEY2xkuGekhNCFgJbwnCyftKaUqTSzpMZ41kjboOuE7OzwFPC0_J0CgQT9BqkRySshM_03jTipQR1BQUeZUSVXWVvpYPVhjWfNbr18_YEtgxGTnZp5nWG6qcql07XTxdgh3U3rvfNl89YCkgSuDOIOxhMSIj4oiinSMz5SHnrmexZ_fogCmV6ZkpzCpaKyqr2y0L7Xytz653cAawKbA88T2xYrGrsbYyZjUj90N3sHfst-_5K3nUusJ7w7vfPAf8i_yRfPd9kj3Mve--Ov60vyJ_MX-Cv6P</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Avatar of Fire Infernal blow Templar</name>
+    <description>Templar, 103 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgUBhMREcop0D1SpaBRNogDwHwSzAnEyiXflV-LsOBo4p4SQVcAaWfOsqnKpfNkn7fPdGS7Uj7nd8i_vDudSVElfP_ZIjM9QUFhjxtjE9jwtxq63Pv4K52OI8axZ8kU64aZXMZ5N4_6PNZK18qlubEZybDIJeA2-itlhVw2RztIhns1256cwFCBQRxiRyZimZA_Mg7EB3KQZG_ol34TZZU1HfqvFbmm-p1HmtC9BP4M473zkrd7BZp6vjfrSNunjaiSqGYUUcUGq3789_Hy4KS4=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>5000+ chaos damage per second Poison arrow build</name>
+    <description>Ranger, 105 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgIBr-sB0aJA9PihIsSiu-P-un11037veu4OI_bv8FpIVvp0QXfXfyvWivzFZ6CHdkp93Q0s6crTGbT6sepi3sbNmL6n0k3ADxUgKk3rLEWWfVuSzaxH4oBMMj8nSshaUqiam13yl26qtfI1kv6PTeOmVzGeOuHyRf4K52OI8axZkvMZhspKwzqbtVM1bWy1SCpb1tHSGW17VUsmlYw2UEItRxzcf8bsGLTRdoLIDN1fu01n_FuvGNutSlKvzSaJ4OZYkx9JE41-t7anXElRJ6labSQ8</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>The Cheap Marauder for the starting player</name>
+    <description>Marauder, 30 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgEBAecUIBRxGS4n7SkuPfxBqlBHUFBXDVhjXz9nm3KpfLh82YzPns2nMKyqud3G2NIh1I_ZYd-_8i_2SPe-</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>The Cheap Marauder for the starting player</name>
+    <description>Marauder, 60 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgEBAecFLRQgFHEZLhpVJ-0pLjGeMgk1kjboOuE9_ECgQapN41BHUFBXDVhjWK9fP2BLYSFko2ebbEZybHKpdO1253gNeu98uHzZhO-I8YzPnrmezaZXpzCpbqxZrKq18rndxtjSIdSP2WHfv-dj8i_yRfZI977-Cv6P</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>The Cheap Marauder for the starting player</name>
+    <description>Marauder, 92 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgEBAecCcQSzBS0S4RQgFE0WbxkuGlUabCSLJ-0pLilPLdIxnjIJMok1kjboOtg64T0PPfxAoE3jUEdQUFXGVw1X4lhjWK9fP2BLYSFko2ebbEZybHKpdO1253fleA1673y4fLt82YTZhO-HaojxjM-PRpBskc6drp65ns2fy6IAplenCKcwqWipbqmUrFmsqrT5tfK53cT2xtjPZdDQ0iHUj9lh5CLnY-w48B_yL_JF8932SPe-_gr-jw==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Psytros Fire Battery</name>
+    <description>Witch, 21 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgMAAuMHYwelFVAfAiycNsVJG0myVytzU4IQh2WPRpwtpwivt8BU2CTa3d-w</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Psytros Fire Battery</name>
+    <description>Witch, 45 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgMAAuMHYwelEmkVUBZvFxwZhRpsHwIkqiqNLJw2xTbYNulJG0myVcZXK2aecXlzU4IQh2WIG49Gl4WcLZ2upwivja-3uJPAVM9l0NDYJNrd37Djauvu7FXvhfrS</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Psytros Fire Battery</name>
+    <description>Witch, 71 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgMAAuMHYwelCGcSaRVQFm8XHBcvGDwdFB8CKPoqjSycLR82xTbYNulBh0SrSRtJslWuVcZV1lcrV-Fk52aebRlxeXNTfll_xoCkghCCHoLHh2WIG49Gj6aTOpeFnC2drqKjpwivja-3tz64k70nwFTB889l0NDYJNrd2wvfsONq52Ppc-vu7FXvhfno-tL-Cg==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Psytros Fire Battery</name>
+    <description>Witch, 88 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgMAAuMHYwelCGcSaRVQFm8XHBcvGDwc3B0UHwIkPCepKPoqjSycLR81kjbFNtg26UGHRKtJG0lRSbJKyFWuVcZV1lcrV-FabWTnZp5tGW6qcXlzU35Zf8aApIIQgh6Cx4Lkh2WIG4jxiq-PRo-mkBGTOpeFnC2drqKjpwinXKxZr42vt7Xytz64k70nwFTB889l0NDYJNrd2wvfsONq52Ppc-vu7FXvhfF2-WX56PrS_go=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Psytros Fire Battery</name>
+    <description>Witch, 93 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgMAAuMHYwelCGcR2xJpFVAWbxccFy8YPBzcHRQfAiHDJDwnqSj6Kk0qjSycLR81kjbFNtg26T8nQYdEq0kbSVFJskrIS0lVrlXGVdZXK1fhWm1k520ZbqpxeXNTfll_xoCkghCCHoLHguSHZYgbiPGKr49Gj6aQEZDWkjiTOpeFnC2drqKjpwinXKxZr7e18rc-uJO9J8BUwfPPZdDQ2CTa3dsL37Djaudj6XPr7uxV74Xxdvll-ej60v4K</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Psytros Fire Battery</name>
+    <description>Witch, 92 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgMAAuMHYwelCPQMfRB_EZYR2xJpFVAWbxccFy8ZhRpsHNwfAiQ8JKonqSj6LJwzdjbFNtg26TgbO-FBh0WdSRtJUUmyVcZV1lcrWm1k52aebRlwu3F5c1N5A3qqfll_xoCkghCCHoLHh2WIG4hCiPGLeo9Gkc-SOJMnmuCcLZ2uoqOnCKcrp1yvja-3tz64k8BUwfPGns9l0NDYJNrd2wvfsOL342rkEedj6-7sVe-F8XbyHfno-tL-Cg==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Psytros Fire Battery</name>
+    <description>Witch, 116 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgMBAecC4wPGBg4HYwelCGcJ9g0CEdsSaRRxFSAVUBZvFxwXLxg8GbQc3B0UHwIhwyQ8Ja0nqSj6Kk0qjSycLOktHzWSNsU22DboNuk_J0GHRKtJG0lRSbJKyEtJVa5VxlXWVytX4VivWm1j_WTnapNtGW6qcXlzU3gNfll_xoCkghCCHoLHguSHZYgbiPGKr49Gj6aQEZDWkjiTOpeFnC2drqKjpwinMKdcqW6sWa-3tfK3PriTvSfAD8AZwFTB88rTz2XQ0NJN1e3YJNrd2wvfsONq52Ppc-vu7FXvhfF2-WX56PrS_Qv-Cg==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Darkscorn EK ranger</name>
+    <description>Ranger, 106 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgIAm40ILu2DGY4AXtN-fXX-uiSdYlq748SioSL0-KJAlwYF-aOKmyYyAbIZz3ph63pTFfA6WAR-hxnnVNUAJP1wUnDVXfKMNlVLJpVte7VIKlvW0dIZHNyTJ9xXHpSsP3_GJ6labSQ8p1xJURGWnaP8q8HFiELyHYIe2wv5Y73mPs9RR6q4qn-NfTB8TZJ_K9aK73r8xWegh3ZKfd0NW68Y23TxhTJwu3jr3ILnCm_yOdSgn-jW3vbndGHih9vrY5matvcRL51j5Y6ksRa_8-qiLlBCLUc=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Evasion Tank Ranger &amp;quot;Can&amp;#39;t touch me&amp;quot;</name>
+    <description>Ranger, 28 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgIBm40ILu2DGY4AXtN-eK5I7hutPeK309fLGtv5Y73mPs9RR42_BbXUI92oxqIwcUt4OkIwfH8r1oo=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Evasion Tank Ranger &amp;quot;Can&amp;#39;t touch me&amp;quot;</name>
+    <description>Ranger, 59 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgIBm40ILu2DGY4AXtN-eK5I7hutPeK309fLGtv5Y73mPs9RR42_BbXUI92oxqIwcUt4OkIwfH8r1orvevajr6cs6RUgKk0_J0rIbqq18jWSrFmI8edj_gq3PsauPC3E9iftrKpZ88AaZp760nB9qZUaMlFgT32AVg==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Evasion Tank Ranger &amp;quot;Can&amp;#39;t touch me&amp;quot;</name>
+    <description>Ranger, 87 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgIBAF4FtQguFSAWbxmOGjIa2xutHRQknSftKMUqTSzpMHEwfDWSOkI8LT3iPs8_J0WWSO5KyEt4TDVPfVFHUWBVxlnzWz1iWmaebqpwfXiufVt9dX8rgFaC5Ijxiq-Nv49GkBGSzZuNnyenCKmVrEesWayqr6e18rc-t9O95sAaxBXE9saixq7N6s9l0NDTftQj1orXy92o52PrFOss7YPvevO-8932o_lj-tL-Cv66</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Evasion Tank Ranger &amp;quot;Can&amp;#39;t touch me&amp;quot;</name>
+    <description>Ranger, 83 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgIBm40ILu2DGY4AXtN-fXX-uniuSO494rfTG63Xyxrb-WO95j7PUUeNvwW11CPdqMaiMHFLeDpCzerrFDB8fyvWiu969qOvpyzpWz0VICpN6yySzaxHRZZ9Wz8nSshuqrXyNZKsWYjx52P-Crc-xq48LcT2xBUn7fPdrKpZ88AaZp760nB9qZUaMoqvkBGC5FFgT32AVh0UTDUoxfO-j0bQ0M9lVcYWbw==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>CI VP Claw+Shield Reave</name>
+    <description>Shadow, 90 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgYA_5MeGjBUmVcoKrVIsbPtQaZ_h9vrY5matveIaxEvNj3jhKXLDkgM8qc0EZYFtX_GtMWNv8HFoqPC7EBVKwpRRyy_7BjB80cGb1fBAD7Phq7DbW0ZX2oMjdsaveYV1zvhDUkQe_lj14a71uL39Usa21ZjEVCnK7467g6Lelb6_MXdDVuvTioppbZBapNaGtXtwA_STb6nbmmE2VjbU9-bg4TvYSEaVWSjNugB55_LTGAEsZVm</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>CI VP Claw+Shield Reave</name>
+    <description>Shadow, 105 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgYA_5MeGjBUmVcoKrVIsbPtQaZ_h9vrY5matveIaxEvNj3jhKXLDkgM8qc0EZYFtX_GcLu0xY2_wcWio8LsQFUrClFHLL_sGMHzRwZvV8EAPs-GrsNtbRlfagyN2xq95hXXO-ENSRB7-WPXhrvW4vf1SxrbVmMRUKcrvjruDkxgi3pW-gSx_MWVZt0NW69OKimltkFqk1oa1e0shcAPdPHSTSFgvqdAoG5p706euYTZKLVY2yo4U9-bg4TvYSEaVWSjNugB55_LA4cbrZ8nFRr68Ra_</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Duelist Spectral Doublestriker 2H Axe</name>
+    <description>Duelist, 120 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgQAAecFLQmWER4S2RLhE0wUIBUgGj4aVRv6IVUj9iXfJvgnICmlLOkwTzB3MZ4yCTJ-NZI26DkOOlI64UCgQzFHfkp9SshN404qUEdVtVYEVvpYr1pIW69gS2C7YSFkUmSjZU1lp2XwZ6Bqk2wWbEZuaW6qcmx07XVOeA1674Lkg9uE2YTvhmCHaod2iPGKr5ARkGyUrZWbmSubLZwnnrmezZ_LoJ2kGaZXpo2nMKluqXOplKvFrFmuULXytkG9gb6nvrzAD8EEwaPOcdBH0k3S6tXt3D3dDeJh52PrCe4O7hTv8PJF9778S_yJ_MX-Cv6P</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Life Based CritCharger</name>
+    <description>Shadow, 21 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgYBDkgRliQ8JpUnqVBCVUtabWKsbXt_xow2naqiLrQ4tUjVT9ad3nflGfv1</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Life Based CritCharger</name>
+    <description>Shadow, 42 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgYBBX0OSBGWFr8kPCaVJ6lJUVBCVUtW6lptXfJh4mKsY0Nte3BScFZw1X_Gh9uIQow2kBuaE52qoi6nXLQ4tUjAUcHF1U_WndvU3nfjhOUZ53Tz6vv1</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Life Based CritCharger</name>
+    <description>Shadow, 66 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgYBBH4FfQX5DkgRlhXwFr8a2yP2JDwmlSepKaU6WElRSn1OKlBCVUtW6lb6WkhabVuvXfJh4mKsY0NnoG17cFJwVnDVf8aHGYd2h9uIQow2kBuaE5smnaqiLqOKp1y0OLVIwFHBxdVP1p3b1N0N3nfe9uOE5RnndOjW7g7v8PPq-WP79fzF</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Life Based CritCharger</name>
+    <description>Shadow, 87 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgYBBH4FfQX5DkgRlhUgFfAWvxrbI_YkPCT9JpUnqSmlKk0s6TIBNZI6WD8nSVFKfUrITipQQlVLVupW-lpIWm1br13yXvph4mNDZ6BsFm17bqpwUnBWcNV_xoIeg9uHGYd2h9uIQojxjDaQG5oTmyado6Iuo4qnXKxZshm0OLVItfLAUcHFznHPetVP2wvb1N0N3nfe9uOE5RnnVOd06NbuDu_w8-r5Y_v1_Ev8q_zF</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Righteous Fire + Incinerate Marauder (Skill Tree Updated for 1.0.5)</name>
+    <description>Marauder, 30 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgEAAecFLRpVJ9U26FBQVElXDVhjXz9gS2EhZKNqHnTteu-E74zPns2nMKgYud3EWMbY0iHZYedS7w7yL_ZI</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Life Based CritCharger</name>
+    <description>Shadow, 104 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgYBAecEfgV9BfkOSBGWFSAV8Ba_F9ga2xzcI_YkPCaVJ6kppSoLKk0s6TWSNug6WD8nSVFKfUrITipQQlO4VUtW6lb6WK9aSFptW69b9F3yXvph4mKsY0NnoGo_bBZte26qcFJwVnDVeA1_xoIeg9uFVYcZh3aH24hCiPGJ04w2kBuTJ5oTmyado52qn8uiLqOKp1ypbqxZtAy0OLVItfK95sBRwcXOcdA51U_WndsL29TdDd533vbjhOUZ53To1u4O7_DxdvPq-WP79fxL_Kv8xQ==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Righteous Fire + Incinerate Marauder (Skill Tree Updated for 1.0.5)</name>
+    <description>Marauder, 45 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgEAAecFLQ48FHEZLhpVJwsn1SftNug8LUGHQqNQUFRJVw1YY18_YEthIWSjaHR07XYIeu-E74zPlKCezacwtz653cRYxPbGrsbY0iHUj9lh2mLnUu8O8932SPno</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Life Based CritCharger</name>
+    <description>Shadow, 88 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgYBBH4FfQX5DkgRlhUgFfAWvxrbI_YkPCT9JpUnqSmlKk0s6TIBNZI6WD8nSVFKfUrITipQQlVLVupW-lpIWm1br13yXvph4mNDZ6BsFm17bqpwUnBWcNV_xoIeg9uHGYd2h9uIQojxjDaQG5oTmyado6Iuo4qnXKxZshm0OLVItfLAUcHFznHPetVP2wvb1N0N3nfe9uOE5RnnVOd06NbuDu_w8h3z6vlj-_X8S_yr_MU=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Righteous Fire + Incinerate Marauder (Skill Tree Updated for 1.0.5)</name>
+    <description>Marauder, 80 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgEAAecCcQQHBLMFLQ48FHEXLxkuGYUaVRpsHwIkiySqJLAnCyfVJ-0pTy0fNsU26DbpOtg8LT0PQYdCo0yzUFBUSVXWVw1YY18_YEthIWSjZOdodG0ZdO12CHrvfLuApIIehO-G0YzPlKCdrp7NpwinMLc-ud3B88RYxPbFisauxtjSIdSP2CTZYdpi2wvjauQi51LsOO8O8B_z3fZI-ej60g==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Righteous Fire + Incinerate Marauder (Skill Tree Updated for 1.0.5)</name>
+    <description>Marauder, 118 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgEAAecCcQQHBLMFLQYOCfYOPBGWEuEUIBRNFHEWbxcvGS4ZhRpVGmwfAiSLJKoksCWtJwsn1SftKU8qjSycLR8t0i9vNsU22DboNuk62DwtPQ9Bh0KjSRtMs1BHUFBUSVXGVdZXDVhjXz9gS2EhY_1ko2TnaHRtGXC7dO12CHrmeu98u3_GgKSCHoKbhO-G0YdljM-PRpHOlKCXhZwtna6ezZ8-ogCio6LqpwinMK-3tz653bvtwfPEWMT2xYrGrsbYz2XQ0NIh1HzUj9gk2RPZYdpi2wvjauQi51Lnauw47FXvDvAf8932SPno-tI=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Spectral BS</name>
+    <description>Shadow, 120 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgYBBH4FfQW1BfkOSA_EEZYV8Ba_F9gYvRnVGtsc3B4aIuokPCT9JpUnqSmlKgsqWytvLOEzDDZ7Olg7fEk7SVFKfU4qUUdTuFVLVupW9Vb6Wm1apluvXvph4mKsZ6BqP217cFJwVnDVfeN-WX_Ggh6FVYcZh3aH24hCidOMNo19jb-Oio_6kBuTJ5fQmhObJp2WnaOdqqKjo4qmf6c0p1yqf6q4rGaxs7JEtKO0xbVIuMq5Prl8wFHBxc3q0DnSGdUA1p3W0dh22wvbbtvU3MfdDd7244TnVOd06Nbp_usU7UHuDvPq-WP8q_zF_iv_k__e</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>High Crit Chiller</name>
+    <description>Scion, 104 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgABAv4FQgW1CGcM8g5ID8QRLxGWFecV8BdUGDwZ1RzcIcMigSRqJ6ksnCymLR8tqDMMNAo2PTdmO3w-z0GWQsNEq0ZxTLNQMFFHVa5WLVZKV-Faplv0XfJe-mNDaj9tGW-ecFJw1XOzfll_xoIQgwmIQohrjDaNv448j6aQ1pMnkzqVBJ2joqOly6x_rrOvm7GQtAy297fWuDe4yr0nvebAUcHFwfPDOspK1QDVT9tZ3Mfed9-E37DjhOdU6xTwa_F28h3z6vlj-WX56Pyr_iv_3g==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>CI Whirling Blades-Discharge-Ice Nova (Dual Strike single-target)</name>
+    <description>Shadow, 104 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgYAAAYC_gV9BbUM8g5IEHsRLxGWFdcV9ha_F1Qa2yKBJ6kppSsKLL8s4S9vNJM-z0LDRwZOKlFHVmNW6lb1VvpaGluvXIpd8l9qYnljQ2NwbRlwUnBWcLtw1XLDfeN-WX_Ghq6H24hCjDaNv448joqQG5fQmZqaE52joqOly6c0qwusZrQ4tMW2Qbb3uT65fL3mvjrAUcEAwcXB88LszAbQ7tVP14bYdtkT2xrbbtvU3Q3ed9-E44TlGen-62PuDvId8uHz6vVL96P5Y_v1_Kv8xQ==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Soul Reaver Atlas 305 1.0 75K Reave Crit Shadow Ninja</name>
+    <description>Shadow, 107 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgYBBAcFtQ5IDq0QexEvEZYUdRVQFdcWvxcvGNsdFB4aHwIhYCepKCootSo4Kwosvy0fMFQwfDbFO-FAoENjQ5xHBkyzUUdV1lZjVvVY9VnzX2pk52aebRlwUnBWcNVxTXRBdPF3133jfyt_xoCkhq6H24hCjb-PRo_6kBuSfZfQmG-ZV5mamhOaz52jncSio6Z_pwinK6c0sbO0xbVItve3Mbk-vjrAGsBRwQDBxcHzwuzDbdeG2CTbGttu29Tb5-L344Tlz-tj7BjtQe9O8-r1S_rS_Kv_kw==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Scion 2H Axe Spectral Throw / Double Strike (Cheap and solid)</name>
+    <description>Scion, 96 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgAAAecDlgUtBdMJlhEeE0wUIBiRGaIaVRv6Jd8nICmlME8xnjIJMn41kjboOlI64TsoQKBBh0ZpR35KyEwyTeNOKlBHWK9gS2EhZFJko2VNZadodGqTaylsRm49bmluqnJsdO11TngNeu-C5ITZhO-HKYdqiPGKr5ARkGyUoJWbnrmfy6QZplenMKluqZSrxaxZtfK2Qbc-vqfAD8GjxLjSTdQS1e3V-NhN2mLiYeQI52PrCfJF97756PyJ_gr-j_9h</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Tanky IB Splash W/ Staves</name>
+    <description>Templar, 117 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgUBAecEsw9UEuEUIBRNFSAY2xkuGYUaOCFgI_YkqiftKLUppSo4Kk0s6S3SMZ4yCTKJNZI26TrYOuE8LT8nQKBEckWOSi5KfUrITdhN404qUEdW-lcNV-JZ81pIW69mnmegapNsFmxGbqpybHKpdPF253flfNmDOIPbhMSHdojxinSMdpAKkFWRzpMHnrmezZ_LogCi6qZXpzCnhKelqWipbqxZrKqvjbXytkG3PrdyuUO9Ob6nwA_AGsQVxPbFisauznHSIdJN1YvV7dlh3Q3jaudj7DjuDu9O73zv8PAf8kX60vxL_MX-Cv6P</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Dagger Cold Crit w/ Acrobatics</name>
+    <description>Shadow, 24 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgYA_5MeGtIZ1tEqW7VI645te67PVUuT_Iw2JpWH22Hi53Q2PYhr44QOSKc0napirNad</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Dagger Cold Crit w/ Acrobatics</name>
+    <description>Shadow, 42 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgYA_5MeGjBUmVcoKrVI645te67PVUuT_Iw2JpWH22Hi53Q2PYhr44QOSKc0napirNad3vbo1usUjb8FtdQj3ajGojBxS3g6QlFHMHx_K9aKqriqf419</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Dagger Cold Crit w/ Acrobatics</name>
+    <description>Shadow, 60 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgYA_5MeGjBUmVcoKrVI645te67PVUuT_Iw2JpWH22Hi53Q2PYhr44QOSKc0napirNad3vbo1usUjb8FtdQj3ajGojBxS3g6QlFHMHx_K9aKqriqf419d9d0QVb67g4j9u_wWkj8xWegh3ZKfd0NOrNbr04qtkE0k2Nw</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Dagger Cold Crit w/ Acrobatics</name>
+    <description>Shadow, 80 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgYA_5MeGjBUmVcoKrVI645te67PVUuT_Iw2JpWH22Hi53Q2PYhr44QOSKc0napirNad3vbo1usUjb8FtdQj3ajGojBxS3g6QlFHMHx_K9aKqriqf419d9d0QVb67g4j9u_wWkj8xWegh3ZKfd0NOrNbr04qtkE0k2Nw7-O-p9JNwA9uaYTZZU1HfqvFxLjV-CzpFSCD2_xLznFsFipNPydKyA==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Dagger Cold Crit w/ Acrobatics</name>
+    <description>Shadow, 100 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgYA_5MeGjBUmVcoKrVI645te67PVUuT_Iw2JpWH2xa_YeLz6ud0wFHe9uOE6NYOSOsUEZanNJ2qjb-do1bqYqwFtVFH_KsFfdad1CMwfKq43ah_K6p_xqJ319aKjX0wcXRBS3hW-jpC7g78xSP23Q1noLcX7_As6TqzW6-HdjiWWkgVIE4qSn0qTYPbtkE_J_xLQzE0k0rIznHfb2NwbqpsFu_jtfK-pzWS0k1uaf6PrFnAD4TZxLhN44jxZU3V-KZXR34xnqvFcFI=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Dagger Cold Crit w/ Acrobatics</name>
+    <description>Shadow, 111 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgYA_5MeGjBUmVcoKrVI645te67PVUuT_Iw2JpWH2xa_YeLz6ud0cFLAUd72cNXjhOjWDkjrFBGWpzSdqo2_naNW6mKsBbVRR_yrBX3WndQjMHyquN2ofyuqf8aid9fWio19MHF0QUt4Vvo6Qu4O_MUj9t0NZ6C3F-_wLOk6s1uvh3Y4llpIFSBOKkp9Kk2D27ZBPyfrLPxLQzE0k0rIRZbOcd9vY3Buqn1bbBbv47Xyvqc1ktJNbmn-j6xZwA-E2cS4TeOI8WVNWNvV-KZXR35T3zrhMZ6rxZuD52PyRf4K</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Dancing Frenzy Duelist Facebreaker</name>
+    <description>Duelist, 103 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgQAAdwB5wUtBbUM8hLhFCAZLhrbG_oj9iXfJ-0pLimlMgk1kjboPfw-z0CgR35KfU4qUEdQUFFHVElW-lcNWGNYr1nzWhpaSFuvXz9gS2EhZU1noGoeapNsRm5pcmxyqXTteA1673y4fNmE2YTvh3aMz419jb-QCpBVkc6ZK565ns2i6qQZpcunMKeEqBipbqp_qrirxayqtfK2Qbndu-29gb3mvoq-p8APwBrG2NIh0k3V7dlh3Q3i6udS6xTuDu8O7_DyL_Pd9kj3vvlj_MU=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>RoA Tank Marauder</name>
+    <description>Marauder, 120 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgEAAdwB5wUtFCAV8Bm0GlUb-iF2JP0l3ymlLOkwfDGeMfoyCTJ-MpQ1kjboOdQ6UjrhPs9AoEGHR35KfUrITeNOKlBHUFBRR1RJVvpXDVhjWK9br18_YEthIWSjZU1noGoebEZuaW6qb_JybHRBdO1293fXeA16738CfyuC5ITZhO-Hdojxiq-Mz5ARlQWeuZ7NoJ-hpKQZpMKmV6bgpzCn1KgYqW6rxaxZtfK3Prndvea-ir6nwA_EosbYyqnK082Y0EfSIdJN2WHZxtwV3Q3exuHb51LnVOdj6mLvDvIv8kX2SPlj-ej6sfzF_gr-j_7I</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Dual Wield - Cleave/Dual Strike</name>
+    <description>Duelist, 120 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgQBAdwB5wUtC2ESIBLZFCAUdRhNGS4aPhpVG_odyiFgI_Yl3yftKLUo2ymlMZ4yCTSTNZI64TrtQKBHfkp9SshN404qUEdQUFPfVElVtVb6Vw1YY1jbWhpaSFuvXotfP2BLYSFjcGSjZU1ngGegbEZuaW6qcmxyqXRBdO14DXhJeWh673zZg3yE2YTvh3aI8YzPmSubg565ns2fy6QZplenMKgHqW6rxaxZrKq18rZBud29gb6KvqfAD8EEwdjEuMbYz_jQR9Ih0k3Uj9Xt1fjZYd0N3-_nUudj7g7vDu9O7-Pv8PIv8kX2SPe-_MX-Cv6P</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>KEEP YOUR CHIN UP -- Chin Sol RoA Point Blank IR RT Avatar of Fire Ranger !</name>
+    <description>Ranger, 104 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgIAm42v6wgu7YMZjgBe037ven117g7-uiP2Vvq74-_wdEH8xcSiWkh316TC3Q1noNwVlQVbryzph3an1NnGTioVIEp9_sgylCmltkGD2ypNfwJqk_xLPyem4NXtznFKyMAPbBZuqtJNtfK-pzWS_o-sWU3jiPGmV-djOuExnv4K8kW3PkGHxq756DwtxPYn7fPdrKpyqVnzfNnAGpBVZp6nhPrSr40aODbpFy_sOCSq42pk51fiGYVV1nflMomApASzFE3wHwJxgziiAO98PAWf3w==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Support Cold Witch</name>
+    <description>Witch, 120 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgMBAv4EBwVCDH0OSBB_EVARlhXXFkAXLxdUGjIc3B0UHwIigSSLJLAnqSjFKU8snCymLL8tHy9vNAo2xTdmOtg74UGWQsNDY0cGTDVMs03YT31QMFFgVdZWSlZjVytY9Vv0XfJfKl9qY0Nk52aebRlwUnB9cLtw1XFNfLt-WX_GgFaApIIQgpuFfYXFhq6G0YhCjDaMdo48j0aQ1pMnlQSaz52jncSeoaKjpwinK66zr5u0DLcxuJO71sBRwcXB88Lsw23GnteG2CTZE9rd217esN-E37Di9-OC44TmfOcL6-TsGOw48h3y4fO-98H60vyr</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Tanky cyclone discharger EE</name>
+    <description>Scion, 100 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgABAW8DlgV9DkgQexEvEZYVIBXXGNsc3CFgKLUo-imlKjgqTSsKLJwspiy_LOktHy9vNAo3ZjeDOyg74TyOPV8_J0CgRKtGcUcGSshOKlJTVa5WY1bqV8lbr19qYENjQ20Zbj1wUnBWcLtw1XTxf8aC5IMJhEiGrohCiGuKr4-mkBGQG5DWkyeYrZmamhOdo565oqOm66crpzS0DLTFtve-Or68wFHBAMHFwfPC7NeG2RPbGtvU3Q3i9-OE6rrrY-9O8h3y4fVL_Ks=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Split Arrow Blood Magic Chain (solo build)</name>
+    <description>Ranger, 112 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgIBAF4B3AHnBH4FLQX5CC4UIBUgFfAZjhm0Gf4a2xsBG_oj9iU_Jd8ppSpNLOkxnjIJMn4ylDWSNug6UjpYOuE-zz8nQKBKfUrITeNOKlBHVvpYr1pIW69gS2EhZ6BsFmxGbqpybHRBdO1313gNeu99dX8Cg9uE74cZh3aI8ZAKlQWbjZ65n6OhIqJApBmmV6bgpzCn1KlurFm0GrXyu-O95r6KvqfAD8SiytPNmM5x0k3TftnG2o3cFd0N3sbiy-Lq52PqYu2D7g7v8PJF9Pj3vvlj-rH8S_zF_gr-j_66_sg=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Hybrid Scion 2xSporkTotem LightingTrap LifeTankerRegenBloodMagic plusES</name>
+    <description>Scion, 17 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgAAGjgn7TwtQYdZ82h0kFWUoKeErKq3PsAaxPbGrthN2mL56A==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Hybrid Scion 2xSporkTotem LightingTrap LifeTankerRegenBloodMagic plusES</name>
+    <description>Scion, 40 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgAAEMwZLho4J-0qEyynPC1Bh0rEVElY5VnzWitfP2h0cql4aXsgkFWUoKPyp4Ssqrc-ud3AGsMTxPbGrtSP2E3aYudS7w72rvcy-JP46_no_oc=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Hybrid Scion 2xSporkTotem LightingTrap LifeTankerRegenBloodMagic plusES</name>
+    <description>Scion, 60 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgAAEMwR2xkuGjgabCW8J-0pTyoTLKc8LUGHQapG10rEVElY5VnzWitdxl5dXz9odHKpd2J4aXsggpuQVZSgna6j8qcIp4SnlKyqtQS3PriTud3AGsMTxPbGrtH91I_YTdpi37_kIudS7DjvDvIv9q73MviT-Ov56P6H</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Hybrid Scion 2xSporkTotem LightingTrap LifeTankerRegenBloodMagic plusES</name>
+    <description>Scion, 120 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgAAAnEEswx9EH8QzBHbFE0WbxcvF-oZLhmFGjgabB0UJKoksCThJbwn7SjFKS4pTyoTK7YspzbpOtg8LUGHQapDY0bXSsRMNU3YVElVxlXWWOVY9VnzWitdxl5dXz9k52ZPZp5nvWh0cU1yqXdieGl7IICkgUmBb4KbhtGMBoxGjHaOZI9GkFWUoJrPm6Gdrp3EnjyiAKPypKynCKeEp5SsqrI4tQS2-rcxtz631riTud3AGsMTxPbGnsauz2XQ0NH91I_YTdpi37_jauQi51Lpc-w47m_vDvAf8i_zvvPd9q73Mvem-JP46_no-tL7Rf6H</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Shield block &amp;quot;Curse on block&amp;quot; / Shock Marauder</name>
+    <description>Marauder, 22 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgEAxthYY1BQjM_2SF8_VEnnUu8Oud3yL6gYah7ZYRkuVw0n7fuqoLSsqnKpfNk=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Shield block &amp;quot;Curse on block&amp;quot; / Shock Marauder</name>
+    <description>Marauder, 45 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgEAxthYY1BQjM_2SF8_VEnnUu8Oud3yL6gYah7ZYRkuVw0n7fuqrKqgtHKpWfN82cAaZp760nB9HRSAVo9GT33Q0FFgm6HPZRoy99dVxqyYFLA6MEw1KMXzvme9</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Shield block &amp;quot;Curse on block&amp;quot; / Shock Marauder</name>
+    <description>Marauder, 68 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgEAxthYY1BQjM_2SF8_VEnnUu8Oud3yL6gYah7ZYRkuVw0n7fuq892sqsT2oLRyqVnzPC182cAaxq4M92aetz7p1frSQYf-CnB9NukdFPno8kXnY4BWJKrjao9GTDU64YjxT33Q0CjFplesWVFgm6HPZfO-TeMaMvfXZ71Vxv6PrJjubxSwOjA1kg==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Shield block &amp;quot;Curse on block&amp;quot; / Shock Marauder</name>
+    <description>Marauder, 95 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgEAxthYY1BQjM_2SF8_VEnnUu8Oud3yL6gYah7ZYRkuVw0n7fuq892sqsT2oLRyqVnzPC182cAaxq4M92aetz7p1frSQYf-CnB9NukdFPno8kXnY6mVgFYkquNqj0ZMNTrhiPEaMk99GYXQ0CjFplesWVFgm6HPZfO-TeM1kvfXZ71Vxv6PtfKsmO5vbqqpbhSwSsh4DdE2OjC-igHcpBkb-iXfhNlY21Pfm4Osr4Tv55F07cOGeu9gSwUtQKCeuQ==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Elemental Equilibrium Flameblast Witch - Life Based</name>
+    <description>Witch, 20 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgMBAuMHpRmFGmwfAiSqLJw2xTbpSRtJsoIQh2WcLZ2upwivt9gk37Djag==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Elemental Equilibrium Flameblast Witch - Life Based</name>
+    <description>Witch, 40 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgMBAuMEswelFE0ZhRo4GmwfAiSqKU8snDbFNulJG0myYG165n1TghCCm4M4h2WQVZwtnYCdrqIApwinhK-3tobUfNgk3fPfsONq5CLnauw473w=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Elemental Equilibrium Flameblast Witch - Life Based</name>
+    <description>Witch, 60 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgMBAuMEBwSzB6UUTRcvGYUaOBpsHwIkqij6KU8snC0fNsU26T1fSRtJskyzUlNV1mBtZOdtGXrmfVOApIIQgh6Cm4M4h2WQVZeVmK2cLZ2Ana6iAKcIp4Svt7aGuJPB89R82CTbC93z37DjauQi52rr7uw473zwH_rS</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Elemental Equilibrium Flameblast Witch - Life Based</name>
+    <description>Witch, 108 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgMBAnEC4wQHBLMHYwelCPQOSA5cEHQRlhHbFE0W8xcvGYUaOBpsHNwelB8CJDwkqiY8JpUnqSj6KU8qjSycLR8vnTGINsU22DbpOBs9X0V-RZ1JG0lRSbJMs1BCUlNVS1XWVytabWBtYqxk520ZcLtzU3kDeqp65n1Tf8aApIIQgh6Cm4M4h2WMNpBVkyeXhZeVmK2a4JwtnWOdgJ2qna6iAKIuoqOksacIp1ynhKw_r7e4k8Hz1HzVgdad2CTbC9xX3QXfsONq5CLljudq6-7sOOxV73zwH_rS</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Tanky Templar(1H + shield)</name>
+    <description>Templar, 89 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgUAhMREcop0D1SpaBRNBLOiAPAfgW8CcZ48TdiMdjrY7DgaOKeEkFXAGlnz5K1mnqyq3sFnWPrScU0n7XKpcH0XLzbpHRSaz8T2fNn3MoBWZOckquNqj0ZMNUNjPC2BK_jrT31V1hmF0NDjgijFtzEM99-yQapRYICkm6HPZecL875Y9enVJCWUhxRx99dVxt6wncRYPQ48rJgWb57FJws6UhSwQqN2CDJ-AP0XUEwtgh7bCw==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Templar - AoF, EB, RT Explosive Arrow</name>
+    <description>Templar, 103 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgUBBAcEswVbEmkUTRZvFxwZLhmFGjgabBzcHpQfAiQ8JKonqSftKS4pTy0fLdI2xTbYNuk62DwFPV89_EbXSVFMs03YUFBSU1XGVw1YY1nzWm1fP2aeZ5ttGXF5cql8uHzZf8aBb4IegpuDOIdliBuIQouMjHaMz49GkFWRzpMnl5WcLZ2unjyfPp_fogCio6cIp1ynhKw_rKqvjbndu-3AGsHzxtjPZdDQ1I_YJNlh2wvcV-Fz42rkIuw47FXtIO8O73zvhfAf8XbyL_Pd9kg=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>CI Summoner/Auramancer</name>
+    <description>Witch, 108 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgMAB2MMfRB_EJcRUBGWFy8ZihpsGo8c3B0UHaokiySwJ6ko-ilPKpgspiy_L280CjdmN4M62DvhRARGcUbXSOdNuU3YVdZXK1qRXcZgbWTnaqxr220Zb55wu3NTfLt9GH1Tf8aApILHgwmFYIbRiECMdo9GkDOQ1pMnm6GbtZ2uoqOmrKbrpwinK6h9qsS0DLUEtoa4k7vWv5fAVMHFwfPDOsNtxp7JPcpKzLzQ0NP72QvZE93z4Yji9-Qi5oHquuvu7BjsOOyK8h722vfB99f56PqA-tL7Cf5J</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Pillar of the Caged God: Marauder Infernal Blow or Ground Slam</name>
+    <description>Marauder, 100 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgEBAdwB5wW1DPIS4RQgGS4aVRrbG_olJyXfJ-0pLimlNug6sz7PQKBKfU4qUEdRR1b6Vw1aGluvXUlhIWSjZ5tnoGqTbmmE2Yd2jb-Rzp65ns2fy6QZpcunMKyqtkG53b3mvqfAD8bYzerSIdJN037Uj9Xt2WHdDe4O7w7vevIv8933vvlj_MVyqXzZu-1Yr4cpRml4DalubEZybDIJBS2E73Tteu9gS-LqmswwdeHaxPY9D331JIt8u8WKOtgt0vAfFE2DOO98ogA=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Infernal blow 2h mace</name>
+    <description>Marauder, 20 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgEAGS4n7VBQVElXDVhjXz9yqXzZjM-sqrndxtjSIdSP2WHnUu8O8i_2SA==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Infernal blow 2h mace</name>
+    <description>Marauder, 40 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgEAAecFLRQgGS4aVSftNuhQR1BQVElXDVhjXz9gS2EhZKNyqXTteu982YTZhO-HKYdqjM-QbJ7NpzCplKyqud3G2NIh1I_ZYedS7w7yL_ZI974=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Infernal blow 2h mace</name>
+    <description>Marauder, 60 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgEAAecEswUtFCAUTRkuGjgaVSftMok26FBHUFBUSVcNV-JYY1nzXz9gS2EhZKNuaXKpdO135Xrve4x82YM4hNmE74cph2qMz5BVkGyezacwp4SplKyqud2-p8AaxBXEuMT2xtjSIdSP1fjZYedS7DjvDu988i_2SPe-</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Infernal blow 2h mace</name>
+    <description>Marauder, 80 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgEAAecEswUtEuEUIBRNGS4aOBpVG8gn7SmlLdIyiTboOthAoEE_QzFOKlBHUFBR5lRJVw1X4lhjWfNeE18_YEthIWSjbmlyqXTtdud35Xrve4x82YM4hNmE74cph2qMz5BVkGyRzp65ns2iAKcwp4SpaKmUrKq0L7ZBud2-p8AaxBXEuMT2xtjSIdSP1fjZYd7B5K3nUuw47w7vfPIv9kj3vg==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Infernal blow 2h mace</name>
+    <description>Marauder, 100 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgEAAecEswUtEuEUIBRNFy8ZLho4GlUbyB0UJd8n7SmlLdIyiTboNuk62ECgQT9DMUd-TipQR1BQUeZUSVXGVdZXDVfiWGNZ81z0XhNfP2BLYSFko2TnZU1mnmdYZ-JuaXKpdO1253fleu97jHzZgKSDOITZhO-HKYdqjM-PRpBVkGyRzp65ns2iAKY-pzCnhKloqZSsqrQvtkG53b6nwBrEFcS4xPbG2M9l0NDSIdSP1fjZYd7B42rkredS7DjvDu988i_2SPe--tI=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Storm Caller Cloak of Defiance Tank</name>
+    <description>Templar, 102 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgUAAnEEBwSzBVsIZxRNFm8YPBkuGYUaOB0UHwIkqiftLJwtHzWSNsU26TrYOuE8LT1fQYdEq0bXTdhN4099UWBSU1RJVa5VxlnzXcZfP2BtZp5nvW0ZcH12EX6vgFaBb4IegziI8YuMjHaNGY9Gj6aQVZM6l5WboZ2AnjyiAKZXpwinhKgYrFmsqrc-ud29J8AawfPE9sauz2XQ0NSP2CTa3dsL3Yzd8-AS4XPjaudS52Ppc-w47SDub-8O73zwH_Iv8kXz3fno-tL-Cv6P</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>EK EB Shadow</name>
+    <description>Shadow, 90 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgYBBH4FLQX5DkgRLxGWFHUV5xXwFr8Y2xrbHNwelCFgI_YkPCaVJ6kppTIBOlhAoEQNSVFKfU4qUEJVS1b6WkhabVuvXfJgS2HiZ6Bte3BScNVxsHOzdEF07XTxeLp673_Ggh6HGYd2h9uIQow2kruTJ5mamyado565n3uiLqOKp1ysP7IZtvfBxcNtz3rVANVP2wvcV90N3nfe9udU53To1utj7BjuDu_w8GvyHfPq-WP8q_zF</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Avatar of Fire Ranger w/ Burning Arrow</name>
+    <description>Ranger, 108 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgIAm40ILu2DGY4AXtN-fXX-urvjxKLcFafU_siXBi2DGYqbtSLqayRf4ZXpUzVtbLVIbXtVSyaVjDakseWO73ruDlb6_MVnoId2Sn3dDVuvTioppRjbdPEhYECgnrkFLWBLeu907YTvYSES4RpVZKM26DpSMn4B55_LpzAUIFBHns1259IhVw2RztlhGS4n7fPdrKpZ88AakFWnhBo47DhX4nflZp6vjfrSHRSPRtDQz2VVxqcIna4SaRcccXnYJDbFNtjvhYgb7FUWbzbp42oyiQSzFE2iAAJx</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Three Force</name>
+    <description>Scion, 120 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgABAP0FtQhnDjwOrRRxFHUUsBUgFVAXUBg8GNsc3B0UIWAi6iepKLUo-ipNLOktqC-dMHw26DpSOrM8LT0PPydAoEGHQapDnEZpRnFHBkrITC1MsVFHUzVWBFb6WK9Z81s9W69giGFSZp5tbG6qb55yqXRBdPF313gNffV-WX8rf8aCHoLHguSDCYZgiEKKr42_j0aP-pAKkBGTJ5M6m6GbtacIqW6smKyqsZC0DLTFtfK3PrfWuJO9J768wBrBxcLswzrEFcT2xq7KSs3q0EfQ0Nrd21nb590N6NbrFOvu7BjvTvF29zL31_jr-ej60vzF</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Hybrid EV/ES survival, 7 frenzy charge, assassinator shadow</name>
+    <description>Shadow, 21 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgYA_5MeGjBUmVcoKrVIsbPtQaZ_h9vrY5matvcRLxa_8-pwUsBR44QOSKc0</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Hybrid EV/ES survival, 7 frenzy charge, assassinator shadow</name>
+    <description>Shadow, 40 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgYA_5MeGjBUmVcoKrVIsbPtQaZ_h9vrY5matvcRLxa_8-pwUsBR44QOSKc0EZbvoO12an4V_dYHnaP8q176j_rb50cGX2rC7LTFQFVvVwyNDUk=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Hybrid EV/ES survival, 7 frenzy charge, assassinator shadow</name>
+    <description>Shadow, 60 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgYA_5MeGjBUmVcoKrVIsbPtQaZ_h9vrY5matvcRLxa_8-pwUsBR44QOSKc0EZbvoO12an4V_dYHnaP8q176j_rb50cGX2rC7LTFQFVvVwyNDUkegUuN_xyaeK0e3UjsGMNtwcUsv4auFdfXhlZjKwrBANsaEHv1S746</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Hybrid EV/ES survival, 7 frenzy charge, assassinator shadow</name>
+    <description>Shadow, 85 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgYA_5MeGjBUmVcoKrVIsbPtQaZ_h9vrY5matvcRLxa_8-pwUsBR44QOSKc0EZbvoO12an4V_dYHnaP8q176j_rb50cGX2rC7LTFQFVvVwyNDUkegUuN_xyaeK0e3UjsGMNtwcUsv4auFdfXhlZjKwrBANsaEHv1S746BbUM8qXLjb_rFFFHPs-95vljGtswfH8r1orXy7fTPeJnHnC72RMvb83qSO4brZ8nFRo=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Hybrid EV/ES survival, 7 frenzy charge, assassinator shadow</name>
+    <description>Shadow, 105 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgYA_5MeGjBUmVcoKrVIsbPtQaZ_h9vrY5matvcRLxa_8-pwUsBR44QOSKc0EZbvoO12an4V_dYHnaP8q176j_rb50cGX2rC7LTFQFVvVwyNDUkegUuN_xyaeK0e3UjsGMNtwcUsv4auFdfXhlZjKwrBANsaEHv1S746BbUM8qXLjb_rFFFHPs-95vljGtswfH8r1orXy7fTPeJnHnC72RMvb83qSO4brZ8nFRp4rkxgBLGVZtN-7g5W-vzF3Q1br04qtkFaGiyFdPEhYECg704otSo4</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Hybrid EV/ES survival, 7 frenzy charge, assassinator shadow</name>
+    <description>Shadow, 90 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgYA_5MeGjBUmVcoKrVIsbPtQaZ_h9vrY5matvcRLxa_8-pwUsBR44QOSKc0EZbvoO12an4V_dYHnaP8q176j_rb50cGX2rC7LTFQFVvVwyNDUkegUuN_xyaeK0e3UjsGMNtwcUsv4auFdfXhlZjKwrBANsaEHv1S746BbUM8qXLjb_rFFFHPs-95vljGtswfH8r1orXy7fTPeJnHnC72RMvb83qSO4brZ8nFRp4rkxgBLGVZtN-</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Hybrid EV/ES survival, 7 frenzy charge, assassinator shadow</name>
+    <description>Shadow, 119 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgYA_5MeGjBUmVcoKrVIsbPtQaZ_h9vrY5matvcRLxa_8-pwUsBR44QOSKc0EZbvoO12an4V_dYHnaP8q176j_rb50cGX2rC7LTFQFVvVwyNDUkegUuN_xyaeK0e3UjsGMNtwcUsv4auFdfXhlZjKwrBANsaEHv1S746BbUM8qXLjb9RRz7Pveb5YxrbMHx_K9aK18u30z3iZx5wu9kTL29I7hutnycVGniuTGAEsZVm037uDlb6_MXdDVuvTiq2QVoaLIV08SFgQKDvTii1Kji3FziWapPV7cAP0k2-p25phNlY21Pfm4OsryT951TVAA==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Life-Elemental Wander Shadow</name>
+    <description>Shadow, 52 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgYA3nfVTxXn8Gtzs4w2UEJVSy1HJpVtexzcf8YnqaKjWm3B8yQ8bRmnXC0fSVFMswQHHwI2xdgkpwiPRh0U0ND60s9lNulmnlXGJKrjasAaFm8ZhZBVp4QaOOw4V-IyiQSzFE3wHwJxogA=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Life-Elemental Wander Shadow</name>
+    <description>Shadow, 83 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgYA_5MeGtIZ1tEqW7VIbWxte1M1D6tVS5u153SMNiaVGYph4vsJh9v22ha_Go_z6nBSwFHjhA5IY0OdqhGWYqxwu3_G1p3ZEyepoqMvb1ptwfMkPG0Zgh6nXC0f2wtJUUyzBAdQMB8CNsXYJKcIj0YdFNDQ-tLPZTbpZp4XL1XGJKrjasAaZOcWbxmFkFVV1qeEgKQaOOw4V-J35TKJBLMUTfAfAnGiAA==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Life-Elemental Wander Shadow</name>
+    <description>Shadow, 75 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgYA_5MeGtIZ1tEqW7VIbWxtew-rVUvndIw2JpVh4ofbFr_z6nBSwFHjhA5IY0OdqhGWYqxwu3_G1p3ZEyepoqMvb1ptwfMkPG0Zp1wtH0lRTLMEB1AwHwI2xdgkpwiPRh0U0ND60s9lNulmnhcvVcYkquNqwBpk5xZvGYWQVVXWp4SApBo47DhX4nflMokEsxRN8B8CcaIA</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Life-Elemental Wander Shadow</name>
+    <description>Shadow, 101 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgYA_5MeGtIZ1tEqW7VIbWxte1M1D6tVS5u153SMNiaVGYph4vsJh9v22ha_Go_z6nBSwFHjhA5IY0OdqhGWYqxwu3_G1p3ZEyepHNyioy9vWm3B8yQ8bRmnXC0fSVFMswQHUDAfAjbF2CTbAqcI0xu4k49GeM4MfR0U0NA_cxB_-tLPZcaeNulmnhcvVcYkquNqwBpk5xZvGYWQVVXWp4SApBo47DgpT1fihX2Cm3flMokEsxRN8B8CcaIAgh7bC5MntAxb9NxXHpSsPw==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Life-Elemental Wander Shadow</name>
+    <description>Shadow, 111 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgYA_5MeGtIZ1tEqW7VIbWxte1M1D6tVS5u153SMNiaVGYph4vsJh9v22ha_Go_z6nBSwFHjhA5IY0OdqhGWYqydo3C7f8bWnfyr2RMnqRzcoqMvb1ptkyfB8yQ83Fe0DG0Zgh6nXB6UW_QtH9sLSVFMswQHUDAfAjbF2CTbAqcI0xu4k49GeM4MfR0U0NCBST9zEH_60s9lsjjGnjbpZp4XL1XGJKrjasAaZOcWbxmFkFVV1qeEgKQaOOw4KU9X4oV9gpt35TKJBLMUTfAfAnGiAA_E3Mc7fFqmuMpmT6w_</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Bloody Bowrauder</name>
+    <description>Marauder, 120 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgEBAdEB5wUtBfkLKBRxFfAXHRkuGbQZ_hpVGtsbARvIHOcg8CF2JT8nISfVJ-0ppSzpMfoyfjKUNro26DpSQapDMUTnRmlOKlBQVElW-lcNWGNYr14TXz9gS2EhZKNqHmo7apNul3RBdO1293fXeOt6738ChO-HKYdBjM-NfpAKlQWVyJstns2fy6EioaSiQKTCpuCnMKfUqBiv67QatkG3trndvea-p8APxBXEWMSixPbG2MqpytPNmNIh0k3V7dlh2cbajdwV3ILdDd7G37_h2-LL5wrnUupi7g7vDvIv8pz0-PZI9775Y_qx_MX-Cf7I</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Duelist Ground Slammer ( Really High Physical dps Potential + High Armor)</name>
+    <description>Duelist, 107 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgQBAdwB5wJxBLMFLQmWD8wUIBRNGJEaOBv6Jd8nICftKaUxnjIJNZI26DrYOuE8LUE_RmlHfkp9TdhN404qUEdR5lb6WK9Z81uvYEthIWVNZ6Bqk2xGbmlybHKpdO14DXrvfNl89YFvgziE2YTvhymHaod2iPGKIox2kFWQbJkrnjyfy6IApBmmV6ZkpzCnhKloqW6plKvFrFmsqrQvtfK2Qbc-vYG-ir6nwA_AGsCmwPPE9sauyZjSTdXt3Q3eweSt52PrCew473zyRfPd9778ifzF_gr-jw==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Dualist phys. Dual-Striker</name>
+    <description>Duelist, 115 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgQBAdwB5wOHBS0R1RIgFCAUTRR1Fz4brRv6HcohAiFgJd8otSjbKaUq9jAZMZ4x-zIJNJM1kjboOJY67TwtQKBHfkp9SshM_03jTipQR1PfVbVW-leXWK9Y21uvXotgQWBLYSFjcGVNZ6BsRm5pbqpwPnBycmx0QXTteA1673uMgziE2YTvh3aI8ZAKkHSVZpkrm4OeuZ7Nn8uiAKQZplenMKluq8WsWa9stPm18rZBtxe3Pr2Bvoq-p8APxYrGrsqQz_jQR9JN037dDd_v5FHnY-eu6hjuDu9O73rvfO_j8B_8xf4K_o8=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Crit/Physical Bow-Ranger IR</name>
+    <description>Ranger, 119 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgIBAdEEfgWEBbUIiQuRDPIOSA-rEZYV8Ba_F9gY2xm0GdUZ_hsBIXYj9iT9JT8ppSyFLOkwfDH6MpQzDDY9OdQ6WD7PSn1Nkk4qUUdW-loaWkhbr11oXvpf4WHiZ6BrJG_ycFJw1XLDdEF293fUd9d_An8rhs6HGYdBh3aH2419jb-QCpMllQWV6ZrxnaOgn6EioaSiQKXLpuCn1Kp_qrirC6_rsTC0GrTFtkG95sBRwTPEosqpytPMBs3q0DnVANnG2mTajdwV3Q3exuHb4svjhOdU53TqYusU7g7v8PBC8-r0-Plj-rH8q_zF_iv-yP_e</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Ondars Guile Phys Crit split arrow build (Nem)</name>
+    <description>Ranger, 100 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgIBAF4EfgW1CC4M8g5ID6sRlhXwGY4Z1SF2I_Yk_SaVMHEwfDH6MpQzDDY9OdQ6QjpYPs9KfUt4UUdVS1b6Wkhf4WHiYqxnoGskbWxte2_ycFJ293fUd9d9dX8CfyuGzocZh3aIa419jb-VBZXpm42do52qoJ-hpKXLpuCn1Kp_qrixMLVIu-O95sBRxKLGosqpzerTftQj1QDWitad2cbcFd2o4dvjhOdU53TrFO2D7g7veu_w8ELz6vlW-WP8q_zF_iv-uv7I_94=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>High DPS,high survivability LA Frenzy ranger with Vaal pact and Iron reflex</name>
+    <description>Ranger, 32 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgIAAdEEfhXwGf4a2xsBI_Yk_TpYSn1W-lpIZ6CHGYd2m42hIqGkokCn1K_rxKLVANwV4dvnVO4O7_D0-Plj_MX-yA==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>High DPS,high survivability LA Frenzy ranger with Vaal pact and Iron reflex</name>
+    <description>Ranger, 50 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgIAAdEEfhXwGf4a2xsBI_Yk_SU_KaUs6TpYSn1OKlb6Wkhbr2egapOHGYd2m42hIqGkokCn1K_rtBq2Qb6nwA_Eos2Y0k3VANXt2o3cFd0N3sbh2-LL51TqYu4O7_D0-Plj_MX-yA==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>High DPS,high survivability LA Frenzy ranger with Vaal pact and Iron reflex</name>
+    <description>Ranger, 74 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgIAAdEEfhUgFfAZ_hrbGwEj9iT9JT8ppSpNLOkxnjIJNZI6WD8nRZZKfUrITeNOKlb6Wkhbr2egapNsFmxGbqpybH1bg9uHGYd2ks2bjaEioaSiQKZXp9SpbqxHr-u0GrXytkG-p8APxKLNmM5x0k3VANXt2o3cFd0N3sbh2-LL51TqYuss7g7v8PT4-WP8S_zF_o_-yA==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>High DPS,high survivability LA Frenzy ranger with Vaal pact and Iron reflex</name>
+    <description>Ranger, 87 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgIAAdEB5wR-FSAV8Bn-GtsbASP2JP0lPyi1KaUqOCpNLOkxnjIJMn41kjboOlI6WD8nRZZKfUrITeNOKlYEVvpYr1pIW69giGFSZ6Bqk2wWbEZuqnJseA19W4PbhmCHGYd2ks2bjZ_LoSKhpKJAplen1KlurEev67QatfK2Qb6nwA_Eos2YznHSTdUA1e3ajdwV3Q3exuHb4svnVOpi6yzuDu_w9Pj5Y_xL_MX-j_7I</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>High DPS,high survivability LA Frenzy ranger with Vaal pact and Iron reflex</name>
+    <description>Ranger, 111 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgIAAdEB5wR-FSAV8BnVGf4a2xsBIXYj9iT9JT8otSmlKjgqTSzpMHwxnjH6MgkyfjMMNZI26DnUOlI6WD7PPydFlkp9SshMMk3jTipRR1YEVvpYr1oaWkhbr2CIYVJnoGqTbBZsRm6qb_JybHRBdvd313gNfVuD24ZghxmHdo19ks2VBZuNn8ugn6EioaSiQKZXp9Spbqp_qrisR6_rtBq18rZBvea-p8APxKLKqc2YznHSTdUA1e3ajdwV3Q3exuHb4oDiy-dU6mLrLO4O7_D0-Plj_Ev8xf4r_o_-yP_e</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Dual Sword Critical Duelist</name>
+    <description>Duelist, 120 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgQAAAYB5wH_AycDhwUtBqIG7hDwEdUSIBLhFCAUcRUgFfYXHRfcGE0Y2xpVG6obrRv6HSYhYCP2Jd8otSmlLOkxsDJ-NDU0ODboOlI6cT96QKBEnkd-Sn1OKlBHU7tT31WpVvpXl1jbWkhbr16LYEFgS2CIYSFhUmJ5Yxdko2VNZ4BnoGwWbI1tSnBydO108XhJeu-BOoPbhNmE74d2iO2VZpdwl7SZK5stm4OeuZ_Lo-ekGacwq8Wsuq-isHO9gb6nv9XAD8EHy_XOcc_40O7STdN-1FLXft0N5w_stu4O707veu_w8fT3o_e-_Ev8xf2T</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>MrFreeze, Duelist, Glacial Hammer</name>
+    <description>Duelist, 26 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgQAmSu9gd3jXznKkITZbmlY276nxLhT3-_j1fibg2NwhO80k3TttkF670MxYEvfbwUtQKCeuQ==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>MrFreeze, Duelist, Glacial Hammer</name>
+    <description>Duelist, 52 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgQAmSu9gd3jXznKkITZbmlY2yXfvqfEuFPfG_rv49X4m4OkGWNwhO8B3DSTdO2-irZBeu94DUMxYEupbt9vBS1sRrXyQKBybDWSnrkyCaxZiPHnY_4Ktz7GrkGHPC356MT2xBVuqkrIJ-0=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>MrFreeze, Duelist, Glacial Hammer</name>
+    <description>Duelist, 76 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgQAmSu9gd3jXznKkITZbmlY2yXfvqfEuFPfG_rv49X4m4OkGWNwhO8B3DSTdO2-irZBeu94DUMxYEupbt9vBS1sRrXyQKBybDWSnrkyCaxZiPHnY_4Ktz7GrkGHPC356MT2xBVuqkrIJ-0ZLtSPud3vDudSVEnyL18_WK9GafPdrKpZ88AakFWnhBo47DhX4nflMokEsxRNogA=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>MrFreeze, Duelist, Glacial Hammer</name>
+    <description>Duelist, 103 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgQAmSu9gd3jXznKkITZbmlY2yXfvqfEuFPfG_rv49X4m4OkGWNwhO8B3DSTdO2-irZBeu94DUMxTipgS6lu329brwUtbEa18t0NQKBybDWS_MWeuTIJ_o-sWWegTeOI8Yd2plfnY0p9MZ7-Crc-xq5Bhzwt-ejE9ift892sqhkucqlZ89SPfNnAGrndZp6QVe8O8i_60qeE51IdFBo4VEmPRuw4Xz-nCFfiFVB35TKJE8wEs0_zFE2qUqIAUfnsy9DQz2VVxhZvbqpKyMQVkAo=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>2 Handed Spectral Throw Tank</name>
+    <description>Scion, 100 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgAB8pebXaiaWlJKyG6qtfI1kv6PTeOmVzrh8kX-Crc-xq48LcT2J-2sqnKpfNlM_69sxYrwH6IAFE2paKlueA1YrzboOlIyfgHnn8s_JypNFSAs6d0NW69OKimlrFmI8edjg9v8S85xbBanMPe-FCBQRxiR0EdsRnJsMglbPfzFZ6CHdkp9BLMCcXfjrj5nmykufLg9_FhjxthQUIzP9khfP1RJ51LvDvnoQYcxnr6KAdykGRv6Jd_i6mEhhO907XrvYEsFLUCgnrk=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Duelist Reave - Crit + AOE</name>
+    <description>Duelist, 101 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgQABH4EsQUtBfkOSBGWFfAV_Ra_Gtsb-iP2JDwk_SXfJpUppTIBNns6WECgR35JO0lRSn1MYE4qU99VS1b6WNtaSFptW69e-mBLYeJirGVNZx5noGp-apNte25pcFJw1XTteu-E2YTvhxmHdofbjDaP-pAKlWaZK5smmy2bg52jnaqeuaOKpBmmf6c0p1yrxbGzshm0o7VItkG9gb6nwA_AUc960k3V7dYH1p3dDd7244TnVOd06NbrFOwY7UHtdu4O76Dv8PPq_Kv8xQ==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>CI Corruped Fire Mage ~Nemesis/HC~</name>
+    <description>Scion, 113 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgAAAW8EBwhnDkgRUBGWEdsSaRW4FdcW8xccGYoajxzcHdkfAiHDJIsmPCj6Ko0snCymLL8tHy9vL500CjbFNtg3ZjeDO-E8LTyOPQ89X0GHQ1RGcUkbTLNPv1JTVi1WY1fJV-Fd8m0Zb55wu3F5d2J_xoIegseDCYRIhGOGrodliBuIQot6jDaPppDWkjiTJ5Yyl4WbtZwtnWOdrqIuoqOksabrpwinK6x_r7e0DLc-uJO71sHFwfPDOsNtxPbGrshbykrXhtkT3uXi9-WO6rrr7uwY7FXvhfId9tr3wfll-ej7CQ==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Scion ,Area of Death (Whispers of Doom)</name>
+    <description>Scion, 120 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgABAuMEBwelCGcOPBEtEZYUcRSwFbgWbxbzFy8YPBmKGo8c3B0UHaofAiHDIxgksCY8Jwsn7SycLR8vby-dMtE2xTlSOjA8BTwtPV9Bh0GqQqNFR0ZxSbJMs05tUlNVxlXWV-FYB1gbWfNdxmBtZOdmnm0Zb55wu3Kpdgh-WX_GgKSDCYM4g_eFbYbRjRyOvo9GkyeTOpYyl5WX9Juhm7WdgJ_foqOnCKyYrKqydbQMtQS3PriTvDe9J8AawfPDOsT2xq7IW8pKz2XQ0NWB2CTZE9rd3fPhiOvu73zxdvPd9tr3MvfX-Ov5Zfno-tL7Cf5J</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>CyberWolf&amp;#39;s Frozen Minions Witch</name>
+    <description>Witch, 120 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgMBAP0C_gVCB2MOSBFQEZYUsBXXFy8XUBdUGYoabBqPHNwdFCKBJIsksCj6KU8qmCymLL8vbzQKN2Y3gzowOtg74UGWQsNGcUwtTrpV1lYtVmNXK1qRXfJfKmTnaqxr220Zb55wUnC7cNVzU3RVfLt8zn0Yf8aApIIQgh6Cx4MJhq6G0YhCjDaOPI5kj0aQ1pMnm7Wdo52uoi6m66cIpyuofax_rJius7QMtvq4k7vWv5fBxcHzwzrDbck9ykrT-9eG2QvZE9-E37Di9-Qi5Ovmgeq66-Tr7uwY7DjsivId8h722vem98H56PqA-tL7Cfyr</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Summoner Witch with Auras and totems</name>
+    <description>Witch, 29 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgMBVysHY3NTa9t9GOyK5oERULvWO-FtGcHzoqN_xhzckye_l8k98h6CHkwtF1AA_RSwOjCsmPfXm6FI5w==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Summoner Witch with Auras and totems</name>
+    <description>Witch, 50 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgMBVysHY3NTa9t9GOyK5oERULvWO-FtGcHzoqN_xhzckye_l8k98h6CHkwtF1AA_RSwOjCsmPfXm6FI58y8hWCqxE25RAQQl9DQj0anCNkLKpj6gJ2uGmymrIhAkDMRlnC72RMvbw==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Summoner Witch with Auras and totems</name>
+    <description>Witch, 84 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgMBVysHY3NTa9t9GOyK5oERULvWO-FtGcHzoqN_xhzckye_l8k98h6CHkwtF1AA_RSwOjCsmPfXm6FI58y8hWCqxE25RAQQl9DQj0anCNkLKpj6gJ2uGmymrIhAkDMRlnC72RMvb7iT6-4o-oLH0_uofVqRaqz56LQMRnHhiB2qsHeDCW-eykrDOlYtrH-btRmK-wn22hqPHRTpc_rSFy-G0SSwgKRV1mTn</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Summoner Witch with Auras and totems</name>
+    <description>Witch, 103 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgMBVysHY3NTa9t9GOyK5oERULvWO-FtGcHzoqN_xhzckye_l8k98h6CHkwtF1AA_RSwOjCsmPfXm6FI58y8hWCqxE25RAQQl9DQj0anCNkLKpj6gJ2uGmymrIhAkDMRlnC72RMvb7iT6-4o-oLH0_uofVqRaqz56LQMRnHhiB2qsHeDCW-eykrDOlYtrH-btRmK-wn22hqPHRTpc_rSFy-G0SSwgKRV1mTnZp7AGlnzKhNaKyynrKpyqfcy-OtKxHhp9q4MfRB_xp45Urw3Tm0=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Summoner Witch</name>
+    <description>Witch, 110 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgMAVysHY3NTa9sQdH0YDlwI9EV-eQNtGTGIwfOCHqKj2wtMLX_GF1AnqRGWHNwA_VptcLuTJxSwJDzZE7QMv5fcVzowrJinXC9vRnHJPR6UOVL310lR4YiDCfIerD-8N5uhzLwdqm-eTm3Q0BCXykpYB89lj0ZEBBmGwzpVxqcITbmS81Ytm7WdrtkLrEesfxmKGmwqmJLN-wkZhaas-oDrLPbaJKqIQCpNGo826ZAzPycVIONq-tJKyCzpg9sXL90N_Etk51uv_MXOcVXWTipnoGwWgKQppYd2Sn3-SQ==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Witch Dual Wand +CRIT +CHAOS INOC +VAAL PACT (POWER SIPHON)</name>
+    <description>Witch, 120 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgMBAP0BzAQHBbUHYw5IDq0QexFQEZYRvxR1FLAV1xa_F1AY2xnXHhohYCUBJ6kotSlUKjgqWysKLL8tHy4IMHwxiTTLOVI6MDrtO-FAoEOcRPtHBkqMSppMLUyzTm1QMFFHVmNXK1eHWAdZvF8qX2phsWNDbRlwUnDVdEF0VXTxd9d8zn5Zfyt_xoCuhq6HnofbiGuNv5P8naOeuaIEoqOnK6c0rs-0xbVIu9a8N746wFHBAMHFwdjB88Lsw23FKM_p0PvSGdaK1tHXhtsa217i9-NW44TmgesU647r5OwY707y4fPq9Uv2W_rv_GT8q_-T</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Infernal Blow Templar with Avatar of Fire</name>
+    <description>Templar, 100 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgUBAecCcQSzCZYPVA_MEmkTzBQgFE0UcRVQFm8XHBiRGS4ZhRo4GmwkiySqJ-0pTy3SMZ4yiTWSNuk62DwFPC09D0E_QapEck3YTeNP81BHUeZR-VXGVw1X4maecXlyqXbnd-V8u3zZgpuDOITEiPGKdIx2j0aQVZHOna6ezZ_Ln9-iAKZXpmSnCKcwp4SpaKpSrFmsqq-NtC-3PrvtwBrE9sauyZjPZdDQ0iHZYd7B37_jauQi5K3nY-sJ7Djsy-988B_8if4K_o8=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Wander CI Witch</name>
+    <description>Witch, 118 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgMBAP0BzAQHB2MOSA_EEVARlhG_EdsUsBVQFdcX2BzcHdkfAiUBJ6kpVCy_LR8xiTN2NMs2xTgbOVI6MDt8O-E_c0NURwZKjEqaTLNObU-_UDBQQlZjVytXh1gHWbxapl76XypfamGxY0NmT2nTbRlwUnDVdFV4znzOfll_xoCugUmGroeeiEKLeow2j0aRz5I4m6Gdo6IEoi6io6cIpyunNKyYsji4k7jKu9a8N8BRwFTBxcHzwuzDbcUo0DnQ0ND70xvXhtrd2wLbXtzH4vfjhOQR5oHr5OwY8hfyHfLh8wXz6vZb99f67_xk_Ks=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Spectral Throw Marauder with 2H Axe</name>
+    <description>Marauder, 108 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgEAAecFLRLhE0wUIBfhGS4aVSftKaUwTzGeMgkyfjWSNug6UjrhQKBDMUTnR35KfUrITeNOKlBHUFBUSVcNWGNYr1nzWf5br18_YEthIWRSZKNlTWWnZfBnoGo7apNsRm5pbqpu2HJscql07XgNeu982YLkhNmE74cph2qHdojxiq-Mz5ARkGyRzpStlZueuZ7Nn8umV6cwqBipbqmUq8WsWayqtfK2QbndvqfAD8GjxtjQR9Ih0k3S6tSP1e3ZYd0N4mHnUudj7w7yL_JF8932SPe-_MX-Cv6P</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Dual Strike Marauder Dual Wielding Axes</name>
+    <description>Marauder, 36 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgEBAecUcRfhGS4aVRvIJ-0pLimlNug9_EGqQzFOKlhjWfNZ_l4TYSFko2ebbthyqXy4fNmE75uDn8unMKyqtkHG2NSP9zL3vvjr</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Dual Strike Marauder Dual Wielding Axes</name>
+    <description>Marauder, 62 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgEBAecTTBQgFHEX4RkuGlUbyCECJ-0pLimlKvYwTzSTNug9_EGqQzFOKlBHWGNYr1nzWf5eE2EhY3BkUmSjZadnm27Ycql7jHy4fNmE74cplZubg5_LpzCsqrZBud2-p8APwaPG2NJN1I_iYeRR567vDu_j8i_z3fcy97746w==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Dual Strike Marauder Dual Wielding Axes</name>
+    <description>Marauder, 88 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgEBAecFLRIgEuEUIBRxF-EYTRkuGlUbyBv6IQIhYCXfJ-0pLimlKvYxnjSTNZI26D38QKBBqkMxTeNOKlBHWGNYr1nzWf5eE16LYEthIWNwZKNlp2eAZ5tuaW7Ycql07XgNeEl673uMfLh82YN8hNmE74jxlZubg565n8ukGaZXpzCoB6lurFmsqrXytkG53b6nwA_G2M_40k3Uj-Jh5FHnru8O7-PxivIv9zL3vvjr_o8=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Dual Strike Marauder Dual Wielding Axes</name>
+    <description>Marauder, 104 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgEBAecFLRIgEuETTBQgFHEX4RhNGS4aVRvIG_ohAiFgJd8nTyftKS4ppSr2ME8xnjSTNZI26D38QKBBqkMxR35N404qUEdQUFhjWK9Z81n-XhNei18_YEthIWNwZFJko2VNZadl8GeAZ5tuaW7Ycql07XgNeEl673uMfLh82YN8hNmE74cpiPGMz5StlZubg565n8ukGaZXpzCoB6luq8WsWayqtfK2QbndvqfAD8GjxtjP-NJN0urUj-Jh5FHnru8O7-PxivIv9kj3Mve--Ov-jw==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>TemplarMcCrack</name>
+    <description>Templar, 120 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgUBAP0FWwhnEb8R2xSwFbgWQBg8IcMjoyftKPopTylUMtEzVjN2NMs5UjowPAU8LUGHQ2NFR0bXSppObVfhWAdYG1j1XPRdxl6fXypgbWZPZp5nvWfiaHRxTXRVd2J7B3xLfM59U4FJgpuCx4M4hGOFfYeei4yOZI9GkNaSOJM6lKCWMpitms-boZ2AncSf36Y-pwismKyqsjiydbUEtoa2-rcxtz63pbiTvDe9J8QVxPbGrshby5jMt9DQ0PvVLNV11YHaYt0F3fPhc-Qi5PHr5Ovu7BntIO5v73zyzvMF89306fem99f5Zfno-i78ZP6_</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Sweeping Pillar Marauder</name>
+    <description>Marauder, 17 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgEAGS4n7VBQVElYY18_cql82YzPrKq53cbY1I_nUu8O8i_2SA==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Sweeping Pillar Marauder</name>
+    <description>Marauder, 30 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgEAAecUIBRxGS4n7UGqUEdQUFRJVw1YY18_cql82YzPns2fy6cwrKq53cbY0iHUj9lh37_nUu8O8i_2SPe-</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Sweeping Pillar Marauder</name>
+    <description>Marauder, 58 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgEAAdwB5wmWFCAUcRkuG_ol3ycgJ-0ppTboQapHfk4qUEdQUFRJVw1YY1ivXz9lTWqTbmlyqXgNfNmE2YcpjM-ZK57Nn8ukGacwq8WsqrZBud29gb6KvqfAD8bY0iHSTdSP1e3ZYd-_51LrCe8O8i_2SPe-_Ik=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Sweeping Pillar Marauder</name>
+    <description>Marauder, 91 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgEAAdwB5wJxBLMFLQmWEuEUIBRNFHEZLho4G_ol3ycgJ-0ppS3SNug62DwFQKBBqkd-TdhOKlBHUFBUSVcNWGNYr1nzXz9gS2EhZU1qk25pcql07XgNeu982YFvgziE2YTvhymHaox2jM-QVZBskc6ZK548nrmezZ_Ln9-iAKQZpzCnhKmUq8WsqrZBud29gb6KvqfAD8AaxtjSIdJN1I_V7dlh37_nUusJ7DjvDu988i_2SPe-_Ik=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Sweeping Pillar Marauder</name>
+    <description>Marauder, 105 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgEAAdwB5wJxBLMFLQmWEuEUIBRNGS4aOBv6Jd8nICftKaUt0jGeMgk1kjboOtg8BUCgRmlHfkrITdhN404qUEdQUFRJVw1YY1ivWfNfP2BLYSFlTWqTbEZuaW6qcmxyqXTteA1673zZgW-DOITZhO-HKYdqiPGMdozPkFWQbJHOmSuePJ65ns2fo5_Ln9-iAKQZplenMKeEqW6plKvFrFmsqrXytkG53b2Bvoq-p8APwBrG2NIh0k3Uj9Xt2WHnUusJ7DjvDu988i_z3fZI9778if6P</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Ninja-Shadow</name>
+    <description>Shadow, 120 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgYAAuMEBwU6BVsFtQelDPIOSBEvEZYSaRXnFkAWvxbzFxwZhRpsHRQfAiSqJjwpTyqNLJwtHy4IL50wfDY9NkI2xTbYNuk740bXSRtJskwtTLNRR1VLXcZd8mBtYeJkCWaebRltN217cFJwu3DVcXlzs3rmfVN-WX8rf8aCHoJTgpuEr4V9h2WH24gbiGuKKIuMjDaNv5P8l4WZmpwtnWOdgJ2uoqOksaXLpwinNKgars-vja-3tDi1SLb3wFHB88XM1CPUfNVP1orYJN0F3fPed-Fz44TlGeWO52rpc-tj647sVe0g74Xwa_Pq-tL79f1g</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Spectral Throw/Power Siphon (5 Auras, MoM, AA, IR, EB, Tank build)</name>
+    <description>Shadow, 105 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgYBAP0RlhSwFSAXLxdQGYYZihqPHNwdFB2qHhoelCSwJpUppSpNKlss6S9vMZ41kjbpOjA64T8nQYdGcUp9SshMLU3jTipTNVVLVcZV1lYtW69fKmTnZ6BtGW1sbXtuqm-ecLt0VXzOf8aApIIegwmG0Yd2iPGMNo9Gks2S85Mnm6GbtZ2joqOmV6w_rEesWax_rJi0DLVItfK3PsHzwzrKSs9l0NDSGdbR2RPbC9xX3Q3e5eGI42rnY-ss6-TyRfba99f56PrS-wn8q_zF_gr-j_-T</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Avatar of Fire + Explosive Arrow = ??????</name>
+    <description>Shadow, 120 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgYBBAcEswW1CIkLkQ-rEmkUTRccGjgc3B0UHhofAiLqJpUpTypbKo0tHy1HMHEwfDIBMok2xTbYOdQ6QjwFSRtLeEyzUEJRR1JTVUtVxlfiXWhf4WHiYetmnmskbRltbG17b_JxeXfUd-V65n_GgpuDOIbOh2WIG4uMjDaNv49GkFWTJZXpl4WXlZf0mvGbJpwtnWOdrp_foJ-iAKKjpLGnCKeEr42vt7Ewshm0OLTFtUjAGsEzwfPGosqPzerPZc960NDSGdQj1HzW0dgk2mTdqOFz5Rnljudq53To1uw47FXtIO9874XwQvlW-tL79f-T</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>2H Infernal Marauder</name>
+    <description>Marauder, 41 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgEAAdwB5xRxGjgb-iECIVUl3yr2MfsyiTboQapVtVfiWK9Z82aecql253fleA17jHzZhNmQVZ7NpBmnMKeErKqvjb6KwBrBBNw937_sOPcy97746w==</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>2H Infernal Marauder</name>
+    <description>Marauder, 67 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgEAAdwB5wSzBS0UTRRxGjgb-iECIVUl3yfVKvYx-zKJNug8BUGqRtdVtVfiWK9Z82BLYSFmnm5pcql07Xbnd-V4DXrve4x82YM4hNmE74dqi4yQVZBsns2f36QZpzCnhKloqZSsqq-Nvoq-p8APwBrBBMRY0k3cPd-_4XPsOO0g73z3Mve--Os=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>2H Infernal Marauder</name>
+    <description>Marauder, 120 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgEAAdwB5wJxBLMFLQYOCZYJ9hQgFE0UcRUgGjgb-iECIVUlrSXfJyAn1SkuKU8qTSr2MZ4x-zKJNZI26DkOPAU9_D8nQKBBqkbXR35KyE3jUEdQUFRJVbVX4lhjWK9Z818_X6pgS2EhY_1lTWaebmluqnKpc-F07Xbnd-V4DXrmeu97jHy4fNmCm4M4hNmE74dqiPGLjIzPkFWQbJ65ns2f36IApBmmV6cwp4SpaKluqZSrxaxZrKqvjbXyvoq-p8APwBrBBMRYxtjSTdR83D3fv-Fz51LnausJ7DjtIO8O73zwH_ZI9zL3iPe--Ov8if6P</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>Shadow Bang Bang</name>
+    <description>Shadow, 106 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgYBBAcFtQx9DPIOSBB7EH8RLxGWFr8XLxmKGo8c3B0UHaoeGh8CJLAqWysKLR8tgy9vMYk2xTvhPs9GcUcGSoxMs1AwUUdTNVXWVi1Xh1m8X2phsWHiY0Nk520ZbWxvnnC7f8aApICugwmG0Yfbjb-PRpMnlwaZmpu1ogSio6XLpn-nCKcrpzSsf7GztAy0xbVItve4k73mvjrBAMHFwfPC7MM6w23EosUoxp7KStIZ1tHYJNkT2xrhiOL344TrY-wY7UHxdvLh9Uv2W_ba-tL67_sJ_5M=</url>
+  </PoEBuild>
+  <PoEBuild>
+    <name>ShadowMcCrack</name>
+    <description>Shadow, 120 points used</description>
+    <url>http://www.pathofexile.com/passive-skill-tree/AAAAAgYBBToFfQW1Cv8M8g5IEZYWvxfYGL0ZihqPHhohAyLqJDwmlSepKCoqWytvLOEwVDBxMHwyATY9Nns3ijpCSRNJO0lRS3hMsVFHUzVVS1YtVupabVzGXQle-mHiYetirGgObWxte2-ecFJwu3DVeUh6U35Zfyt_xoJbhK-HE4fbieCMNo19jb-Oio_6kx-ZV5smm7WcpJ2WnaOdqqXLpn-nNKdcqKKqf6q4qvisZqx_sbOyGbJEtKO1SLt8wFHDOsXMxqLKSs960DnSGdQj1orWndbR2HbdqN7l44TmWOd06Nbp_usU7UHz6vba-wn8q_-T</url>
+  </PoEBuild>
+</ArrayOfPoEBuild>

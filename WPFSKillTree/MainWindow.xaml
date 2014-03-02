@@ -1,0 +1,665 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:WPFSKillTree="clr-namespace:WPFSKillTree"
+        xmlns:POESKillTree="clr-namespace:POESKillTree" xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+        xmlns:View="clr-namespace:Procurement.View" mc:Ignorable="d" x:Class="POESKillTree.MainWindow"
+        Title="Path of Exile - Build Optimizer v0.7" Height="667" Width="1200" Closing="Window_Closing" Icon="/POEBuildOptimizer;component/naja.ico" Loaded="Window_Loaded">
+    <Window.Resources>
+        <Style x:Key="ContainerStyle" TargetType="{x:Type GroupItem}">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate>
+                        <Expander Header="{Binding Name}" IsExpanded="True">
+                            <ItemsPresenter Margin ="15,0,0,0 " />
+                        </Expander>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+    </Window.Resources>
+    <Grid Margin="0,0,0,1" Background="#FFD3D1AD">
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="28" />
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="390" />
+                <ColumnDefinition Width="Auto" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Popup x:Name="popup1" Height="Auto" Placement="Center" >
+                <Border >
+                    <StackPanel Background="Beige">
+                        <TextBlock Text="No Item Data Found" FontWeight="Bold" HorizontalAlignment="Center"/>
+                        <TextBlock Text="Please enter Your Character Name Below and click on Download. " HorizontalAlignment="Center"/>
+                        <TextBlock Text="This Will open your default Web-browser and download the Item data.  " HorizontalAlignment="Center"/>
+                        <TextBlock HorizontalAlignment="Center" Text="It's name is usually 'get-items'. You can save it with any desired name."/>
+                        <TextBlock HorizontalAlignment="Center" Text="Click on the Load from file button to Load the downloaded item Data."/>
+                        <TextBlock Text=""/>
+                        <TextBlock Text="You can, also, copy this link to your browser after typing your character name." HorizontalAlignment="Center"/>
+                        <TextBox x:Name="tbCharLink" />
+                        <TextBox Text="YourCharacterName" x:Name="tbCharName" TextChanged="tbCharName_TextChanged"  HorizontalAlignment="Center"/>
+                        <TextBlock Text=""/>
+                        <Button Content="Download" x:Name="btnDownloadItemData" Width="auto" Height="auto" Click="btnDownloadItemData_Click"/>
+                        <Button Content="Ok" x:Name="btnPopup" Click="btnPopupOk_Click" Width="auto" Height="auto" />
+                        <Button Content="Load from file" x:Name="btnLoadItemDataFromFile" Width="auto" Height="auto" Click="btnLoadItemDataFromFile_Click" />
+                        <TextBlock Text=""/>
+                        <TextBlock HorizontalAlignment="Center" Text="As an alternative method, you can download all of your characters items,build, etc.. "/>
+                        <TextBlock HorizontalAlignment="Center" Text="This method uses Procurement library and requires login information."/>
+                        <TextBlock HorizontalAlignment="Center" Text="It makes it possible to swap your character gears and observe changes in the stats."/>
+                        <TextBlock Text=""/>
+                        <Button Content="Load all Characters" x:Name="btnLoadAllGears" Width="auto" Height="auto" Click="btnLoadAllGears_Click" Margin="0,0,0,5" />
+
+                    </StackPanel>
+                </Border>
+            </Popup>
+            <Grid Grid.Column="2">
+                <POESKillTree:ZoomBorder BorderBrush="Silver"  BorderThickness="1"  Height="auto" x:Name="treeBackground" ClipToBounds="True" MouseMove="treeBackground_MouseMove" Click="treeBackground_Click" Background="#FF191311" HorizontalAlignment="Stretch" FlowDirection="LeftToRight">
+                    <Rectangle x:Name="treeBackgroundImage" Stretch="Uniform" Width="700" Height="600" Margin="1" ClipToBounds="True"/>
+                </POESKillTree:ZoomBorder>
+                <Expander Header="Stats" HorizontalAlignment="Right" ExpandDirection="Left" IsHitTestVisible="True" Background="#FF9E9E78" >
+                    <Grid  Background="#FF9E9E78" HorizontalAlignment="Left" >
+                        <ScrollViewer Background="#FF9E9E78" >
+                            <StackPanel x:Name="statsListView"  Margin="4,26,4,29" Background="#FFD3D1AD" >
+                                <Expander Header="Base Attributes" Margin="0,0,0,0" IsExpanded="False" Focusable="False">
+                                    <StackPanel Margin="25,0,0,0">
+                                        <DockPanel LastChildFill="True">
+                                            <TextBlock Text="Strength:   " />
+                                            <TextBox Width="50" Text="{Binding Strength}" IsReadOnly="True" HorizontalAlignment="Right"/>
+                                        </DockPanel>
+                                        <DockPanel  LastChildFill="True">
+                                            <TextBlock Text="Dexterity:   " />
+                                            <TextBox Width="50" Text="{Binding Dexterity}" IsReadOnly="True" HorizontalAlignment="Right"/>
+                                        </DockPanel>
+                                        <DockPanel LastChildFill="True" >
+                                            <TextBlock Text="Intelligence:   " />
+                                            <TextBox Width="50" Text="{Binding Intelligence}" IsReadOnly="True" HorizontalAlignment="Right"/>
+                                        </DockPanel>
+                                    </StackPanel>
+                                </Expander>
+                                <Expander Header="Life And Mana" Margin="0,0,0,0" IsExpanded="False">
+                                    <StackPanel Margin="25,0,0,0">
+                                        <DockPanel LastChildFill="True">
+                                            <TextBlock Text="Life:   " />
+                                            <TextBox Width="50" Text="{Binding Life}" IsReadOnly="True" HorizontalAlignment="Right"/>
+                                        </DockPanel>
+                                        <DockPanel  LastChildFill="True">
+                                            <TextBlock Text="Life Regeneration per Second: " />
+                                            <TextBox Width="50" Text="{Binding LifeRegen}" IsReadOnly="True" HorizontalAlignment="Right"/>
+                                        </DockPanel>
+                                        <DockPanel LastChildFill="True" >
+                                            <TextBlock Text="Mana:   " />
+                                            <TextBox Width="50" Text="{Binding Mana}" IsReadOnly="True" HorizontalAlignment="Right"/>
+                                        </DockPanel>
+                                        <DockPanel LastChildFill="True" >
+                                            <TextBlock Text="Mana Regeneration per Second: "/>
+                                            <TextBox Width="50" Text="{Binding ManaRegen}" IsReadOnly="True" HorizontalAlignment="Right"/>
+                                        </DockPanel>
+                                        <DockPanel LastChildFill="True" >
+                                            <TextBlock Text="Energy Shield: "/>
+                                            <TextBox Width="50" Text="{Binding EnergyShield}" IsReadOnly="True" HorizontalAlignment="Right"/>
+                                        </DockPanel>
+                                    </StackPanel>
+                                </Expander>
+                                <Expander Header="Damage Mitigation" Margin="0,0,0,0" IsExpanded="False">
+                                    <StackPanel Margin="25,0,0,0">
+                                        <DockPanel LastChildFill="True">
+                                            <TextBlock Text="Armour:   " />
+                                            <TextBox Width="50" Text="{Binding Armour}" IsReadOnly="True" HorizontalAlignment="Right"/>
+                                        </DockPanel>
+                                        <DockPanel LastChildFill="True">
+                                            <TextBlock Text="Physical Damage Reduction: " />
+                                            <TextBox Width="50" Text="{Binding PhysDamageReduction}" IsReadOnly="True" HorizontalAlignment="Right"/>
+                                        </DockPanel>
+                                        <DockPanel  LastChildFill="True">
+                                            <TextBlock Text="Fire Resistance: " />
+                                            <TextBox Width="50" Text="{Binding FireResist}" IsReadOnly="True" HorizontalAlignment="Right"/>
+                                        </DockPanel>
+                                        <DockPanel LastChildFill="True" >
+                                            <TextBlock Text="Cold Resistance: " />
+                                            <TextBox Width="50" Text="{Binding ColdResist}" IsReadOnly="True" HorizontalAlignment="Right"/>
+                                        </DockPanel>
+                                        <DockPanel LastChildFill="True" >
+                                            <TextBlock Text="Lightning Resistance: "/>
+                                            <TextBox Width="50" Text="{Binding LightningResist}" IsReadOnly="True" HorizontalAlignment="Right"/>
+                                        </DockPanel>
+                                        <DockPanel LastChildFill="True" >
+                                            <TextBlock Text="Chaos Resistance: "/>
+                                            <TextBox Width="50" Text="{Binding ChaosResist}" IsReadOnly="True" HorizontalAlignment="Right"/>
+                                        </DockPanel>
+                                    </StackPanel>
+                                </Expander>
+                                <Expander Header="Damage Avoidance" Margin="0,0,0,0" IsExpanded="False">
+                                    <StackPanel Margin="25,0,0,0">
+                                        <DockPanel LastChildFill="True">
+                                            <TextBlock Text="Evasion Rating:   " />
+                                            <TextBox Width="50" Text="{Binding EvasionRating}" IsReadOnly="True" HorizontalAlignment="Right"/>
+                                        </DockPanel>
+                                        <DockPanel  LastChildFill="True">
+                                            <TextBlock Text="Chance To Evade: " />
+                                            <TextBox Width="50" Text="{Binding ChanceToEvade}" IsReadOnly="True" HorizontalAlignment="Right"/>
+                                        </DockPanel>
+                                        <DockPanel  LastChildFill="True">
+                                            <TextBlock Text="Chance To Evade Projectile Attacks: " />
+                                            <TextBox Width="50" Text="{Binding ChanceToEvadeProjectileAttacks}" IsReadOnly="True" HorizontalAlignment="Right"/>
+                                        </DockPanel>
+                                        <DockPanel LastChildFill="True" >
+                                            <TextBlock Text="Chance To Dodge Attacks: " />
+                                            <TextBox Width="50" Text="{Binding ChanceToDodge}" IsReadOnly="True" HorizontalAlignment="Right"/>
+                                        </DockPanel>
+                                        <DockPanel LastChildFill="True" >
+                                            <TextBlock Text="Chance To Dodge Spell Damage: "/>
+                                            <TextBox Width="50" Text="{Binding ChanceToDodgeSpell}" IsReadOnly="True" HorizontalAlignment="Right"/>
+                                        </DockPanel>
+                                        <DockPanel LastChildFill="True" >
+                                            <TextBlock Text="Chance To Block Attacks: "/>
+                                            <TextBox Width="50" Text="{Binding ChanceToBlock}" IsReadOnly="True" HorizontalAlignment="Right"/>
+                                        </DockPanel>
+                                        <DockPanel LastChildFill="True" >
+                                            <TextBlock Text="Chance To Block Spells: "/>
+                                            <TextBox Width="50" Text="{Binding ChanceToBlockSpell}" IsReadOnly="True" HorizontalAlignment="Right"/>
+                                        </DockPanel>
+                                    </StackPanel>
+                                </Expander>
+                                <Expander Header="Weapon Damage" Margin="0,0,0,0" IsExpanded="False">
+                                    <StackPanel Margin="25,0,0,0">
+                                        <StackPanel Visibility="{Binding MainHandVisibility}">
+                                            <TextBlock Text="Main Hand: " />
+                                            <DockPanel  LastChildFill="True">
+                                                <TextBlock Text="Physical Damage: " />
+                                                <TextBox DockPanel.Dock="Right" Width="50" Text="{Binding MainHandMaxPD}" IsReadOnly="True" HorizontalAlignment="Right"/>
+                                                <TextBlock Text=" - " DockPanel.Dock="Right"/>
+                                                <TextBox DockPanel.Dock="Right" Width="50" Text="{Binding MainHandMinPD}" IsReadOnly="True" HorizontalAlignment="Right"/>
+                                            </DockPanel>
+                                            <DockPanel  LastChildFill="True">
+                                                <TextBlock Text="Cold Damage: " />
+                                                <TextBox DockPanel.Dock="Right" Width="50" Text="{Binding MainHandMaxColdD}" IsReadOnly="True" HorizontalAlignment="Right"/>
+                                                <TextBlock Text=" - " DockPanel.Dock="Right"/>
+                                                <TextBox DockPanel.Dock="Right" Width="50" Text="{Binding MainHandMinColdD}" IsReadOnly="True" HorizontalAlignment="Right"/>
+                                            </DockPanel>
+                                            <DockPanel LastChildFill="True" >
+                                                <TextBlock Text="Fire Damage: " />
+                                                <TextBox DockPanel.Dock="Right" Width="50" Text="{Binding MainHandMaxFireD}" IsReadOnly="True" HorizontalAlignment="Right"/>
+                                                <TextBlock Text=" - " DockPanel.Dock="Right"/>
+                                                <TextBox DockPanel.Dock="Right" Width="50" Text="{Binding MainHandMinFireD}" IsReadOnly="True" HorizontalAlignment="Right"/>
+                                            </DockPanel>
+                                            <DockPanel LastChildFill="True" >
+                                                <TextBlock Text="Lightning Damage: " />
+                                                <TextBox DockPanel.Dock="Right" Width="50" Text="{Binding MainHandMaxLightD}" IsReadOnly="True" HorizontalAlignment="Right"/>
+                                                <TextBlock Text=" - " DockPanel.Dock="Right"/>
+                                                <TextBox DockPanel.Dock="Right" Width="50" Text="{Binding MainHandMinLightD}" IsReadOnly="True" HorizontalAlignment="Right"/>
+                                            </DockPanel>
+                                            <DockPanel LastChildFill="True" >
+                                                <TextBlock Text="Chaos Damage: " />
+                                                <TextBox DockPanel.Dock="Right" Width="50" Text="{Binding MainHandMaxChaosD}" IsReadOnly="True" HorizontalAlignment="Right"/>
+                                                <TextBlock Text=" - " DockPanel.Dock="Right"/>
+                                                <TextBox DockPanel.Dock="Right" Width="50" Text="{Binding MainHandMinChaosD}" IsReadOnly="True" HorizontalAlignment="Right"/>
+                                            </DockPanel>
+                                            <DockPanel LastChildFill="True" >
+                                                <TextBlock Text="Accuracy Rating: "/>
+                                                <TextBox Width="50" Text="{Binding AccuracyRatingMH}" IsReadOnly="True" HorizontalAlignment="Right"/>
+                                            </DockPanel>
+                                            <DockPanel LastChildFill="True" >
+                                                <TextBlock Text="Chance To Hit: "/>
+                                                <TextBox Width="50" Text="{Binding ChanceToHitMH}" IsReadOnly="True" HorizontalAlignment="Right"/>
+                                            </DockPanel>
+                                            <DockPanel LastChildFill="True" >
+                                                <TextBlock Text="Attack Speed: "/>
+                                                <TextBox Width="50" Text="{Binding AttackSpeedMH}" IsReadOnly="True" HorizontalAlignment="Right"/>
+                                            </DockPanel>
+                                            <DockPanel LastChildFill="True" >
+                                                <TextBlock Text="Critical Strike Chance: "/>
+                                                <TextBox Width="50" Text="{Binding CritChanceMH}" IsReadOnly="True" HorizontalAlignment="Right"/>
+                                            </DockPanel>
+                                            <DockPanel LastChildFill="True" >
+                                                <TextBlock Text="Critical Strike Damage MultiPlier: "/>
+                                                <TextBox Width="50" Text="{Binding CritMultiplierMH}" IsReadOnly="True" HorizontalAlignment="Right"/>
+                                            </DockPanel>
+                                        </StackPanel>
+                                        <StackPanel Margin="0,5,0,0" Visibility="{Binding OffHandVisibility}">
+                                            <TextBlock Text="Off Hand: " />
+                                            <DockPanel  LastChildFill="True">
+                                                <TextBlock Text="Physical Damage: " />
+                                                <TextBox DockPanel.Dock="Right" Width="50" Text="{Binding OffHandMaxPD}" IsReadOnly="True" HorizontalAlignment="Right"/>
+                                                <TextBlock Text=" - " DockPanel.Dock="Right"/>
+                                                <TextBox DockPanel.Dock="Right" Width="50" Text="{Binding OffHandMinPD}" IsReadOnly="True" HorizontalAlignment="Right"/>
+                                            </DockPanel>
+                                            <DockPanel  LastChildFill="True">
+                                                <TextBlock Text="Cold Damage: " />
+                                                <TextBox DockPanel.Dock="Right" Width="50" Text="{Binding OffHandMaxColdD}" IsReadOnly="True" HorizontalAlignment="Right"/>
+                                                <TextBlock Text=" - " DockPanel.Dock="Right"/>
+                                                <TextBox DockPanel.Dock="Right" Width="50" Text="{Binding OffHandMinColdD}" IsReadOnly="True" HorizontalAlignment="Right"/>
+                                            </DockPanel>
+                                            <DockPanel LastChildFill="True" >
+                                                <TextBlock Text="Fire Damage: " />
+                                                <TextBox DockPanel.Dock="Right" Width="50" Text="{Binding OffHandMaxFireD}" IsReadOnly="True" HorizontalAlignment="Right"/>
+                                                <TextBlock Text=" - " DockPanel.Dock="Right"/>
+                                                <TextBox DockPanel.Dock="Right" Width="50" Text="{Binding OffHandMinFireD}" IsReadOnly="True" HorizontalAlignment="Right"/>
+                                            </DockPanel>
+                                            <DockPanel LastChildFill="True" >
+                                                <TextBlock Text="Lightning Damage: " />
+                                                <TextBox DockPanel.Dock="Right" Width="50" Text="{Binding OffHandMaxLightD}" IsReadOnly="True" HorizontalAlignment="Right"/>
+                                                <TextBlock Text=" - " DockPanel.Dock="Right"/>
+                                                <TextBox DockPanel.Dock="Right" Width="50" Text="{Binding OffHandMinLightD}" IsReadOnly="True" HorizontalAlignment="Right"/>
+                                            </DockPanel>
+                                            <DockPanel LastChildFill="True" >
+                                                <TextBlock Text="Chaos Damage: " />
+                                                <TextBox DockPanel.Dock="Right" Width="50" Text="{Binding OffHandMaxChaosD}" IsReadOnly="True" HorizontalAlignment="Right"/>
+                                                <TextBlock Text=" - " DockPanel.Dock="Right"/>
+                                                <TextBox DockPanel.Dock="Right" Width="50" Text="{Binding OffHandMinChaosD}" IsReadOnly="True" HorizontalAlignment="Right"/>
+                                            </DockPanel>
+                                            <DockPanel LastChildFill="True" >
+                                                <TextBlock Text="Accuracy Rating: "/>
+                                                <TextBox Width="50" Text="{Binding AccuracyRatingOH}" IsReadOnly="True" HorizontalAlignment="Right"/>
+                                            </DockPanel>
+                                            <DockPanel LastChildFill="True" >
+                                                <TextBlock Text="Chance To Hit: "/>
+                                                <TextBox Width="50" Text="{Binding ChanceToHitOH}" IsReadOnly="True" HorizontalAlignment="Right"/>
+                                            </DockPanel>
+                                            <DockPanel LastChildFill="True" >
+                                                <TextBlock Text="Attack Speed: "/>
+                                                <TextBox Width="50" Text="{Binding AttackSpeedOH}" IsReadOnly="True" HorizontalAlignment="Right"/>
+                                            </DockPanel>
+                                            <DockPanel LastChildFill="True" >
+                                                <TextBlock Text="Critical Strike Chance: "/>
+                                                <TextBox Width="50" Text="{Binding CritChanceOH}" IsReadOnly="True" HorizontalAlignment="Right"/>
+                                            </DockPanel>
+                                            <DockPanel LastChildFill="True" >
+                                                <TextBlock Text="Critical Strike Damage MultiPlier: "/>
+                                                <TextBox Width="50" Text="{Binding CritMultiplierOH}" IsReadOnly="True" HorizontalAlignment="Right"/>
+                                            </DockPanel>
+                                        </StackPanel>
+                                        <StackPanel Margin="0,5,0,0">
+                                            <TextBlock Text="Total: " />
+                                            <DockPanel LastChildFill="True">
+                                                <TextBlock Text="Chance To Hit: " />
+                                                <TextBox Width="50" Text="{Binding ChanceToHit}" IsReadOnly="True" HorizontalAlignment="Right"/>
+                                            </DockPanel>
+                                            <DockPanel LastChildFill="True">
+                                                <TextBlock Text="Attacks Per Second: " />
+                                                <TextBox Width="50" Text="{Binding AttacksPerSecond}" IsReadOnly="True" HorizontalAlignment="Right"/>
+                                            </DockPanel>
+                                            <DockPanel LastChildFill="True">
+                                                <TextBlock Text="Damage Per Second" />
+                                                <TextBox Width="50" Text="{Binding AttackSkillDPS}" IsReadOnly="True" HorizontalAlignment="Right"/>
+                                            </DockPanel>
+                                        </StackPanel>
+                                    </StackPanel>
+                                </Expander>
+                                <Expander Header="Spell Damage" Margin="0,0,0,0" IsExpanded="False" Visibility="{Binding SpellVisibility}">
+                                    <StackPanel Margin="25,0,0,0">
+                                        <StackPanel>
+                                            <!--TextBlock Text="{Binding Path=ActiveSkillGem.Name}" /-->
+                                            <DockPanel  LastChildFill="True">
+                                                <TextBlock Text="Cold Damage: " />
+                                                <TextBox DockPanel.Dock="Right" Width="50" Text="{Binding SpellMaxColdD}" IsReadOnly="True" HorizontalAlignment="Right"/>
+                                                <TextBlock Text=" - " DockPanel.Dock="Right"/>
+                                                <TextBox DockPanel.Dock="Right" Width="50" Text="{Binding SpellMinColdD}" IsReadOnly="True" HorizontalAlignment="Right"/>
+                                            </DockPanel>
+                                            <DockPanel LastChildFill="True" >
+                                                <TextBlock Text="Fire Damage: " />
+                                                <TextBox DockPanel.Dock="Right" Width="50" Text="{Binding SpellMaxFireD}" IsReadOnly="True" HorizontalAlignment="Right"/>
+                                                <TextBlock Text=" - " DockPanel.Dock="Right"/>
+                                                <TextBox DockPanel.Dock="Right" Width="50" Text="{Binding SpellMinFireD}" IsReadOnly="True" HorizontalAlignment="Right"/>
+                                            </DockPanel>
+                                            <DockPanel LastChildFill="True" >
+                                                <TextBlock Text="Lightning Damage: " />
+                                                <TextBox DockPanel.Dock="Right" Width="50" Text="{Binding SpellMaxLightD}" IsReadOnly="True" HorizontalAlignment="Right"/>
+                                                <TextBlock Text=" - " DockPanel.Dock="Right"/>
+                                                <TextBox DockPanel.Dock="Right" Width="50" Text="{Binding SpellMinLightD}" IsReadOnly="True" HorizontalAlignment="Right"/>
+                                            </DockPanel>
+                                            <DockPanel LastChildFill="True" >
+                                                <TextBlock Text="Chaos Damage: " />
+                                                <TextBox DockPanel.Dock="Right" Width="50" Text="{Binding SpellMaxChaosD}" IsReadOnly="True" HorizontalAlignment="Right"/>
+                                                <TextBlock Text=" - " DockPanel.Dock="Right"/>
+                                                <TextBox DockPanel.Dock="Right" Width="50" Text="{Binding SpellMinChaosD}" IsReadOnly="True" HorizontalAlignment="Right"/>
+                                            </DockPanel>
+                                            <DockPanel  LastChildFill="True">
+                                                <TextBlock Text="Physical Damage: " />
+                                                <TextBox DockPanel.Dock="Right" Width="50" Text="{Binding SpellMaxPD}" IsReadOnly="True" HorizontalAlignment="Right"/>
+                                                <TextBlock Text=" - " DockPanel.Dock="Right"/>
+                                                <TextBox DockPanel.Dock="Right" Width="50" Text="{Binding SpellMinPD}" IsReadOnly="True" HorizontalAlignment="Right"/>
+                                            </DockPanel>
+                                            <DockPanel LastChildFill="True" >
+                                                <TextBlock Text="Cast Time: "/>
+                                                <TextBox Width="50" Text="{Binding CastTime}" IsReadOnly="True" HorizontalAlignment="Right"/>
+                                            </DockPanel>
+                                            <DockPanel LastChildFill="True" >
+                                                <TextBlock Text="Critical Strike Chance: "/>
+                                                <TextBox Width="50" Text="{Binding CritChanceSpell}" IsReadOnly="True" HorizontalAlignment="Right"/>
+                                            </DockPanel>
+                                            <DockPanel LastChildFill="True" >
+                                                <TextBlock Text="Critical Strike Damage MultiPlier: "/>
+                                                <TextBox Width="50" Text="{Binding CritMultiplierSpell}" IsReadOnly="True" HorizontalAlignment="Right"/>
+                                            </DockPanel>
+                                        </StackPanel>
+                                        <StackPanel Margin="0,5,0,0">
+                                            <TextBlock Text="Total: " />
+                                            <DockPanel LastChildFill="True">
+                                                <TextBlock Text="Casts Per Second: " />
+                                                <TextBox Width="50" Text="{Binding CastsPerSecond}" IsReadOnly="True" HorizontalAlignment="Right"/>
+                                            </DockPanel>
+                                            <DockPanel LastChildFill="True">
+                                                <TextBlock Text="Damage Per Second" />
+                                                <TextBox Width="50" Text="{Binding SpellSkillDPS}" IsReadOnly="True" HorizontalAlignment="Right"/>
+                                            </DockPanel>
+                                            <DockPanel LastChildFill="True" Visibility="{Binding DotVisibility}">
+                                                <TextBlock Text="Damage over Time" />
+                                                <TextBox Width="50" Text="{Binding SpellSkillDoT}" IsReadOnly="True" HorizontalAlignment="Right"/>
+                                            </DockPanel>
+                                        </StackPanel>
+                                    </StackPanel>
+                                </Expander>
+                            </StackPanel>
+                        </ScrollViewer>
+                    </Grid>
+                </Expander>
+                <Expander Header="Builds"  ExpandDirection="Right" IsHitTestVisible="True" Background="#FF9E9E78" HorizontalAlignment="Left">
+                    <Grid x:Name="gridBuildManager" Background="#FF9E9E78" HorizontalAlignment="Left">
+                        <TabControl SelectionChanged="buildsTabControl_SelectionChanged" Background="#FFE0E0AE">
+                            <TabItem Header="Saved builds">
+                                <ListView x:Name="lvSavedBuilds" Margin="4,26,4,29" HorizontalAlignment="Left" Width="232" ForceCursor="True" Background="#FFF0EED8">
+                                    <ListView.View>
+                                        <GridView>
+                                            <GridView.ColumnHeaderContainerStyle>
+                                                <Style>
+                                                    <Setter Property="UIElement.Visibility" Value="Collapsed"/>
+                                                </Style>
+                                            </GridView.ColumnHeaderContainerStyle>
+                                            <GridViewColumn/>
+                                        </GridView>
+                                    </ListView.View>
+                                </ListView>
+                            </TabItem>
+                            <TabItem Header="Build collection">
+                                <ListView x:Name="lvBuildCollection" Margin="4,26,4,29" HorizontalAlignment="Left" Width="232" ForceCursor="True" Background="#FFD3D1AD">
+                                    <ListView.View>
+                                        <GridView>
+                                            <GridView.ColumnHeaderContainerStyle>
+                                                <Style>
+                                                    <Setter Property="UIElement.Visibility" Value="Collapsed"/>
+                                                </Style>
+                                            </GridView.ColumnHeaderContainerStyle>
+                                            <GridViewColumn/>
+                                        </GridView>
+                                    </ListView.View>
+                                </ListView>
+                            </TabItem>
+                        </TabControl>
+                        <DockPanel VerticalAlignment="Top" HorizontalAlignment="Left" Margin="7,30,0,0">
+                            <TextBlock Text="Available Builds: " />
+                            <TextBlock x:Name="savedBuildsTB" VerticalAlignment="Top" HorizontalAlignment="Left" Text="{Binding Items.Count, ElementName=lvSavedBuilds}" />
+                            <TextBlock x:Name="collectedBuildsTB" VerticalAlignment="Top" HorizontalAlignment="Left" Text="{Binding Items.Count, ElementName=lvBuildCollection}" />
+                        </DockPanel>
+
+                        <Button x:Name="btnSaveNewBuild" Content="Save new" HorizontalAlignment="Left" Margin="4,0,163,3" VerticalAlignment="Bottom" Width="80" Click="btnSaveNewBuild_Click"/>
+                        <Button x:Name="btnOverwriteBuild" Content="Overwrite" Margin="152,0,0,3" VerticalAlignment="Bottom" Click="btnOverwriteBuild_Click" HorizontalAlignment="Left" Width="84"/>
+                        <Button x:Name="btnDelete" Content="Delete" Margin="88,0,91.273,3" VerticalAlignment="Bottom" Click="btnDelete_Click" HorizontalAlignment="Left" Width="60"/>
+                        <DockPanel VerticalAlignment="Bottom" Margin="0,0,0,3" >
+                            <Button x:Name="btnUpdateBuilds" Content="Update Builds" ToolTip="Search Pathofpoe.com for new builds" Width="100" Click="GetNewBuilds_Click" IsEnabled="True" Height="20" Margin="4,0,0,0"/>
+                            <Button x:Name="btnAddBuild" Content="Add" ToolTip="Adds current loaded build to the collection" Width="60" Click="btnAddBuild_Click"  IsEnabled="True" Height="20" Margin="3,0,0,0"/>
+                            <Button x:Name="btnRemoveBuild" Content="Remove" ToolTip="Removes selected build from the collection" Click="btnRemoveBuild_Click" IsEnabled="True" Height="20" Margin="3,0,9,0" />
+                        </DockPanel>
+                    </Grid>
+                </Expander>
+                <Label Height="23" HorizontalAlignment="Left" Margin="35,5,0,0" x:Name="textBox1" VerticalAlignment="Top" Width="110" Foreground="#FFF0F0F0" Visibility="Hidden" />
+                <Label Height="23" HorizontalAlignment="Left" Margin="35,30,0,0" x:Name="textBox2" VerticalAlignment="Top" Width="110" Foreground="#FFF0F0F0" Visibility="Hidden" />
+            </Grid>
+            <Grid Grid.Column="0" Margin="0,0,2,0">
+
+                <DockPanel LastChildFill="True" >
+                    <DockPanel DockPanel.Dock="Top" Height="25">
+                        <TextBlock Text="Character Class:" x:Name="lblClass"  Margin="0" Padding="0,3,0,0" />
+                        <ComboBox x:Name="cbCharType" Width="80" SelectionChanged="classComboBox_SelectionChanged" Margin="5,0,0,0">
+                            <ComboBoxItem Content="Scion" />
+                            <ComboBoxItem Content="Marauder" />
+                            <ComboBoxItem Content="Ranger" />
+                            <ComboBoxItem Content="Witch" IsSelected="True" />
+                            <ComboBoxItem Content="Duelist" />
+                            <ComboBoxItem Content="Templar" />
+                            <ComboBoxItem Content="Shadow" />
+                        </ComboBox>
+                        <TextBlock Text="Used Points:" x:Name="lblUsedPoints" Padding="0,3,0,0" Margin="20,0,0,0"/>
+                        <TextBox  x:Name="tbUsedPoints" Width="40" IsReadOnly="True" Padding="0" Margin="5,0,0,0" />
+                        <Button Content="Reset Tree" x:Name="button4" Click="btnReset_Click" Margin="15,0,0,0" />
+
+                    </DockPanel>
+                    <DockPanel DockPanel.Dock="Bottom" >
+                        <DockPanel DockPanel.Dock="Top">
+                            <Button Content="Copy Attributes to Clipboard" Height="23" HorizontalAlignment="Left" x:Name="btnCopyStats" Click="btnCopyStats_Click" Width="160" Margin="2,0,0,0" />
+                            <Button Content="Screenshot" Height="23" HorizontalAlignment="Right" x:Name="btnScreenShot" VerticalAlignment="Bottom" Width="160" Click="btnScreenShot_Click" Margin="0,0,2,0" />
+                        </DockPanel>
+                        <Button Content="Import Items" Height="23" x:Name="btnLoadItems"  Width="160" Click="btnImportItems_Click" Margin="2,0,0,0" />
+                        <Button x:Name="optimizerButton" Content="Build Optimizer" Height="23" Click="optimizerButton_Click" IsEnabled="False" Width="160" Margin="0,0,2,0" HorizontalAlignment="Right"/>
+                    </DockPanel>
+                    <TabControl x:Name="tabControl1" Background="#FF6C6934" >
+                        <TabItem Header="User Settings">
+                            <Grid Background="#FFD3D1AD">
+                                <StackPanel Margin="0,0,0,0">
+                                    <TextBlock Text="{Binding ActualWidth, ElementName=expander}"/>
+                                    <DockPanel>
+                                        <TextBlock Text="Character Level:" x:Name="lblLevel" Padding="0,1,0,0" Margin="0,0,5,0" />
+                                        <xctk:IntegerUpDown x:Name="levelNumericUpDown" ValueChanged="levelNumericUpDown_ValueChanged" Minimum="1" Maximum="100" />
+                                    </DockPanel>
+                                    <GroupBox Header="Difficulty:">
+                                        <StackPanel Orientation="Horizontal" x:Name="difficultyPanel">
+                                            <RadioButton x:Name="normalDiffRB" Checked="DifficultyRB_Checked">
+                                                <TextBlock Text="Normal " />
+                                            </RadioButton>
+                                            <RadioButton IsThreeState="True" x:Name="cruelDiffRB" Checked="DifficultyRB_Checked">
+                                                <TextBlock Text="Cruel " />
+                                            </RadioButton>
+                                            <RadioButton IsThreeState="True" x:Name="mercilessDiffRB" IsChecked="True" Checked="DifficultyRB_Checked">
+                                                <TextBlock Text="Merciless " />
+                                            </RadioButton>
+                                        </StackPanel>
+                                    </GroupBox>
+                                    <GroupBox Header="Bandit Quests:">
+                                        <Grid x:Name="banditsGrid">
+                                            <Grid.ColumnDefinitions>
+                                                <ColumnDefinition Width="*" />
+                                                <ColumnDefinition Width="*" />
+                                                <ColumnDefinition Width="*" />
+                                                <ColumnDefinition Width="*" />
+                                                <ColumnDefinition Width="*" />
+                                            </Grid.ColumnDefinitions>
+                                            <StackPanel Grid.Column="0">
+                                                <TextBlock Text="Normal:   " />
+                                                <TextBlock Text="Cruel:       " />
+                                                <TextBlock Text="Merciless:" />
+                                            </StackPanel>
+                                            <StackPanel Grid.Column="1">
+                                                <RadioButton ToolTip="+8% to all elemental resistances" GroupName="Normal" x:Name="normalKraitynRB" Checked="BanditQuestNormRB_Checked">
+                                                    <TextBlock Text="Kraityn " ToolTip="+8% to all elemental resistances"/>
+                                                </RadioButton>
+                                                <RadioButton ToolTip="+8% Attack Speed" GroupName="Cruel" x:Name="cruelKraitynRB" Checked="BanditQuestCruelRB_Checked">
+                                                    <TextBlock Text="Kraityn " ToolTip="+8% Attack Speed"/>
+                                                </RadioButton>
+                                                <RadioButton ToolTip="+1 Max Frenzy Charge" GroupName="Merciless" x:Name="mercilessKraitynRB" Checked="BanditQuestMercRB_Checked">
+                                                    <TextBlock Text="Kraityn " ToolTip="+1 Max Frenzy Charge"/>
+                                                </RadioButton>
+                                            </StackPanel>
+                                            <StackPanel Grid.Column="2">
+                                                <RadioButton  ToolTip="+40 base Mana" GroupName="Normal" x:Name="normalAliraRB" Checked="BanditQuestNormRB_Checked">
+                                                    <TextBlock Text="Alira " ToolTip="+40 base Mana"/>
+                                                </RadioButton>
+                                                <RadioButton  ToolTip="+4% Cast Speed" GroupName="Cruel" x:Name="cruelAliraRB" Checked="BanditQuestCruelRB_Checked">
+                                                    <TextBlock Text="Alira " ToolTip="+4% Cast Speed"/>
+                                                </RadioButton>
+                                                <RadioButton  ToolTip="+1 Max Power Charge" GroupName="Merciless" x:Name="mercilessAliraRB" Checked="BanditQuestMercRB_Checked">
+                                                    <TextBlock Text="Alira " ToolTip="+1 Max Power Charge"/>
+                                                </RadioButton>
+                                            </StackPanel>
+                                            <StackPanel Grid.Column="3">
+                                                <RadioButton GroupName="Normal" ToolTip="+40 base Life" x:Name="normalOakRB" Checked="BanditQuestNormRB_Checked">
+                                                    <TextBlock Text="Oak " ToolTip="+40 base Life" />
+                                                </RadioButton>
+                                                <RadioButton  GroupName="Cruel" ToolTip="+18% Physical Damage" x:Name="cruelOakRB" Checked="BanditQuestCruelRB_Checked">
+                                                    <TextBlock Text="Oak " ToolTip="+18% Physical Damage" />
+                                                </RadioButton>
+                                                <RadioButton GroupName="Merciless" ToolTip="+1 Max Endurance Charge" x:Name="mercilessOakRB" Checked="BanditQuestMercRB_Checked">
+                                                    <TextBlock Text="Oak " ToolTip="+1 Max Endurance Charge" />
+                                                </RadioButton>
+                                            </StackPanel>
+                                            <StackPanel Grid.Column="4">
+                                                <RadioButton IsChecked="True" GroupName="Normal" ToolTip="1 passive skill point" Checked="BanditQuestNormRB_Checked">
+                                                    <TextBlock Text="Kill All" ToolTip="1 passive skill point"/>
+                                                </RadioButton>
+                                                <RadioButton IsChecked="True" GroupName="Cruel" ToolTip="1 passive skill point" Checked="BanditQuestCruelRB_Checked">
+                                                    <TextBlock Text="Kill All" ToolTip="1 passive skill point"/>
+                                                </RadioButton>
+                                                <RadioButton IsChecked="True" GroupName="Merciless" ToolTip="1 passive skill point" Checked="BanditQuestMercRB_Checked">
+                                                    <TextBlock Text="Kill All" ToolTip="1 passive skill point"/>
+                                                </RadioButton>
+                                            </StackPanel>
+                                        </Grid>
+                                    </GroupBox>
+                                    <GroupBox Header="Number of active charges:">
+                                        <Grid x:Name="chargesGrid">
+                                            <Grid.ColumnDefinitions>
+                                                <ColumnDefinition Width="*" />
+                                                <ColumnDefinition Width="*" />
+                                                <ColumnDefinition Width="*" />
+                                            </Grid.ColumnDefinitions>
+                                            <DockPanel Grid.Column="0">
+                                                <TextBlock Text="Endurance" ToolTip="4% Additional Elemental Resistance per Endurance Charge.\n4% Physical Damage Reduction per Endurance Charge"/>
+                                                <xctk:IntegerUpDown ValueChanged="EnduranceCharge_ValueChanged" Value="0" Minimum="0" Maximum="{Binding MaxEndurance}" Margin="5,0,0,0" ToolTip="Set the value of active endurance charges"/>
+                                            </DockPanel>
+                                            <DockPanel Grid.Column="1" Margin="8,0,0,0">
+                                                <TextBlock Text="Frenzy" ToolTip="5% increased Attack Speed per Charge.\n5% increased Cast Speed per Charge"/>
+                                                <xctk:IntegerUpDown ValueChanged="FrenzyCharge_ValueChanged" Value="0" Minimum="0" Maximum="{Binding MaxFrenzy}" Margin="5,0,0,0" ToolTip="Set the value of active frenzy charges"/>
+                                            </DockPanel>
+                                            <DockPanel Grid.Column="2" Margin="8,0,0,0">
+                                                <TextBlock Text="Power" ToolTip="50% Critical Strike Chance Increase per Power Charge"/>
+                                                <xctk:IntegerUpDown ValueChanged="PowerCharge_ValueChanged" Value="0" Minimum="0" Maximum="{Binding MaxPower}" Margin="5,0,0,0" ToolTip="Set the value of active power charges"/>
+                                            </DockPanel>
+                                        </Grid>
+                                    </GroupBox>
+                                    <GroupBox Header="Auras:" >
+                                        <Grid x:Name="auraSettingsGrid">
+                                            <Grid.ColumnDefinitions>
+                                                <ColumnDefinition Width="*" />
+                                                <ColumnDefinition Width="0.9*" />
+                                                <ColumnDefinition Width="*" />
+                                            </Grid.ColumnDefinitions>
+                                            <StackPanel Grid.Column="0">
+                                                <DockPanel Margin="0,0,0,0">
+                                                    <TextBlock Text="Anger" ToolTip="Casts an aura that adds fire damage to the attacks of you and your allies."/>
+                                                    <xctk:IntegerUpDown ValueChanged="AngerAura_ValueChanged" Value="0" Minimum="0" Maximum="25" Margin="2,0,0,0" ToolTip="Set the value to Zero to disable this aura"/>
+                                                </DockPanel>
+                                                <DockPanel Margin="0,5,0,0">
+                                                    <TextBlock Text="Vitality" ToolTip="Casts an Aura that grants Health Regeneration based on a percentage of Maximum Health."/>
+                                                    <xctk:IntegerUpDown ValueChanged="VitalityAura_ValueChanged" Value="0" Minimum="0" Maximum="25" Margin="2,0,0,0" ToolTip="Set the value to Zero to disable this aura"/>
+                                                </DockPanel>
+                                                <DockPanel Margin="0,5,0,0">
+                                                    <TextBlock Text="Determination" ToolTip="Casts an Aura that enhances Armor by a percentage."/>
+                                                    <xctk:IntegerUpDown ValueChanged="DeterminationAura_ValueChanged" Value="0" Minimum="0" Maximum="25" Margin="2,0,0,0" ToolTip="Set the value to Zero to disable this aura"/>
+                                                </DockPanel>
+                                                <DockPanel Margin="0,5,0,0">
+                                                    <TextBlock Text="Purity of Fire" ToolTip="Casts an Aura that grants a bonus to Fire Resistance and Maximum Fire Resistance."/>
+                                                    <xctk:IntegerUpDown ValueChanged="PurityofFireAura_ValueChanged" Value="0" Minimum="0" Maximum="25" Margin="2,0,0,0" ToolTip="Set the value to Zero to disable this aura"/>
+                                                </DockPanel>
+                                            </StackPanel>
+                                            <StackPanel Grid.Column="1" Margin="3,0,0,0">
+                                                <DockPanel Margin="0,0,0,0">
+                                                    <TextBlock Text="Hatred" ToolTip="Casts an Aura that adds Cold damage, by a percentage of your physical damage, to any physical damage skill including spells."/>
+                                                    <xctk:IntegerUpDown ValueChanged="HatredAura_ValueChanged" Value="0" Minimum="0" Maximum="25" Margin="2,0,0,0" ToolTip="Set the value to Zero to disable this aura"/>
+                                                </DockPanel>
+                                                <DockPanel Margin="0,5,0,0">
+                                                    <TextBlock Text="Haste" ToolTip="Casts an Aura that increases Attack Speed, Cast Speed and Movement Speed."/>
+                                                    <xctk:IntegerUpDown ValueChanged="HasteAura_ValueChanged" Value="0" Minimum="0" Maximum="25" Margin="2,0,0,0" ToolTip="Set the value to Zero to disable this aura"/>
+                                                </DockPanel>
+                                                <DockPanel Margin="0,5,0,0">
+                                                    <TextBlock Text="Grace" ToolTip="Casts an Aura that grants Evasion Rating."/>
+                                                    <xctk:IntegerUpDown ValueChanged="GraceAura_ValueChanged" Value="0" Minimum="0" Maximum="25" Margin="2,0,0,0" ToolTip="Set the value to Zero to disable this aura"/>
+                                                </DockPanel>
+                                                <DockPanel Margin="0,5,0,0">
+                                                    <TextBlock Text="Purity of Ice" ToolTip="Casts an Aura that grants a bonus to Cold Resistance and Maximum Cold Resistance."/>
+                                                    <xctk:IntegerUpDown ValueChanged="PurityofIceAura_ValueChanged" Value="0" Minimum="0" Maximum="25" Margin="2,0,0,0" ToolTip="Set the value to Zero to disable this aura"/>
+                                                </DockPanel>
+                                            </StackPanel>
+                                            <StackPanel Grid.Column="2" Margin="3,0,0,0">
+                                                <DockPanel Margin="0,0,0,0">
+                                                    <TextBlock Text="Wrath" ToolTip="Casts an Aura that adds flat Lightning damage to attacks."/>
+                                                    <xctk:IntegerUpDown ValueChanged="WrathAura_ValueChanged" Value="0" Minimum="0" Maximum="25" Margin="2,0,0,0" ToolTip="Set the value to Zero to disable this aura"/>
+                                                </DockPanel>
+                                                <DockPanel Margin="0,5,0,0">
+                                                    <TextBlock Text="Discipline" ToolTip="Casts an Aura that grants Energy Shield."/>
+                                                    <xctk:IntegerUpDown ValueChanged="DisciplineAura_ValueChanged" Value="0" Minimum="0" Maximum="25" Margin="2,0,0,0" ToolTip="Set the value to Zero to disable this aura"/>
+                                                </DockPanel>
+                                                <DockPanel Margin="0,5,0,0">
+                                                    <TextBlock Text="Clarity" ToolTip="Casts an Aura that grants Mana Regeneration."/>
+                                                    <xctk:IntegerUpDown ValueChanged="ClarityAura_ValueChanged" Value="0" Minimum="0" Maximum="25" Margin="2,0,0,0" ToolTip="Set the value to Zero to disable this aura"/>
+                                                </DockPanel>
+                                                <DockPanel Margin="0,5,0,0">
+                                                    <TextBlock Text="P. of Lightning" ToolTip="Casts an Aura that grants a bonus to Lightning Resistance and Maximum Lightning Resistance."/>
+                                                    <xctk:IntegerUpDown ValueChanged="PofLightning_ValueChanged" Value="0" Minimum="0" Maximum="25" Margin="2,0,0,0" ToolTip="Set the value to Zero to disable this aura"/>
+                                                </DockPanel>
+                                                <DockPanel Margin="0,5,0,0">
+                                                    <TextBlock Text="P. of Elements" ToolTip="Casts an Aura that grants a bonus to all Elemental Resistances."/>
+                                                    <xctk:IntegerUpDown ValueChanged="PofElements_ValueChanged" Value="0" Minimum="0" Maximum="25" Margin="2,0,0,0" ToolTip="Set the value to Zero to disable this aura"/>
+                                                </DockPanel>
+                                            </StackPanel>
+                                        </Grid>
+                                    </GroupBox>
+                                    <GroupBox Header="Choose your active skill and it's supports:">
+                                        <StackPanel>
+                                            <ComboBox x:Name="skillsComboBox" Width="150" IsEditable="False" SelectionChanged="skillsComboBox_SelectionChanged" HorizontalAlignment="Left"  Margin="0,5,0,10" />
+                                            <WrapPanel Orientation="Horizontal" x:Name="supportSkillPanel"/>
+                                        </StackPanel>
+                                    </GroupBox>
+                                </StackPanel>
+                            </Grid>
+                        </TabItem>
+                        <TabItem Header="Passive Attributes" x:Name="passiveTabItem">
+                            <Grid Background="#FFD3D1AD">
+                                <ListBox Margin="0" x:Name="lbPassiveAttr" ItemsSource="{Binding}" Grid.ColumnSpan="2" Background="#FFD3D1AD">
+                                    <ListBox.GroupStyle>
+                                        <GroupStyle ContainerStyle="{StaticResource ContainerStyle}" />
+                                    </ListBox.GroupStyle>
+                                </ListBox>
+                            </Grid>
+                        </TabItem>
+                        <TabItem x:Name="itemTabItem" Header="Item Attributes" Margin="0">
+                            <Grid>
+                                <ListBox x:Name="lbItemAttr" Background="#FFD3D1AD">
+                                    <ListBox.ItemTemplate>
+                                        <DataTemplate>
+                                            <StackPanel>
+                                                <TextBlock><Run Text="{Binding ValuedAttribute, Mode=OneWay}" /><Run Text=" " /></TextBlock>
+                                            </StackPanel>
+                                        </DataTemplate>
+                                    </ListBox.ItemTemplate>
+                                    <ListBox.GroupStyle>
+                                        <GroupStyle ContainerStyle="{StaticResource ContainerStyle}" />
+                                    </ListBox.GroupStyle>
+                                </ListBox>
+                            </Grid>
+                        </TabItem>
+                        <TabItem x:Name="totalTabItem" Header="Total Attributes">
+                            <Grid>
+                                <ListBox x:Name="lbAllAttr" Background="#FFD3D1AD">
+                                    <ListBox.GroupStyle>
+                                        <GroupStyle ContainerStyle="{StaticResource ContainerStyle}" />
+                                    </ListBox.GroupStyle>
+                                </ListBox>
+                            </Grid>
+                        </TabItem>
+                    </TabControl>
+                </DockPanel>
+            </Grid>
+        </Grid>
+        <DockPanel Grid.Row="1">
+            <Label Content="Search:" Height="28" HorizontalAlignment="Left" x:Name="label3" VerticalContentAlignment="Center" Width="50" />
+            <TextBox Height="23" DockPanel.Dock="Left" HorizontalAlignment="Left" x:Name="tbSearch"  Width="284" TextChanged="tbSearch_TextChanged" ToolTip="Search in the skill tree for the special Attributes or nodes." />
+            <CheckBox Content="RegEx" Height="16" HorizontalAlignment="Left" DockPanel.Dock="Left" x:Name="checkBox1" Margin="15,0,0,0" ToolTip="Use regular expressions for searching in the tree." Foreground="Black" />
+            <Label x:Name="lblSkillURL" Content="Build link:" VerticalContentAlignment="Center" Margin="35,0,0,0"/>
+            <Button Content="Load build" DockPanel.Dock="Right" Height="23" HorizontalAlignment="Right" x:Name="btnLoadBuild" Width="75" Click="btnLoadBuild_Click" Margin="0,0,5,0" />
+            <TextBox Height="23"  x:Name="tbSkillURL" Text="http://www.pathofexile.com/passive-skill-tree/AAAAAgMA" MouseDoubleClick="tbSkillURL_MouseDoubleClick" />
+        </DockPanel>
+    </Grid>
+</Window>

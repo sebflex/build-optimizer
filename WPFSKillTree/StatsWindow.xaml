@@ -1,0 +1,288 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit" x:Class="POESKillTree.StatsWindow"
+        Title="StatsWindow" Height="600" Width="850">
+    <Grid Background="#FFD3D1AD">
+        <DockPanel LastChildFill="True" ScrollViewer.CanContentScroll="True">
+            <DockPanel DockPanel.Dock="Left" Margin="0,0,5,0">
+                <DockPanel>
+                    <TextBlock Text=" All Notable Skills and KeyStones:" DockPanel.Dock="Top"/>
+                    <ListBox x:Name="allNotableSkillsListBox" Background="#FFDCE8E8"/>
+                </DockPanel>
+                <StackPanel VerticalAlignment="Center">
+                    <Button x:Name="addToSelectedsBtn" Content="Add"  Height="25"  Width="34" Click="addToSelectedsBtn_Click"/>
+                    <Button x:Name="removefromSelectedsBtn" Content="Rem"  Height="25"  Width="34" Click="removefromSelectedsBtn_Click" Margin="0,10,0,0"/>
+                </StackPanel>
+                <DockPanel>
+                    <TextBlock Text="Must Have Skills:" DockPanel.Dock="Top"/>
+                    <ListBox x:Name="selectedSkillsListBox" Background="#FFDCE8E8"/>
+                </DockPanel>
+            </DockPanel>
+            <ScrollViewer>
+                <DockPanel>
+                    <GroupBox DockPanel.Dock="Top" Header="Modify Stats:" Background="#FF75CD71">
+                        <Grid Margin="0">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*" />
+                                <ColumnDefinition Width="*" />
+                            </Grid.ColumnDefinitions>
+                            <StackPanel Grid.Column="0" Margin="0,0,0,0">
+                                <DockPanel Margin="0,2">
+                                    <TextBlock Text="Strength:" />
+                                    <xctk:IntegerUpDown  Margin="10,0,0,0" Value="0" ValueChanged="strength_ValueChanged" MouseWheelActiveTrigger="MouseOver"/>
+                                </DockPanel>
+                                <DockPanel Margin="0,2">
+                                    <TextBlock Text="Dexterity:" />
+                                    <xctk:IntegerUpDown  Margin="10,0,0,0" Value="0" ValueChanged="dexterity_ValueChanged" MouseWheelActiveTrigger="MouseOver"/>
+                                </DockPanel>
+                                <DockPanel Margin="0,2">
+                                    <TextBlock Text="Intelligence:" />
+                                    <xctk:IntegerUpDown  Margin="10,0,0,0" Value="0" ValueChanged="intelligence_ValueChanged" MouseWheelActiveTrigger="MouseOver"/>
+                                </DockPanel>
+                                <DockPanel Margin="0,2">
+                                    <TextBlock Text="Armour:" />
+                                    <xctk:IntegerUpDown  Margin="10,0,0,0" Value="0" ValueChanged="Armour_ValueChanged" MouseWheelActiveTrigger="MouseOver"/>
+                                </DockPanel>
+                                <DockPanel Margin="0,2">
+                                    <TextBlock Text="% Increased Armour:" />
+                                    <xctk:IntegerUpDown  Margin="10,0,0,0" Value="0" ValueChanged="IncreasedArmour_ValueChanged" MouseWheelActiveTrigger="MouseOver"/>
+                                </DockPanel>
+                                <DockPanel Margin="0,2">
+                                    <TextBlock Text="Evasion Rating:" />
+                                    <xctk:IntegerUpDown  Margin="10,0,0,0" Value="0" ValueChanged="EvasionRating_ValueChanged" MouseWheelActiveTrigger="MouseOver"/>
+                                </DockPanel>
+                                <DockPanel Margin="0,2">
+                                    <TextBlock Text="% Increased Evasion:" />
+                                    <xctk:IntegerUpDown  Margin="10,0,0,0" Value="0" ValueChanged="IncreasedEvasion_ValueChanged" MouseWheelActiveTrigger="MouseOver"/>
+                                </DockPanel>
+                                <DockPanel Margin="0,2">
+                                    <TextBlock Text="To Maximum Life:" />
+                                    <xctk:IntegerUpDown  Margin="10,0,0,0" Value="0" ValueChanged="ToMaximumLife_ValueChanged" MouseWheelActiveTrigger="MouseOver"/>
+                                </DockPanel>
+                                <DockPanel Margin="0,2">
+                                    <TextBlock Text="% Increased Life:" />
+                                    <xctk:IntegerUpDown  Margin="10,0,0,0" Value="0" ValueChanged="IncreaseLife_ValueChanged" MouseWheelActiveTrigger="MouseOver"/>
+                                </DockPanel>
+                                <DockPanel Margin="0,2">
+                                    <TextBlock Text="To Maximum Energy Shield:" />
+                                    <xctk:IntegerUpDown  Margin="10,0,0,0" Value="0" ValueChanged="ToMaximumES_ValueChanged" MouseWheelActiveTrigger="MouseOver"/>
+                                </DockPanel>
+                                <DockPanel Margin="0,2">
+                                    <TextBlock Text="% Increased Energy Shield:" />
+                                    <xctk:IntegerUpDown  Margin="10,0,0,0" Value="0" ValueChanged="IncreasedES_ValueChanged" MouseWheelActiveTrigger="MouseOver"/>
+                                </DockPanel>
+                                <DockPanel Margin="0,2">
+                                    <TextBlock Text="To Maximum Mana:" />
+                                    <xctk:IntegerUpDown  Margin="10,0,0,0" Value="0" ValueChanged="ToMaximumMana_ValueChanged"/>
+                                </DockPanel>
+                                <DockPanel Margin="0,2">
+                                    <TextBlock Text="% Increased Mana:" />
+                                    <xctk:IntegerUpDown  Margin="10,0,0,0" Value="0" ValueChanged="IncreasedMana_ValueChanged" MouseWheelActiveTrigger="MouseOver"/>
+                                </DockPanel>
+                                <DockPanel Margin="0,2">
+                                    <TextBlock Text="+ Physical Damage:" />
+                                    <xctk:IntegerUpDown  Margin="10,0,0,0" Value="0" ValueChanged="ToPhysicalDamage_ValueChanged" MouseWheelActiveTrigger="MouseOver"/>
+                                </DockPanel>
+                                <DockPanel Margin="0,2">
+                                    <TextBlock Text="% Increased Physical Damage:" />
+                                    <xctk:IntegerUpDown  Margin="10,0,0,0" Value="0" ValueChanged="IncreasedPhysicalDamage_ValueChanged" MouseWheelActiveTrigger="MouseOver"/>
+                                </DockPanel>
+                            </StackPanel>
+                            <StackPanel Grid.Column="1" Margin="5,0,0,0">
+                                <DockPanel Margin="0,2">
+                                    <TextBlock Text="To Accuracy Rating:" />
+                                    <xctk:IntegerUpDown  Margin="10,0,0,0" Value="0" ValueChanged="ToAccuracyRating_ValueChanged" MouseWheelActiveTrigger="MouseOver"/>
+                                </DockPanel>
+                                <DockPanel Margin="0,2">
+                                    <TextBlock Text="% Increased Accuracy:" />
+                                    <xctk:IntegerUpDown  Margin="10,0,0,0" Value="0" ValueChanged="IncreasedAccuracy_ValueChanged" MouseWheelActiveTrigger="MouseOver"/>
+                                </DockPanel>
+                                <DockPanel Margin="0,2">
+                                    <TextBlock Text="% Increased Attack Speed:" />
+                                    <xctk:IntegerUpDown  Margin="10,0,0,0" Value="0" ValueChanged="IncreasedAS_ValueChanged" MouseWheelActiveTrigger="MouseOver"/>
+                                </DockPanel>
+                                <DockPanel Margin="0,2">
+                                    <TextBlock Text="% Increased Cast Speed:" />
+                                    <xctk:IntegerUpDown  Margin="10,0,0,0" Value="0" ValueChanged="IncreasedCS_ValueChanged" MouseWheelActiveTrigger="MouseOver"/>
+                                </DockPanel>
+                                <DockPanel Margin="0,2">
+                                    <TextBlock Text="% Increased Crit Chance:" />
+                                    <xctk:IntegerUpDown  Margin="10,0,0,0" Value="0" ValueChanged="IncreasedCritChance_ValueChanged"/>
+                                </DockPanel>
+                                <DockPanel Margin="0,2">
+                                    <TextBlock Text="% Increased Crit Multiplier:" />
+                                    <xctk:IntegerUpDown  Margin="10,0,0,0" Value="0" ValueChanged="IncreasedCritMultiplier_ValueChanged" MouseWheelActiveTrigger="MouseOver"/>
+                                </DockPanel>
+                                <DockPanel Margin="0,2">
+                                    <TextBlock Text="+ Cold Damage:" />
+                                    <xctk:IntegerUpDown  Margin="10,0,0,0" Value="0" ValueChanged="ToColdDamage_ValueChanged" MouseWheelActiveTrigger="MouseOver"/>
+                                </DockPanel>
+                                <DockPanel Margin="0,2">
+                                    <TextBlock Text="% Increased Cold Damage:" />
+                                    <xctk:IntegerUpDown  Margin="10,0,0,0" Value="0" ValueChanged="IncreasedColdDamage_ValueChanged" MouseWheelActiveTrigger="MouseOver"/>
+                                </DockPanel>
+                                <DockPanel Margin="0,2">
+                                    <TextBlock Text="+ Fire Damage:" />
+                                    <xctk:IntegerUpDown  Margin="10,0,0,0" Value="0" ValueChanged="ToFireDamage_ValueChanged" MouseWheelActiveTrigger="MouseOver"/>
+                                </DockPanel>
+                                <DockPanel Margin="0,2">
+                                    <TextBlock Text="% Increased Fire Damage:" />
+                                    <xctk:IntegerUpDown  Margin="10,0,0,0" Value="0" ValueChanged="IncreasedFireDamage_ValueChanged" MouseWheelActiveTrigger="MouseOver"/>
+                                </DockPanel>
+                                <DockPanel Margin="0,2">
+                                    <TextBlock Text="+ Lightning Damage:" />
+                                    <xctk:IntegerUpDown  Margin="10,0,0,0" Value="0" ValueChanged="ToLightDamage_ValueChanged" MouseWheelActiveTrigger="MouseOver"/>
+                                </DockPanel>
+                                <DockPanel Margin="0,2">
+                                    <TextBlock Text="% Increased Lightning Damage:" />
+                                    <xctk:IntegerUpDown  Margin="10,0,0,0" Value="0" ValueChanged="IncreasedLightDamage_ValueChanged" MouseWheelActiveTrigger="MouseOver"/>
+                                </DockPanel>
+                                <DockPanel Margin="0,2">
+                                    <TextBlock Text="+ Chaos Damage:" />
+                                    <xctk:IntegerUpDown  Margin="10,0,0,0" Value="0" ValueChanged="ToChaosDamage_ValueChanged" MouseWheelActiveTrigger="MouseOver"/>
+                                </DockPanel>
+                                <DockPanel Margin="0,2">
+                                    <TextBlock Text="% Increased Chaos Damage:" />
+                                    <xctk:IntegerUpDown  Margin="10,0,0,0" Value="0" ValueChanged="IncreasedChaosDamage_ValueChanged"/>
+                                </DockPanel>
+                                <DockPanel Margin="0,2">
+                                    <TextBlock Text="% Increased Elemental Damage:" />
+                                    <xctk:IntegerUpDown  Margin="10,0,0,0" Value="0" ValueChanged="IncreasedEleDamage_ValueChanged" MouseWheelActiveTrigger="MouseOver"/>
+                                </DockPanel>
+                            </StackPanel>
+                        </Grid>
+                    </GroupBox>
+                    <GroupBox x:Name="changeStatsGroupBox" DockPanel.Dock="Top" Header="Results:" Background="#FFAF58B8" >
+                        <Grid Margin="0">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="*" />
+                                <ColumnDefinition Width="*" />
+                            </Grid.ColumnDefinitions>
+                            <StackPanel Grid.Column="0" Margin="0,0,0,0">
+                                <DockPanel Margin="0,2">
+                                    <TextBlock Text="Life:" />
+                                    <TextBox Text="{Binding Path=LifeChange}" IsReadOnly="True" Margin="10,0,0,0"/>
+                                </DockPanel>
+                                <DockPanel Margin="0,2">
+                                    <TextBlock Text="Life Regenaration:" />
+                                    <TextBox Text="{Binding Path=LifeRegenChange}" IsReadOnly="True" Margin="10,0,0,0"/>
+                                </DockPanel>
+                                <DockPanel Margin="0,2">
+                                    <TextBlock Text="Mana:" />
+                                    <TextBox Text="{Binding Path=ManaChange}" IsReadOnly="True" Margin="10,0,0,0"/>
+                                </DockPanel>
+                                <DockPanel Margin="0,2">
+                                    <TextBlock Text="Mana Regenaration:" />
+                                    <TextBox Text="{Binding Path=ManaRegenChange}" IsReadOnly="True" Margin="10,0,0,0"/>
+                                </DockPanel>
+                                <DockPanel Margin="0,2">
+                                    <TextBlock Text="Energy Shield:" />
+                                    <TextBox Text="{Binding Path=EnergyShieldChange}" IsReadOnly="True" Margin="10,0,0,0"/>
+                                </DockPanel>
+                                <DockPanel Margin="0,2">
+                                    <TextBlock Text="Physical Damage Reduction:" />
+                                    <TextBox Text="{Binding Path=PhysDamageReducChange}" IsReadOnly="True" Margin="10,0,0,0" />
+                                </DockPanel>
+                                <DockPanel Margin="0,2">
+                                    <TextBlock Text="Chance to Evade:" />
+                                    <TextBox Text="{Binding Path=ChanceToEvadeChange}" IsReadOnly="True" Margin="10,0,0,0"/>
+                                </DockPanel>
+                            </StackPanel>
+                            <StackPanel Grid.Column="1" Margin="5,0,0,0">
+                                <DockPanel Margin="0,2">
+                                    <TextBlock Text="Main Hand Crit Chance:" />
+                                    <TextBox Text="{Binding Path=CritChanceMHChange}" IsReadOnly="True" Margin="10,0,0,0"/>
+                                </DockPanel>
+                                <DockPanel Margin="0,2">
+                                    <TextBlock Text="Off Hand Crit Chance:" />
+                                    <TextBox Text="{Binding Path=CritChanceOHChange}" IsReadOnly="True" Margin="10,0,0,0"/>
+                                </DockPanel>
+                                <DockPanel Margin="0,2">
+                                    <TextBlock Text="Spell Crit Chance:" />
+                                    <TextBox Text="{Binding Path=CritChanceSpellChange}" IsReadOnly="True" Margin="10,0,0,0"/>
+                                </DockPanel>
+                                <DockPanel Margin="0,2">
+                                    <StackPanel Orientation="Horizontal">
+                                        <TextBlock Text="{Binding Path=ActiveSkillGem.Name}" />
+                                        <TextBlock Text=" DPS:" />
+                                    </StackPanel>
+                                    <TextBox Text="{Binding Path=AttackSkillDPSChange}" IsReadOnly="True" Margin="10,0,0,0"/>
+                                </DockPanel>
+                            </StackPanel>
+                        </Grid>
+                    </GroupBox>
+
+                    <GroupBox x:Name="filterGroupBox" Header="Filter Builds Based On:" DockPanel.Dock="Bottom" Background="#FF72E3F5" Visibility="Collapsed">
+                        <Grid Margin="0">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="*" />
+                                <RowDefinition Height="Auto" />
+                            </Grid.RowDefinitions>
+                            <Grid Grid.Row="0">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*" />
+                                    <ColumnDefinition Width="*" />
+                                    <ColumnDefinition Width="0.75*" />
+                                </Grid.ColumnDefinitions>
+                                <StackPanel Grid.Column="0">
+                                    <DockPanel>
+                                        <TextBlock x:Name="maxSPTextBlock" Text="Max Used Points" ToolTip="Maximum number of passive skill points used in the build"/>
+                                        <TextBox x:Name="maxSPTextBox"  Margin="5,0,0,0" KeyDown="maxSPTextBox_KeyDown" LostFocus="maxSPTextBox_LostFocus"/>
+                                    </DockPanel>
+                                    <DockPanel>
+                                        <TextBlock x:Name="maxLifeTextBlock" Text="Maxdps" />
+                                        <TextBox x:Name="minLifeTextBox"  Margin="5,0,0,0" KeyDown="minLifeTextBox_KeyDown" LostFocus="minLifeTextBox_LostFocus"/>
+                                    </DockPanel>
+                                    <DockPanel >
+                                        <TextBlock x:Name="maxManaTextBlock" Text="Maxdps" />
+                                        <TextBox x:Name="minManaTextBox" Margin="5,0,0,0" KeyDown="minManaTextBox_KeyDown" LostFocus="minManaTextBox_LostFocus"/>
+                                    </DockPanel>
+                                    <DockPanel>
+                                        <TextBlock x:Name="maxEnergySTextBlock" Text="Maxdps"/>
+                                        <TextBox x:Name="minESTextBox" Margin="5,0,0,0" KeyDown="minESTextBox_KeyDown" LostFocus="minESTextBox_LostFocus"/>
+                                    </DockPanel>
+                                    <DockPanel>
+                                        <TextBlock x:Name="maxSpellCritTextBlock" Text="Maxdps"/>
+                                        <TextBox x:Name="minSpellCritTextBox" Margin="5,0,0,0" KeyDown="minSpellCritTextBox_KeyDown" LostFocus="minSpellCritTextBox_LostFocus"/>
+                                    </DockPanel>
+                                </StackPanel>
+                                <StackPanel Grid.Column="1">
+                                    <DockPanel Margin="10,0,0,0">
+                                        <TextBlock x:Name="maxDmgRedTextBlock" Text="maxDmgRedTextBlock" />
+                                        <TextBox x:Name="minDmgRedTextBox" Margin="5,0,0,0" KeyDown="minDmgRedTextBox_KeyDown" LostFocus="minDmgRedTextBox_LostFocus"/>
+                                    </DockPanel>
+                                    <DockPanel Margin="10,0,0,0">
+                                        <TextBlock x:Name="maxEvadeTextBlock" Text="Maxdps"/>
+                                        <TextBox x:Name="minEvasionTextBox" Margin="5,0,0,0" KeyDown="minEvasionTextBox_KeyDown" LostFocus="minEvasionTextBox_LostFocus"/>
+                                    </DockPanel>
+                                    <DockPanel Margin="10,0,0,0">
+                                        <TextBlock x:Name="maxBlockTextBlock" Text="Maxdps" />
+                                        <TextBox x:Name="minBlockTextBox" Margin="5,0,0,0" KeyDown="minBlockTextBox_KeyDown" LostFocus="minBlockTextBox_LostFocus"/>
+                                    </DockPanel>
+                                    <DockPanel Margin="10,0,0,0">
+                                        <TextBlock x:Name="maxCritMHTextBlock" Text="Maxdps" />
+                                        <TextBox x:Name="minCritMHTextBox" Margin="5,0,0,0" KeyDown="minCritMHTextBox_KeyDown" LostFocus="minCritMHTextBox_LostFocus"/>
+                                    </DockPanel>
+                                    <DockPanel Margin="10,0,0,0">
+                                        <TextBlock x:Name="maxCritOHTextBlock" Text="Maxdps" />
+                                        <TextBox x:Name="minCritOHTextBox" Margin="5,0,0,0" KeyDown="minCritOHTextBox_KeyDown" LostFocus="minCritOHTextBox_LostFocus"/>
+                                    </DockPanel>
+                                </StackPanel>
+                                <StackPanel Grid.Column="2">
+                                    <TextBlock x:Name="totalBuildsTextBlock"  Text="Total Builds" Margin="10,0,0,0"/>
+                                    <TextBlock x:Name="filteredBuildsTextBlock"  Text="filteredBuildsTextBlock" Margin="10,0,0,0"/>
+                                    <TextBlock x:Name="maxDPSTextBlock"  Text="DPS:" Margin="10,0,0,0"/>
+                                </StackPanel>
+                            </Grid>
+                            <DockPanel Grid.Row="1" Grid.Column="1">
+                                <TextBlock  Text="Highest DPS Build:" Margin="0,0,0,0"/>
+                                <TextBox x:Name="optBuildTextBox"  IsReadOnly="True" Margin="10,0,0,0" />
+                            </DockPanel>
+                        </Grid>
+                    </GroupBox>
+                </DockPanel>
+            </ScrollViewer>
+        </DockPanel>
+    </Grid>
+</Window>
